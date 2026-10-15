@@ -1,0 +1,26 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Audition Radar</title>
+<style>:root{--bg:#fafafa;--fg:#222;--card:#fff;--bd:#ddd}@media(prefers-color-scheme:dark){:root{--bg:#161616;--fg:#eee;--card:#222;--bd:#444}}
+body{font:15px system-ui;margin:0;background:var(--bg);color:var(--fg)}main{max-width:900px;margin:auto;padding:12px}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:10px;margin:8px 0}img{max-width:100%;max-height:260px;border-radius:6px}
+button,select,input{font:inherit;padding:6px;margin:2px;background:var(--card);color:var(--fg);border:1px solid var(--bd);border-radius:6px}
+.tab.on{background:#4a6cf7;color:#fff}.tag{font-size:12px;padding:1px 6px;border-radius:8px;background:#4a6cf733}.bad{color:#d33}</style></head><body><main>
+<h2>🎬 Audition Radar</h2><div id="ov"></div><div id="tabs"></div>
+<input id="q" placeholder="Search"> <select id="sort"><option value="first_seen">Newest found</option><option value="deadline">Deadline</option></select>
+<select id="st"><option value="">Any status</option><option>New</option><option>Reviewed</option><option>Interested</option><option>Applied</option><option>Ignored</option></select>
+<div id="list"></div><p><small>Statuses are saved only in this browser (localStorage).</small></p></main>
+<script>
+const $=id=>document.getElementById(id),esc=s=>String(s??'—').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+let D,tab='MATCH';const T=['MATCH','NEEDS REVIEW','REJECTED','ALL'];
+const S=()=>{try{return JSON.parse(localStorage.ar||'{}')}catch{return{}}},setS=(id,v)=>{try{const s=S();s[id]=v;localStorage.ar=JSON.stringify(s)}catch{}};
+fetch('data.json?'+Date.now()).then(r=>r.json()).then(d=>{D=d;draw()}).catch(e=>$('ov').textContent='Could not load data.json');
+function draw(){const sc=D.scans.at(-1)||{},o=D.opps,c=k=>o.filter(x=>x.class==k).length,fails=Object.entries(sc.sources||{}).filter(([k,v])=>!v.ok);
+$('ov').innerHTML=`<div class=card>Last scan: <b>${esc(sc.time&&new Date(sc.time).toLocaleString())}</b> · Health: <b class="${sc.health=='ok'?'':'bad'}">${esc(sc.health)}</b> · New this scan: ${esc(sc.new)}<br>Matches ${c('MATCH')} · Review ${c('NEEDS REVIEW')} · Rejected ${c('REJECTED')}${fails.map(([k,v])=>`<br class=bad>✗ ${esc(k)}: ${esc(v.error)}`).join('')}</div>`;
+$('tabs').innerHTML=T.map(t=>`<button class="tab ${t==tab?'on':''}" onclick="tab='${t}';draw()">${t}</button>`).join('');list()}
+function list(){const q=$('q').value.toLowerCase(),st=S();let r=D.opps.filter(x=>(tab=='ALL'||x.class==tab)&&(!q||JSON.stringify(x).toLowerCase().includes(q))&&(!$('st').value||(st[x.id]||'New')==$('st').value));
+if($('sort').value=='deadline')r.sort((a,b)=>(a.info.deadline||'9')>(b.info.deadline||'9')?1:-1);
+$('list').innerHTML=r.map(x=>`<div class=card><span class=tag>${esc(x.class)}</span> <b>${esc(x.title)}</b><br>${x.poster?`<img loading=lazy src="${esc(x.poster)}"><br>`:''}
+<small>Why: ${esc(x.reason)}<br>Deadline: ${esc(x.info.deadline)} · Location: ${esc(x.info.location)} · Type: ${esc(x.info.type)} · Posted: ${esc(x.published&&x.published.slice(0,10))}<br>Apply: ${esc(x.contact)}<br>Sources: ${esc(x.sources.join(', '))}</small>
+<details><summary>Text</summary><pre style="white-space:pre-wrap">${esc(x.text)}</pre></details>${x.urls.map(u=>`<a href="${esc(u)}" target=_blank rel=noopener>Original</a>`).join(' ')}
+<select onchange="setS('${x.id}',this.value)">${['New','Reviewed','Interested','Applied','Ignored'].map(s=>`<option ${((st[x.id]||'New')==s)?'selected':''}>${s}</option>`).join('')}</select></div>`).join('')||'<p>Nothing here.</p>'}
+['q','sort','st'].forEach(i=>$(i).oninput=()=>list());
+</script></body></html>

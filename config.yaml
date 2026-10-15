@@ -1,0 +1,30 @@
+# NOTE: this file is public if your repo is public. Keep DOB in the CHILD_DOB secret only.
+criteria:
+  gender: female
+  age_min: 1          # years (float ok)
+  age_max: 3
+  locations: [bengaluru, bangalore, kochi, cochin, ernakulam, kerala, karnataka, south india, pan india, all india, trivandrum, thiruvananthapuram, kozhikode, thrissur, മലയാളം, കൊച്ചി, കേരളം, ബെംഗളൂരു]
+  other_places: [mumbai, delhi, hyderabad, chennai, pune, kolkata, goa, chandigarh, jaipur, ahmedabad, lucknow]
+  include_types: [movie, film, short film, advertisement, ad film, tvc, web series, ott, serial, television, tv, campaign, brand, modelling, modeling, photoshoot, shoot, സിനിമ, പരസ്യം, സീരിയൽ]
+  casting_signals: [casting, audition, looking for, required, needed, wanted, apply, ആവശ്യമുണ്ട്, കാസ്റ്റിംഗ്, ഓഡിഷൻ, അവസരം]
+  exclude: [workshop, acting class, acting classes, course, training, portfolio shoot, paid portfolio, registration fee, join our academy, admission, ക്ലാസ്, ഫീസ്]
+  kid_words: [child, children, kid, kids, baby, toddler, infant, കുട്ടി, കുഞ്ഞ്, കുട്ടികൾ]
+scan:
+  lookback_days: 3
+  retention_days: 45
+  min_days_between_failure_emails: 1
+email:
+  include_needs_review: true
+sources:
+  instagram:            # handles; add/remove freely
+    - castingmalayalam
+    - malayalam_castingcalls
+    - navarasa.films
+  instagram_results_limit: 10
+  apify_actor: apify~instagram-scraper
+  search_queries:       # fallback + Facebook/web discovery (search-engine indexed)
+    - 'site:instagram.com castingmalayalam child casting'
+    - 'site:facebook.com casting call baby girl Kerala'
+    - 'casting call child artist Kochi Bangalore'
+    - 'kids casting ad film Bangalore toddler'
+  web_pages: []         # e.g. - {name: Example, url: https://example.com/casting}
