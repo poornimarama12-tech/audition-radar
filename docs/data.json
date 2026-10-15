@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T15:01:28.288529+05:30",
+ "generated": "2026-10-15T18:43:26.866987+05:30",
  "scans": [
   {
    "time": "2026-10-15T15:01:28.288529+05:30",
@@ -17,9 +17,52 @@
    "emailed": false,
    "email_error": "'ascii' codec can't encode character '\\xa0' in position 31: ordinal not in range(128)",
    "health": "degraded"
+  },
+  {
+   "time": "2026-10-15T18:43:26.866987+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 14
+    },
+    "search": {
+     "ok": false,
+     "error": "all search queries failed"
+    }
+   },
+   "new": 1,
+   "emailed": false,
+   "email_error": "'ascii' codec can't encode character '\\xa0' in position 31: ordinal not in range(128)",
+   "health": "degraded"
   }
  ],
  "opps": [
+  {
+   "id": "88220b1b505a",
+   "title": "#brandshoot #tvc #adshoot #castingcall #models",
+   "text": "#brandshoot #tvc #adshoot #castingcall #models\nലി\nSH ര |,\n\nBe KIDS\n\nKIDS apts Te\n) @ KOCHI & BANGALORE\n\n(©) WHATSAPP 8848936347 |",
+   "urls": [
+    "https://www.instagram.com/p/Deg9GZUJo16/"
+   ],
+   "sources": [
+    "instagram:castingmalayalam"
+   ],
+   "published": "2026-10-15T12:26:26.000Z",
+   "poster": "posters/88220b1b505a.jpg",
+   "first_seen": "2026-10-15T18:43:26.866987+05:30",
+   "last_seen": "2026-10-15T18:43:26.866987+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Possibly relevant but age unclear",
+   "info": {
+    "deadline": null,
+    "gender": "any",
+    "location": "bangalore",
+    "type": "tvc"
+   },
+   "contact": "8848936347",
+   "notified_class": null,
+   "scans": 1
+  },
   {
    "id": "74951a8a54b9",
    "title": "Casting call 🔥👉#malayalamcinema #castingcall",
@@ -125,7 +168,7 @@
    "published": "2026-10-12T16:06:24.000Z",
    "poster": "posters/831a21e2e777.jpg",
    "first_seen": "2026-10-15T15:01:28.288529+05:30",
-   "last_seen": "2026-10-15T15:01:28.288529+05:30",
+   "last_seen": "2026-10-15T18:43:26.866987+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but location unclear",
    "info": {
@@ -136,7 +179,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "8b8692c6ff05",
@@ -151,7 +194,7 @@
    "published": "2026-10-12T07:59:34.000Z",
    "poster": "posters/8b8692c6ff05.jpg",
    "first_seen": "2026-10-15T15:01:28.288529+05:30",
-   "last_seen": "2026-10-15T15:01:28.288529+05:30",
+   "last_seen": "2026-10-15T18:43:26.866987+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -159,7 +202,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "50cc115c12af",
@@ -174,13 +217,13 @@
    "published": "2026-10-14T06:02:51.000Z",
    "poster": "posters/50cc115c12af.jpg",
    "first_seen": "2026-10-15T15:01:28.288529+05:30",
-   "last_seen": "2026-10-15T15:01:28.288529+05:30",
+   "last_seen": "2026-10-15T18:43:26.866987+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "71ce545d84dc",
@@ -195,7 +238,7 @@
    "published": "2026-10-14T07:27:16.000Z",
    "poster": "posters/71ce545d84dc.jpg",
    "first_seen": "2026-10-15T15:01:28.288529+05:30",
-   "last_seen": "2026-10-15T15:01:28.288529+05:30",
+   "last_seen": "2026-10-15T18:43:26.866987+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -203,7 +246,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "e074aca8a5af",
@@ -218,7 +261,7 @@
    "published": "2026-10-12T13:26:00.000Z",
    "poster": "posters/e074aca8a5af.jpg",
    "first_seen": "2026-10-15T15:01:28.288529+05:30",
-   "last_seen": "2026-10-15T15:01:28.288529+05:30",
+   "last_seen": "2026-10-15T18:43:26.866987+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -226,7 +269,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "58407a83a637",
@@ -283,13 +326,13 @@
    "published": "2026-10-12T05:37:53.000Z",
    "poster": "posters/8feef41cd475.jpg",
    "first_seen": "2026-10-15T15:01:28.288529+05:30",
-   "last_seen": "2026-10-15T15:01:28.288529+05:30",
+   "last_seen": "2026-10-15T18:43:26.866987+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "ff0ec06ddb9a",
@@ -327,13 +370,13 @@
    "published": "2026-10-14T09:15:18.000Z",
    "poster": "posters/a334bd1d6a27.jpg",
    "first_seen": "2026-10-15T15:01:28.288529+05:30",
-   "last_seen": "2026-10-15T15:01:28.288529+05:30",
+   "last_seen": "2026-10-15T18:43:26.866987+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "0e5d014a04c9",
