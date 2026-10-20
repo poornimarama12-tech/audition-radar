@@ -442,13 +442,13 @@
    "published": "2026-10-17T05:24:18.000Z",
    "poster": "posters/d50d75816552.jpg",
    "first_seen": "2026-10-17T18:29:59.086833+05:30",
-   "last_seen": "2026-10-19T18:43:57.079140+05:30",
+   "last_seen": "2026-10-20T18:43:42.141234+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "52a405441208": {
    "id": "52a405441208",
@@ -464,7 +464,7 @@
    "published": "2026-10-16T19:11:57.000Z",
    "poster": "posters/52a405441208.jpg",
    "first_seen": "2026-10-17T18:29:59.086833+05:30",
-   "last_seen": "2026-10-19T18:43:57.079140+05:30",
+   "last_seen": "2026-10-20T18:43:42.141234+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but age unclear, location unclear",
    "info": {
@@ -475,7 +475,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "63b247079d5d": {
    "id": "63b247079d5d",
@@ -491,7 +491,7 @@
    "published": "2026-10-18T04:31:46.000Z",
    "poster": "posters/63b247079d5d.jpg",
    "first_seen": "2026-10-18T18:30:23.267011+05:30",
-   "last_seen": "2026-10-19T18:43:57.079140+05:30",
+   "last_seen": "2026-10-20T18:43:42.141234+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but location unclear",
    "info": {
@@ -502,7 +502,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "e9f68353fc29": {
    "id": "e9f68353fc29",
@@ -518,7 +518,7 @@
    "published": "2026-10-17T14:34:08.000Z",
    "poster": "posters/e9f68353fc29.jpg",
    "first_seen": "2026-10-18T18:30:23.267011+05:30",
-   "last_seen": "2026-10-19T18:43:57.079140+05:30",
+   "last_seen": "2026-10-20T18:43:42.141234+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -526,7 +526,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "1e78796e4b1b": {
    "id": "1e78796e4b1b",
@@ -542,13 +542,61 @@
    "published": "2026-10-18T14:39:07.000Z",
    "poster": "posters/1e78796e4b1b.jpg",
    "first_seen": "2026-10-19T18:43:57.079140+05:30",
-   "last_seen": "2026-10-19T18:43:57.079140+05:30",
+   "last_seen": "2026-10-20T18:43:42.141234+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
     "deadline": null
    },
    "contact": "7306942528, 8590065876",
+   "notified_class": null,
+   "scans": 2
+  },
+  "781e7670f397": {
+   "id": "781e7670f397",
+   "title": "Join Cmofficial for exclusive casting calls Whatsapp 8848936347 #serialcasting #heroine #m",
+   "text": "Join Cmofficial for exclusive casting calls\nWhatsapp 8848936347\n\n#serialcasting #heroine #malayalamcastingcall\nyf\nFLOWERS\n\nഫ്ളവേഴ്സ്‌ ചാനലില്‍\nപുതുതായി തുടങ്ങുന്ന 3\n\n| |\n| tu q\nCE w ev\n\nകയ\n\ngabe",
+   "key": "join cmofficial for exclusive casting calls whatsapp 8848936347 serialcasting heroine malayalamcastingcall yf flowers ഫ്ളവേഴ്സ് ചാനലില് പുതുതായി തുടങ്ങുന്ന 3    tu q ce w ev കയ gabe",
+   "urls": [
+    "https://www.instagram.com/p/DetGmlWJfj5/"
+   ],
+   "sources": [
+    "instagram:castingmalayalam"
+   ],
+   "published": "2026-10-20T05:40:24.000Z",
+   "poster": "posters/781e7670f397.jpg",
+   "first_seen": "2026-10-20T18:43:42.141234+05:30",
+   "last_seen": "2026-10-20T18:43:42.141234+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": "8848936347",
+   "notified_class": null,
+   "scans": 1
+  },
+  "11f15ad5f372": {
+   "id": "11f15ad5f372",
+   "title": "#diwalishoot #diwaliad #kidsshoot #kidsfashion",
+   "text": "#diwalishoot #diwaliad #kidsshoot #kidsfashion\nSALE AD\n\nBe a part of an upcoming\n\n——S——\n— വം. ച്‌\nAge Group Boys & Girls Category “—_\n5 - 12 Years Both can apply Digital Advertisement\n\nWhatsapp 8848936347",
+   "key": "diwalishoot diwaliad kidsshoot kidsfashion sale ad be a part of an upcoming s  വം ച് age group boys  girls category  5  12 years both can apply digital advertisement whatsapp 8848936347",
+   "urls": [
+    "https://www.instagram.com/p/DetH90kJaRM/"
+   ],
+   "sources": [
+    "instagram:castingmalayalam"
+   ],
+   "published": "2026-10-20T05:52:04.000Z",
+   "poster": "posters/11f15ad5f372.jpg",
+   "first_seen": "2026-10-20T18:43:42.141234+05:30",
+   "last_seen": "2026-10-20T18:43:42.141234+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "8848936347",
    "notified_class": null,
    "scans": 1
   }
@@ -652,6 +700,23 @@
     }
    },
    "new": 1,
+   "emailed": false,
+   "email_error": "'ascii' codec can't encode character '\\xa0' in position 31: ordinal not in range(128)",
+   "health": "degraded"
+  },
+  {
+   "time": "2026-10-20T18:43:42.141234+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 13
+    },
+    "search": {
+     "ok": false,
+     "error": "all search queries failed"
+    }
+   },
+   "new": 2,
    "emailed": false,
    "email_error": "'ascii' codec can't encode character '\\xa0' in position 31: ordinal not in range(128)",
    "health": "degraded"
