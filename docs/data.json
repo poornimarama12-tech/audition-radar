@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T12:33:49.485547+05:30",
+ "generated": "2026-10-21T12:58:34.085076+05:30",
  "scans": [
   {
    "time": "2026-10-15T15:01:28.288529+05:30",
@@ -203,6 +203,26 @@
    "emailed": false,
    "email_error": "Connection unexpectedly closed",
    "health": "degraded"
+  },
+  {
+   "time": "2026-10-21T12:58:34.085076+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 16
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 50
+    },
+    "search": {
+     "ok": false,
+     "error": "all search queries failed"
+    }
+   },
+   "new": 0,
+   "emailed": true,
+   "health": "degraded"
   }
  ],
  "opps": [
@@ -219,7 +239,7 @@
    "published": "2026-10-14T10:08:46.000Z",
    "poster": "posters/59c5365d1bf8.jpg",
    "first_seen": "2026-10-21T12:26:25.760546+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "REJECTED",
    "reason": "Expired (deadline 2026-10-15)",
    "info": {
@@ -227,7 +247,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "88c8b1524a61",
@@ -242,15 +262,15 @@
    "published": "2026-10-20T15:33:39.000Z",
    "poster": "posters/88c8b1524a61.jpg",
    "first_seen": "2026-10-21T11:49:43.920384+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
     "deadline": null
    },
    "contact": "marleystateofmind@gmail.com, +91 6238332494",
-   "notified_class": null,
-   "scans": 4
+   "notified_class": "NEEDS REVIEW",
+   "scans": 5
   },
   {
    "id": "eae61bd5969e",
@@ -265,13 +285,13 @@
    "published": "2026-10-20T22:40:09.000Z",
    "poster": "posters/eae61bd5969e.jpg",
    "first_seen": "2026-10-21T11:49:43.920384+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 4
+   "scans": 5
   },
   {
    "id": "44055b24dbfd",
@@ -286,7 +306,7 @@
    "published": "2026-10-20T18:59:42.000Z",
    "poster": "posters/44055b24dbfd.jpg",
    "first_seen": "2026-10-21T11:49:43.920384+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but age unclear, location unclear",
    "info": {
@@ -296,8 +316,8 @@
     "type": "advertisement"
    },
    "contact": "8848936347",
-   "notified_class": null,
-   "scans": 4
+   "notified_class": "NEEDS REVIEW",
+   "scans": 5
   },
   {
    "id": "d2b5b538996f",
@@ -312,7 +332,7 @@
    "published": "2026-10-18T15:13:17.000Z",
    "poster": "posters/d2b5b538996f.jpg",
    "first_seen": "2026-10-21T11:49:43.920384+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "REJECTED",
    "reason": "Expired (deadline 2026-10-20)",
    "info": {
@@ -320,7 +340,7 @@
    },
    "contact": "jam2000noreply@gmail.com",
    "notified_class": null,
-   "scans": 4
+   "scans": 5
   },
   {
    "id": "781e7670f397",
@@ -335,7 +355,7 @@
    "published": "2026-10-20T05:40:24.000Z",
    "poster": "posters/781e7670f397.jpg",
    "first_seen": "2026-10-20T18:43:42.141234+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -343,7 +363,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 5
+   "scans": 6
   },
   {
    "id": "11f15ad5f372",
@@ -358,15 +378,15 @@
    "published": "2026-10-20T05:52:04.000Z",
    "poster": "posters/11f15ad5f372.jpg",
    "first_seen": "2026-10-20T18:43:42.141234+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
     "deadline": null
    },
    "contact": "8848936347",
-   "notified_class": null,
-   "scans": 5
+   "notified_class": "NEEDS REVIEW",
+   "scans": 6
   },
   {
    "id": "1e78796e4b1b",
@@ -381,15 +401,15 @@
    "published": "2026-10-18T14:39:07.000Z",
    "poster": "posters/1e78796e4b1b.jpg",
    "first_seen": "2026-10-19T18:43:57.079140+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
     "deadline": null
    },
    "contact": "7306942528, 8590065876",
-   "notified_class": null,
-   "scans": 6
+   "notified_class": "NEEDS REVIEW",
+   "scans": 7
   },
   {
    "id": "63b247079d5d",
@@ -404,7 +424,7 @@
    "published": "2026-10-18T04:31:46.000Z",
    "poster": "posters/63b247079d5d.jpg",
    "first_seen": "2026-10-18T18:30:23.267011+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but location unclear",
    "info": {
@@ -414,8 +434,8 @@
     "type": "brand"
    },
    "contact": "8848936347",
-   "notified_class": null,
-   "scans": 7
+   "notified_class": "NEEDS REVIEW",
+   "scans": 8
   },
   {
    "id": "e9f68353fc29",
@@ -430,15 +450,15 @@
    "published": "2026-10-17T14:34:08.000Z",
    "poster": "posters/e9f68353fc29.jpg",
    "first_seen": "2026-10-18T18:30:23.267011+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
     "deadline": null
    },
    "contact": "8848936347",
-   "notified_class": null,
-   "scans": 7
+   "notified_class": "NEEDS REVIEW",
+   "scans": 8
   },
   {
    "id": "d50d75816552",
@@ -453,13 +473,13 @@
    "published": "2026-10-17T05:24:18.000Z",
    "poster": "posters/d50d75816552.jpg",
    "first_seen": "2026-10-17T18:29:59.086833+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 6
+   "scans": 7
   },
   {
    "id": "52a405441208",
@@ -474,7 +494,7 @@
    "published": "2026-10-16T19:11:57.000Z",
    "poster": "posters/52a405441208.jpg",
    "first_seen": "2026-10-17T18:29:59.086833+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but age unclear, location unclear",
    "info": {
@@ -484,8 +504,8 @@
     "type": "film"
    },
    "contact": "8848936347",
-   "notified_class": null,
-   "scans": 6
+   "notified_class": "NEEDS REVIEW",
+   "scans": 7
   },
   {
    "id": "ff4892001992",
@@ -500,7 +520,7 @@
    "published": "2026-10-16T12:31:44.000Z",
    "poster": "posters/ff4892001992.jpg",
    "first_seen": "2026-10-16T18:42:20.152301+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {
@@ -508,7 +528,7 @@
    },
    "contact": "8075730554, 9961854715",
    "notified_class": null,
-   "scans": 6
+   "scans": 7
   },
   {
    "id": "9ab41732a9bf",
@@ -523,7 +543,7 @@
    "published": "2026-10-16T07:29:17.000Z",
    "poster": "posters/9ab41732a9bf.jpg",
    "first_seen": "2026-10-16T18:42:20.152301+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -531,7 +551,7 @@
    },
    "contact": "7025767557, 7907394421, casting2026.mgp@gmail.com, 8179073944",
    "notified_class": null,
-   "scans": 6
+   "scans": 7
   },
   {
    "id": "88220b1b505a",
@@ -546,7 +566,7 @@
    "published": "2026-10-15T12:26:26.000Z",
    "poster": "posters/88220b1b505a.jpg",
    "first_seen": "2026-10-15T18:43:26.866987+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but age unclear",
    "info": {
@@ -556,8 +576,8 @@
     "type": "tvc"
    },
    "contact": "8848936347",
-   "notified_class": null,
-   "scans": 6
+   "notified_class": "NEEDS REVIEW",
+   "scans": 7
   },
   {
    "id": "74951a8a54b9",
@@ -674,7 +694,7 @@
     "type": "serial"
    },
    "contact": "8848936347",
-   "notified_class": null,
+   "notified_class": "NEEDS REVIEW",
    "scans": 3
   },
   {
@@ -713,13 +733,13 @@
    "published": "2026-10-14T06:02:51.000Z",
    "poster": "posters/50cc115c12af.jpg",
    "first_seen": "2026-10-15T15:01:28.288529+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 6
+   "scans": 7
   },
   {
    "id": "71ce545d84dc",
@@ -734,15 +754,15 @@
    "published": "2026-10-14T07:27:16.000Z",
    "poster": "posters/71ce545d84dc.jpg",
    "first_seen": "2026-10-15T15:01:28.288529+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
     "deadline": "2026-10-22"
    },
    "contact": "8848936347",
-   "notified_class": null,
-   "scans": 6
+   "notified_class": "NEEDS REVIEW",
+   "scans": 7
   },
   {
    "id": "e074aca8a5af",
@@ -850,7 +870,7 @@
     "deadline": null
    },
    "contact": null,
-   "notified_class": null,
+   "notified_class": "NEEDS REVIEW",
    "scans": 1
   },
   {
@@ -866,13 +886,13 @@
    "published": "2026-10-14T09:15:18.000Z",
    "poster": "posters/a334bd1d6a27.jpg",
    "first_seen": "2026-10-15T15:01:28.288529+05:30",
-   "last_seen": "2026-10-21T12:33:49.485547+05:30",
+   "last_seen": "2026-10-21T12:58:34.085076+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 6
+   "scans": 7
   },
   {
    "id": "0e5d014a04c9",
@@ -894,7 +914,7 @@
     "deadline": null
    },
    "contact": "85940 14193",
-   "notified_class": null,
+   "notified_class": "NEEDS REVIEW",
    "scans": 1
   }
  ]
