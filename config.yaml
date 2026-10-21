@@ -17,9 +17,18 @@ email:
   include_needs_review: true
 sources:
   instagram:            # handles; add/remove freely
-    - castingmalayalam
     - malayalam_castingcalls
     - navarasa.films
+    - arkproductions.official
+    - page3artist_institute
+    - castmeperfect
+    - auditionsarehere
+    - lukmancemodelmanagement
+    - launchpadcasting
+    - mirror_talents_india
+    - vivekanirudhcasting
+    - kinesis_casting_crew
+    - indriyaproductions
   instagram_results_limit: 10
   apify_actor: apify~instagram-scraper
   hashtags:
@@ -45,9 +54,5 @@ sources:
       - kidsmodelingcall
       - bangalorecastingcall
       - castingcallmalayalam
-  search_queries:       # fallback + Facebook/web discovery (search-engine indexed)
-    - 'site:instagram.com castingmalayalam child casting'
-    - 'site:facebook.com casting call baby girl Kerala'
-    - 'casting call child artist Kochi Bangalore'
-    - 'kids casting ad film Bangalore toddler'
+  search_queries: []   # disabled: search engines block GitHub's servers
   web_pages: []         # e.g. - {name: Example, url: https://example.com/casting}
