@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T18:43:42.141234+05:30",
+ "generated": "2026-10-21T11:49:43.920384+05:30",
  "scans": [
   {
    "time": "2026-10-15T15:01:28.288529+05:30",
@@ -119,9 +119,123 @@
    "emailed": false,
    "email_error": "'ascii' codec can't encode character '\\xa0' in position 31: ordinal not in range(128)",
    "health": "degraded"
+  },
+  {
+   "time": "2026-10-21T11:49:43.920384+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 8
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 50
+    },
+    "search": {
+     "ok": false,
+     "error": "all search queries failed"
+    }
+   },
+   "new": 4,
+   "emailed": false,
+   "email_error": "'ascii' codec can't encode character '\\xa0' in position 31: ordinal not in range(128)",
+   "health": "degraded"
   }
  ],
  "opps": [
+  {
+   "id": "88c8b1524a61",
+   "title": "🎬 CASTING CALL – മലയാളം സിനിമയിലേക്ക് പുതിയ അഭിനേതാക്കളെ തേടുന്നു! ഒരു പുതിയ ചിത്രത്തിലേക്",
+   "text": "🎬 CASTING CALL – മലയാളം സിനിമയിലേക്ക് പുതിയ അഭിനേതാക്കളെ തേടുന്നു!\n\nഒരു പുതിയ ചിത്രത്തിലേക്ക് താഴെ പറയുന്ന പ്രായത്തിലുള്ള അഭിനേതാക്കളെ ആവശ്യമുണ്ട്.\n\n🎭 ആവശ്യമായ കഥാപാത്രങ്ങൾ\n\n* 👦 കുട്ടികൾ: 10–17 വയസ്സ്\n\n* 👨 യുവ അഭിനേതാക്കൾ: 18–25 വയസ്സ്\n\n* 👴 മുതിർന്നവർ: 45–70 വയസ്സ്\n\n📩 അപേക്ഷിക്കേണ്ട വിധം\n\nതാൽപര്യമുള്ളവർ നിങ്ങളുടെ ഏറ്റവും പുതിയ ഫോട്ടോകളും പെർഫോമൻസ് വീഡിയോയും താഴെ നൽകിയിരിക്കുന്ന വിലാസങ്ങളിലേക്ക് അയക്കുക.\n\n📧 Email: marleystateofmind@gmail.com\n\n📲 WhatsApp: +91 6238332494\n\n🎥 അഭിനയിക്കാൻ താൽപര്യമുള്ളവർക്ക് ഈ അവസരം പ്രയോജനപ്പെടുത്താം!\nCASTING CALL\n\nസെന്ന ഫിഥില്വെ സംവിധാനം ബെയ്യുന്ന\nന്നി\n\npales കാഞ്ഞങ്ങാട്‌ ഭാഷ കൈകാര്യം\n\nഖെയ്യാ൯ കഴിയുന്ന\n\nകാമാരക്കാര്‍\nആണ്‍കുട്ടികള്‍\n\nപൂരുഷനാ൪\n\nഅതഛര്യമുള്ളവ൪ നിങ്ങളുടെ പെ൪ഃഫാഥ൯സ്‌ വീഡിയോയും,\nഫോട്ടോയും താഴെ ന്തകിയിരിക്കുന്ന WHATSAPP\nന്പനിഭലഭക്കാ, EMAIL വിലാസത്തിലേഭക്കോ അയയ്ക്കുക.\n\nmarleystateofmind@gmail.com\n\n+91 6238332494",
+   "urls": [
+    "https://www.instagram.com/p/DeuKf3dThoW/"
+   ],
+   "sources": [
+    "instagram:malayalam_castingcalls"
+   ],
+   "published": "2026-10-20T15:33:39.000Z",
+   "poster": "posters/88c8b1524a61.jpg",
+   "first_seen": "2026-10-21T11:49:43.920384+05:30",
+   "last_seen": "2026-10-21T11:49:43.920384+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "marleystateofmind@gmail.com, +91 6238332494",
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "eae61bd5969e",
+   "title": "Happy Birthday Chettaa 🍰",
+   "text": "Happy Birthday Chettaa 🍰",
+   "urls": [
+    "https://www.instagram.com/p/Deu7EufTqbE/"
+   ],
+   "sources": [
+    "instagram:mayoon_v_"
+   ],
+   "published": "2026-10-20T22:40:09.000Z",
+   "poster": "posters/eae61bd5969e.jpg",
+   "first_seen": "2026-10-21T11:49:43.920384+05:30",
+   "last_seen": "2026-10-21T11:49:43.920384+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "44055b24dbfd",
+   "title": "Join Cmofficial for exclusive casting calls #malemodels #femalemodels #kidsmodels #brandsh",
+   "text": "Join Cmofficial for exclusive casting calls \n\n#malemodels #femalemodels #kidsmodels #brandshoot #castingcall\nCASTING ‘4\nCALL.\n\nETHNIC WEAR\nAD SHOOT\n\nLooking for fresh faces for\nan upcoming ethnic wear\nadvertisement shoot.\n\n4൩...\n2 wane J\nba oS v7\n\nqa WHATSAPP 8848936347\n\n_ ങ്ങ നത... . നൻ ളു",
+   "urls": [
+    "https://www.instagram.com/p/DeuiG3Th9ki/"
+   ],
+   "sources": [
+    "instagram:castingmalayalam"
+   ],
+   "published": "2026-10-20T18:59:42.000Z",
+   "poster": "posters/44055b24dbfd.jpg",
+   "first_seen": "2026-10-21T11:49:43.920384+05:30",
+   "last_seen": "2026-10-21T11:49:43.920384+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Possibly relevant but age unclear, location unclear",
+   "info": {
+    "deadline": null,
+    "gender": "female",
+    "location": null,
+    "type": "advertisement"
+   },
+   "contact": "8848936347",
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "d2b5b538996f",
+   "title": "👶🤍 NEWBORN BABY CASTING CALL – BRISTOL & SURROUNDING AREAS! 🤍👶 ✨ Calling all NEW MUMS in B",
+   "text": "👶🤍 NEWBORN BABY CASTING CALL – BRISTOL & SURROUNDING AREAS! 🤍👶\n\n✨ Calling all NEW MUMS in Bristol, Bath, Somerset, Gloucestershire and the surrounding areas! ✨\n\nDo you have a beautiful little newborn who could be perfect for a HUGE TV SERIES? 🎬📺\n\nJAM2000 Agency is looking for a newborn baby for an exciting filming opportunity in BRISTOL on Tuesday 20th October! 🍼🤍\n\n🌟 Huge TV series\n🚗 Transport provided by production\n🏨 Accommodation if required provided by production\n\nWe'd particularly love to hear from parents with tiny newborns who would be interested in this fantastic opportunity!\n\n📩 TO APPLY: Email jam2000noreply@gmail.com \n\n📍 MUMS IN BRISTOL – PLEASE SHARE THIS POST! We would love to reach local families with newborn babies, so please tag a new mum or share with your local parenting groups. 💕👶\n\n#JAM2000Agency #NewbornCasting #NewbornBaby #BabyCastingCall #BristolMums #BristolMummy #BristolParents #BristolBabies #BristolMumsAndBabies #BathMums #SomersetMums #GloucestershireMums #SouthWestMums #NewbornPhotography #BabyModel #BabyModelling #TVCasting #TVProduction #CastingCall #BabyOnSet #NewMum #NewbornLife #BristolFamilies #UKCasting\na\n\nNEWBORN BABY\nREQUIRED\n\nTUESDAY 20TH OCTOBER\n\n_ EMAIL jam2000noreply@gmail.com",
+   "urls": [
+    "https://www.instagram.com/p/Deo-nWlCJCT/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-10-18T15:13:17.000Z",
+   "poster": "posters/d2b5b538996f.jpg",
+   "first_seen": "2026-10-21T11:49:43.920384+05:30",
+   "last_seen": "2026-10-21T11:49:43.920384+05:30",
+   "class": "REJECTED",
+   "reason": "Expired (deadline 2026-10-20)",
+   "info": {
+    "deadline": "2026-10-20"
+   },
+   "contact": "jam2000noreply@gmail.com",
+   "notified_class": null,
+   "scans": 1
+  },
   {
    "id": "781e7670f397",
    "title": "Join Cmofficial for exclusive casting calls Whatsapp 8848936347 #serialcasting #heroine #m",
@@ -135,7 +249,7 @@
    "published": "2026-10-20T05:40:24.000Z",
    "poster": "posters/781e7670f397.jpg",
    "first_seen": "2026-10-20T18:43:42.141234+05:30",
-   "last_seen": "2026-10-20T18:43:42.141234+05:30",
+   "last_seen": "2026-10-21T11:49:43.920384+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -143,7 +257,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "11f15ad5f372",
@@ -158,7 +272,7 @@
    "published": "2026-10-20T05:52:04.000Z",
    "poster": "posters/11f15ad5f372.jpg",
    "first_seen": "2026-10-20T18:43:42.141234+05:30",
-   "last_seen": "2026-10-20T18:43:42.141234+05:30",
+   "last_seen": "2026-10-21T11:49:43.920384+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -166,7 +280,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "1e78796e4b1b",
@@ -181,7 +295,7 @@
    "published": "2026-10-18T14:39:07.000Z",
    "poster": "posters/1e78796e4b1b.jpg",
    "first_seen": "2026-10-19T18:43:57.079140+05:30",
-   "last_seen": "2026-10-20T18:43:42.141234+05:30",
+   "last_seen": "2026-10-21T11:49:43.920384+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -189,7 +303,7 @@
    },
    "contact": "7306942528, 8590065876",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "63b247079d5d",
@@ -204,7 +318,7 @@
    "published": "2026-10-18T04:31:46.000Z",
    "poster": "posters/63b247079d5d.jpg",
    "first_seen": "2026-10-18T18:30:23.267011+05:30",
-   "last_seen": "2026-10-20T18:43:42.141234+05:30",
+   "last_seen": "2026-10-21T11:49:43.920384+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but location unclear",
    "info": {
@@ -215,7 +329,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   {
    "id": "e9f68353fc29",
@@ -230,7 +344,7 @@
    "published": "2026-10-17T14:34:08.000Z",
    "poster": "posters/e9f68353fc29.jpg",
    "first_seen": "2026-10-18T18:30:23.267011+05:30",
-   "last_seen": "2026-10-20T18:43:42.141234+05:30",
+   "last_seen": "2026-10-21T11:49:43.920384+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -238,7 +352,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   {
    "id": "d50d75816552",
