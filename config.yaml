@@ -22,6 +22,29 @@ sources:
     - navarasa.films
   instagram_results_limit: 10
   apify_actor: apify~instagram-scraper
+  hashtags:
+    enabled: true
+    apify_actor: apify~instagram-hashtag-scraper
+    batch_size: 5          # 15 hashtags / 5 per day = whole list covered every 3 days
+    results_limit: 10      # posts per hashtag per scan
+    max_ocr_posts: 40      # cap on hashtag posts sent to OCR per scan
+    always: []
+    list:
+      - castingcallkerala
+      - kidscastingcall
+      - adfilmcasting
+      - castingcallbangalore
+      - babycastingcall
+      - malayalamcastingcall
+      - childartistcasting
+      - kidsadcasting
+      - kochicastingcall
+      - toddlercasting
+      - keralacastingcall
+      - kidscastingkerala
+      - kidsmodelingcall
+      - bangalorecastingcall
+      - castingcallmalayalam
   search_queries:       # fallback + Facebook/web discovery (search-engine indexed)
     - 'site:instagram.com castingmalayalam child casting'
     - 'site:facebook.com casting call baby girl Kerala'

@@ -40,6 +40,42 @@ def col_instagram(cfg):
     log("instagram: handles with data:", sorted(h for h in seen_handles if h))
     return out
 
+
+def apify_run(actor, body, token, wait=600):
+    """Async run + poll (the sync endpoint times out at 300s)."""
+    import time
+    r = requests.post(f"https://api.apify.com/v2/acts/{actor}/runs", params={"token": token}, json=body, timeout=60)
+    r.raise_for_status(); run = r.json()["data"]; t0 = time.time()
+    while run["status"] in ("READY", "RUNNING") and time.time() - t0 < wait:
+        time.sleep(10)
+        run = requests.get(f"https://api.apify.com/v2/actor-runs/{run['id']}", params={"token": token}, timeout=60).json()["data"]
+    if run["status"] != "SUCCEEDED": raise RuntimeError(f"apify run {run['status']} (check Apify console)")
+    d = requests.get(f"https://api.apify.com/v2/datasets/{run['defaultDatasetId']}/items", params={"token": token, "clean": "true"}, timeout=120)
+    d.raise_for_status(); return d.json()
+
+def pick_hashtags(h):
+    always = h.get("always", []); rest = [x for x in h["list"] if x not in always]; n = h.get("batch_size", 5)
+    start = (NOW.timetuple().tm_yday * n) % max(len(rest), 1)
+    rot = [rest[(start + i) % len(rest)] for i in range(min(n, len(rest)))]
+    return list(dict.fromkeys(always + rot))
+
+def col_hashtags(cfg):
+    h = cfg["sources"].get("hashtags") or {}
+    if not h.get("enabled"): return []
+    token = os.getenv("APIFY_TOKEN")
+    if not token: raise RuntimeError("APIFY_TOKEN not set")
+    tags = pick_hashtags(h); log("hashtags today:", tags)
+    items = apify_run(h["apify_actor"], {"hashtags": tags, "resultsType": "posts", "resultsLimit": h.get("results_limit", 10)}, token)
+    out = []
+    for it in items:
+        if it.get("error") or not (it.get("url") or it.get("shortCode")): continue
+        imgs = [it.get("displayUrl")] + [c.get("displayUrl") for c in (it.get("childPosts") or [])] + list(it.get("images") or [])
+        imgs = [i for i in dict.fromkeys(imgs) if i]
+        out.append(dict(source="hashtag:#" + str(it.get("hashtag") or "tag"), url=it.get("url") or f"https://www.instagram.com/p/{it.get('shortCode')}/",
+                        text=it.get("caption") or "", date=it.get("timestamp"), images=imgs[:6], prefilter=True))
+    if not out: raise RuntimeError("hashtag scraper returned 0 posts (hashtag pages may need login; see README)")
+    return out
+
 def col_search(cfg):
     out, errs = [], 0
     for q in cfg["sources"].get("search_queries", []):
@@ -74,7 +110,7 @@ def col_web(cfg):
                 except Exception as e: log("web item failed", link, e)
     return out
 
-COLLECTORS = {"instagram": col_instagram, "search": col_search, "web": col_web}
+COLLECTORS = {"instagram": col_instagram, "hashtags": col_hashtags, "search": col_search, "web": col_web}
 
 # ---------- OCR + poster ----------
 def ocr_and_poster(post, oid):
@@ -192,10 +228,16 @@ def run(sample=False, lookback=None):
         for name, fn in COLLECTORS.items():
             if name == "instagram" and not cfg["sources"].get("instagram"): continue
             if name == "web" and not cfg["sources"].get("web_pages"): continue
+            if name == "hashtags" and not (cfg["sources"].get("hashtags") or {}).get("enabled"): continue
             try: got = fn(cfg); posts += got; scan["sources"][name] = {"ok": True, "count": len(got)}; log(name, "ok", len(got))
             except Exception as e: scan["sources"][name] = {"ok": False, "error": str(e)[:300]}; log(name, "FAILED", e)
     cutoff = NOW - dt.timedelta(days=cfg["scan"]["lookback_days"] + 1)
+    ocr_left = (cfg["sources"].get("hashtags") or {}).get("max_ocr_posts", 40)
     for p in posts:
+        if p.get("prefilter"):   # hashtag firehose: only keep posts whose caption mentions casting
+            if not any(w.lower() in p["text"].lower() for w in cfg["criteria"]["casting_signals"]): continue
+            if ocr_left <= 0: p["images"] = []
+            else: ocr_left -= 1
         try:
             if p.get("date") and dt.datetime.fromisoformat(str(p["date"]).replace("Z", "+00:00")) < cutoff: continue
         except Exception: pass
