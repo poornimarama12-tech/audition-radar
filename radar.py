@@ -206,6 +206,9 @@ def contact(t):
 # ---------- email ----------
 def send_mail(subject, html):
     u, p, to = os.getenv("SMTP_USER"), os.getenv("SMTP_PASS"), os.getenv("EMAIL_TO") or os.getenv("SMTP_USER")
+    clean = lambda x: re.sub(r"[\s\u200b\ufeff]+", "", x or "")   # copy-pasted app passwords often contain non-breaking spaces
+    u, p = clean(u), clean(p)
+    to = ", ".join(x.strip() for x in re.split(r"[,;]", to or "") if x.strip())
     if not (u and p): log("SMTP not configured; skipping email:", subject); return False
     m = MIMEText(html, "html", "utf-8"); m["Subject"], m["From"], m["To"] = subject, u, to
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=60) as s: s.login(u, p); s.send_message(m)
