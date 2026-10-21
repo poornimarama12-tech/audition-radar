@@ -161,13 +161,13 @@
    "published": "2026-10-14T06:02:51.000Z",
    "poster": "posters/50cc115c12af.jpg",
    "first_seen": "2026-10-15T15:01:28.288529+05:30",
-   "last_seen": "2026-10-17T18:29:59.086833+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 4
+   "scans": 5
   },
   "71ce545d84dc": {
    "id": "71ce545d84dc",
@@ -183,7 +183,7 @@
    "published": "2026-10-14T07:27:16.000Z",
    "poster": "posters/71ce545d84dc.jpg",
    "first_seen": "2026-10-15T15:01:28.288529+05:30",
-   "last_seen": "2026-10-17T18:29:59.086833+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -191,7 +191,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 4
+   "scans": 5
   },
   "e074aca8a5af": {
    "id": "e074aca8a5af",
@@ -321,13 +321,13 @@
    "published": "2026-10-14T09:15:18.000Z",
    "poster": "posters/a334bd1d6a27.jpg",
    "first_seen": "2026-10-15T15:01:28.288529+05:30",
-   "last_seen": "2026-10-17T18:29:59.086833+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 4
+   "scans": 5
   },
   "0e5d014a04c9": {
    "id": "0e5d014a04c9",
@@ -367,7 +367,7 @@
    "published": "2026-10-15T12:26:26.000Z",
    "poster": "posters/88220b1b505a.jpg",
    "first_seen": "2026-10-15T18:43:26.866987+05:30",
-   "last_seen": "2026-10-18T18:30:23.267011+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but age unclear",
    "info": {
@@ -378,7 +378,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 4
+   "scans": 5
   },
   "ff4892001992": {
    "id": "ff4892001992",
@@ -394,7 +394,7 @@
    "published": "2026-10-16T12:31:44.000Z",
    "poster": "posters/ff4892001992.jpg",
    "first_seen": "2026-10-16T18:42:20.152301+05:30",
-   "last_seen": "2026-10-19T18:43:57.079140+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {
@@ -402,7 +402,7 @@
    },
    "contact": "8075730554, 9961854715",
    "notified_class": null,
-   "scans": 4
+   "scans": 5
   },
   "9ab41732a9bf": {
    "id": "9ab41732a9bf",
@@ -418,7 +418,7 @@
    "published": "2026-10-16T07:29:17.000Z",
    "poster": "posters/9ab41732a9bf.jpg",
    "first_seen": "2026-10-16T18:42:20.152301+05:30",
-   "last_seen": "2026-10-19T18:43:57.079140+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -426,7 +426,7 @@
    },
    "contact": "7025767557, 7907394421, casting2026.mgp@gmail.com, 8179073944",
    "notified_class": null,
-   "scans": 4
+   "scans": 5
   },
   "d50d75816552": {
    "id": "d50d75816552",
@@ -442,13 +442,13 @@
    "published": "2026-10-17T05:24:18.000Z",
    "poster": "posters/d50d75816552.jpg",
    "first_seen": "2026-10-17T18:29:59.086833+05:30",
-   "last_seen": "2026-10-20T18:43:42.141234+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 4
+   "scans": 5
   },
   "52a405441208": {
    "id": "52a405441208",
@@ -464,7 +464,7 @@
    "published": "2026-10-16T19:11:57.000Z",
    "poster": "posters/52a405441208.jpg",
    "first_seen": "2026-10-17T18:29:59.086833+05:30",
-   "last_seen": "2026-10-20T18:43:42.141234+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but age unclear, location unclear",
    "info": {
@@ -475,7 +475,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 4
+   "scans": 5
   },
   "63b247079d5d": {
    "id": "63b247079d5d",
@@ -491,7 +491,7 @@
    "published": "2026-10-18T04:31:46.000Z",
    "poster": "posters/63b247079d5d.jpg",
    "first_seen": "2026-10-18T18:30:23.267011+05:30",
-   "last_seen": "2026-10-21T12:00:19.306041+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but location unclear",
    "info": {
@@ -502,7 +502,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 5
+   "scans": 6
   },
   "e9f68353fc29": {
    "id": "e9f68353fc29",
@@ -518,7 +518,7 @@
    "published": "2026-10-17T14:34:08.000Z",
    "poster": "posters/e9f68353fc29.jpg",
    "first_seen": "2026-10-18T18:30:23.267011+05:30",
-   "last_seen": "2026-10-21T12:00:19.306041+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -526,7 +526,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 5
+   "scans": 6
   },
   "1e78796e4b1b": {
    "id": "1e78796e4b1b",
@@ -542,7 +542,7 @@
    "published": "2026-10-18T14:39:07.000Z",
    "poster": "posters/1e78796e4b1b.jpg",
    "first_seen": "2026-10-19T18:43:57.079140+05:30",
-   "last_seen": "2026-10-21T12:00:19.306041+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -550,7 +550,7 @@
    },
    "contact": "7306942528, 8590065876",
    "notified_class": null,
-   "scans": 4
+   "scans": 5
   },
   "781e7670f397": {
    "id": "781e7670f397",
@@ -566,7 +566,7 @@
    "published": "2026-10-20T05:40:24.000Z",
    "poster": "posters/781e7670f397.jpg",
    "first_seen": "2026-10-20T18:43:42.141234+05:30",
-   "last_seen": "2026-10-21T12:00:19.306041+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -574,7 +574,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "11f15ad5f372": {
    "id": "11f15ad5f372",
@@ -590,7 +590,7 @@
    "published": "2026-10-20T05:52:04.000Z",
    "poster": "posters/11f15ad5f372.jpg",
    "first_seen": "2026-10-20T18:43:42.141234+05:30",
-   "last_seen": "2026-10-21T12:00:19.306041+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -598,7 +598,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "88c8b1524a61": {
    "id": "88c8b1524a61",
@@ -614,7 +614,7 @@
    "published": "2026-10-20T15:33:39.000Z",
    "poster": "posters/88c8b1524a61.jpg",
    "first_seen": "2026-10-21T11:49:43.920384+05:30",
-   "last_seen": "2026-10-21T12:00:19.306041+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -622,7 +622,7 @@
    },
    "contact": "marleystateofmind@gmail.com, +91 6238332494",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "eae61bd5969e": {
    "id": "eae61bd5969e",
@@ -638,13 +638,13 @@
    "published": "2026-10-20T22:40:09.000Z",
    "poster": "posters/eae61bd5969e.jpg",
    "first_seen": "2026-10-21T11:49:43.920384+05:30",
-   "last_seen": "2026-10-21T12:00:19.306041+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "44055b24dbfd": {
    "id": "44055b24dbfd",
@@ -660,7 +660,7 @@
    "published": "2026-10-20T18:59:42.000Z",
    "poster": "posters/44055b24dbfd.jpg",
    "first_seen": "2026-10-21T11:49:43.920384+05:30",
-   "last_seen": "2026-10-21T12:00:19.306041+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but age unclear, location unclear",
    "info": {
@@ -671,7 +671,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "d2b5b538996f": {
    "id": "d2b5b538996f",
@@ -687,7 +687,7 @@
    "published": "2026-10-18T15:13:17.000Z",
    "poster": "posters/d2b5b538996f.jpg",
    "first_seen": "2026-10-21T11:49:43.920384+05:30",
-   "last_seen": "2026-10-21T12:00:19.306041+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
    "class": "REJECTED",
    "reason": "Expired (deadline 2026-10-20)",
    "info": {
@@ -695,7 +695,31 @@
    },
    "contact": "jam2000noreply@gmail.com",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
+  },
+  "59c5365d1bf8": {
+   "id": "59c5365d1bf8",
+   "title": "CALLING ALL LITTLE MONSTERS, WITCHES & SPOOKY SUPERSTARS! Your little one could be the STA",
+   "text": "CALLING ALL LITTLE MONSTERS, WITCHES & SPOOKY SUPERSTARS!\n\nYour little one could be the STAR of our Halloween Brand Film!\n\nWe’re casting kids for a fun-filled shoot at Curious Kids, and there’s a spooky-good treat waiting for you!\n\n🎁 Get FREE Full-Day Access worth ₹2,500!\n📅 Shoot Date: 15th October\n\nThink your little star has what it takes?\n\n👇 Comment “HALLOWEEN” below to participate, and our team will get in touch with you!\n\nLet’s make some Halloween magic together!\n\n#CuriousKids #KidsCastingCall #BengaluruKids #KidsBrandFilm #BangaloreParents\nCOMMENT\n\net TO PARTICIPATE!\n\nOur team will get in touch with you.\n\nae",
+   "key": "calling all little monsters witches  spooky superstars your little one could be the star of our halloween brand film were casting kids for a funfilled shoot at curious kids and theres a spookygood treat waiting for you  get free fullday access worth 2500  shoot date 15th october think your little star has what it takes  comment halloween below to participate and our team will get in touch with you lets make some halloween magic together curiouskids kidscastingcall bengalurukids kidsbrandfilm bangaloreparents comment et to participate our team will get in touch with you ae",
+   "urls": [
+    "https://www.instagram.com/p/DeeIMNJThTj/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-10-14T10:08:46.000Z",
+   "poster": "posters/59c5365d1bf8.jpg",
+   "first_seen": "2026-10-21T12:26:25.760546+05:30",
+   "last_seen": "2026-10-21T12:26:25.760546+05:30",
+   "class": "REJECTED",
+   "reason": "Expired (deadline 2026-10-15)",
+   "info": {
+    "deadline": "2026-10-15"
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
   }
  },
  "scans": [
@@ -856,6 +880,27 @@
     }
    },
    "new": 0,
+   "emailed": false,
+   "email_error": "'ascii' codec can't encode character '\\xa0' in position 31: ordinal not in range(128)",
+   "health": "degraded"
+  },
+  {
+   "time": "2026-10-21T12:26:25.760546+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 16
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 50
+    },
+    "search": {
+     "ok": false,
+     "error": "all search queries failed"
+    }
+   },
+   "new": 1,
    "emailed": false,
    "email_error": "'ascii' codec can't encode character '\\xa0' in position 31: ordinal not in range(128)",
    "health": "degraded"
