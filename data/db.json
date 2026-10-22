@@ -542,7 +542,7 @@
    "published": "2026-10-18T14:39:07.000Z",
    "poster": "posters/1e78796e4b1b.jpg",
    "first_seen": "2026-10-19T18:43:57.079140+05:30",
-   "last_seen": "2026-10-21T18:44:25.254034+05:30",
+   "last_seen": "2026-10-22T18:48:22.942325+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -550,7 +550,7 @@
    },
    "contact": "7306942528, 8590065876",
    "notified_class": "NEEDS REVIEW",
-   "scans": 10
+   "scans": 11
   },
   "781e7670f397": {
    "id": "781e7670f397",
@@ -561,12 +561,13 @@
     "https://www.instagram.com/p/DetGmlWJfj5/"
    ],
    "sources": [
-    "instagram:castingmalayalam"
+    "instagram:castingmalayalam",
+    "hashtag:#tag"
    ],
    "published": "2026-10-20T05:40:24.000Z",
    "poster": "posters/781e7670f397.jpg",
    "first_seen": "2026-10-20T18:43:42.141234+05:30",
-   "last_seen": "2026-10-21T13:07:08.092856+05:30",
+   "last_seen": "2026-10-22T18:48:22.942325+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -574,7 +575,7 @@
    },
    "contact": "8848936347",
    "notified_class": null,
-   "scans": 7
+   "scans": 8
   },
   "11f15ad5f372": {
    "id": "11f15ad5f372",
@@ -614,7 +615,7 @@
    "published": "2026-10-20T15:33:39.000Z",
    "poster": "posters/88c8b1524a61.jpg",
    "first_seen": "2026-10-21T11:49:43.920384+05:30",
-   "last_seen": "2026-10-21T18:44:25.254034+05:30",
+   "last_seen": "2026-10-22T18:48:22.942325+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -622,7 +623,7 @@
    },
    "contact": "marleystateofmind@gmail.com, +91 6238332494",
    "notified_class": "NEEDS REVIEW",
-   "scans": 8
+   "scans": 9
   },
   "eae61bd5969e": {
    "id": "eae61bd5969e",
@@ -638,13 +639,13 @@
    "published": "2026-10-20T22:40:09.000Z",
    "poster": "posters/eae61bd5969e.jpg",
    "first_seen": "2026-10-21T11:49:43.920384+05:30",
-   "last_seen": "2026-10-21T18:44:25.254034+05:30",
+   "last_seen": "2026-10-22T18:48:22.942325+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 8
+   "scans": 9
   },
   "44055b24dbfd": {
    "id": "44055b24dbfd",
@@ -829,13 +830,13 @@
    "published": "2026-10-21T06:43:32.000Z",
    "poster": "posters/0b2f0d2f8496.jpg",
    "first_seen": "2026-10-21T13:42:41.382349+05:30",
-   "last_seen": "2026-10-21T18:44:25.254034+05:30",
+   "last_seen": "2026-10-22T18:48:22.942325+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "b1d1fa80153f": {
    "id": "b1d1fa80153f",
@@ -875,13 +876,13 @@
    "published": "2026-10-20T07:06:36.000Z",
    "poster": "posters/3d7169d38cfe.jpg",
    "first_seen": "2026-10-21T13:42:41.382349+05:30",
-   "last_seen": "2026-10-21T18:44:25.254034+05:30",
+   "last_seen": "2026-10-22T18:48:22.942325+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "06219213bf18": {
    "id": "06219213bf18",
@@ -897,7 +898,7 @@
    "published": "2026-10-19T10:27:27.000Z",
    "poster": "posters/06219213bf18.jpg",
    "first_seen": "2026-10-21T13:42:41.382349+05:30",
-   "last_seen": "2026-10-21T18:44:25.254034+05:30",
+   "last_seen": "2026-10-22T18:48:22.942325+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -905,7 +906,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "bf4fccfac0b2": {
    "id": "bf4fccfac0b2",
@@ -921,13 +922,133 @@
    "published": "2026-10-20T13:22:51.000Z",
    "poster": "posters/bf4fccfac0b2.jpg",
    "first_seen": "2026-10-21T13:42:41.382349+05:30",
-   "last_seen": "2026-10-21T18:44:25.254034+05:30",
+   "last_seen": "2026-10-22T18:48:22.942325+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
     "deadline": null
    },
    "contact": "8943382660",
+   "notified_class": null,
+   "scans": 3
+  },
+  "803cf439e413": {
+   "id": "803cf439e413",
+   "title": "Navarasa Films Production No-3 #film #filmmaking",
+   "text": "Navarasa Films\nProduction No-3\n\n#film #filmmaking",
+   "key": "navarasa films production no3 film filmmaking",
+   "urls": [
+    "https://www.instagram.com/p/Dex02HOslYj/"
+   ],
+   "sources": [
+    "instagram:mayoon_v_"
+   ],
+   "published": "2026-10-22T01:46:20.000Z",
+   "poster": "posters/803cf439e413.jpg",
+   "first_seen": "2026-10-22T18:48:22.942325+05:30",
+   "last_seen": "2026-10-22T18:48:22.942325+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "74e2ff2f30ef": {
+   "id": "74e2ff2f30ef",
+   "title": "A new release for Sugarfit Malayalam 😁🙌. I like these rare opportunities where I get to sp",
+   "text": "A new release for Sugarfit Malayalam 😁🙌. \nI like these rare opportunities where I get to speak in my native language. I do hope more cinema folks see some potential and hire me 😇🙌. \n\n#loveforacting #adfilm #mablethomasactress #creator #bangaloremodel malayalamreel makayalam mallugram mollywood malayaliactress malluactress\nrf\nie\n\nചെയ്തതിന്‌",
+   "key": "a new release for sugarfit malayalam  i like these rare opportunities where i get to speak in my native language i do hope more cinema folks see some potential and hire me  loveforacting adfilm mablethomasactress creator bangaloremodel malayalamreel makayalam mallugram mollywood malayaliactress malluactress rf ie ചെയ്തതിന്",
+   "urls": [
+    "https://www.instagram.com/p/DeyY-uKzmoK/"
+   ],
+   "sources": [
+    "instagram:mablethomasofficial"
+   ],
+   "published": "2026-10-22T06:57:45.000Z",
+   "poster": "posters/74e2ff2f30ef.jpg",
+   "first_seen": "2026-10-22T18:48:22.942325+05:30",
+   "last_seen": "2026-10-22T18:48:22.942325+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "64baba248c27": {
+   "id": "64baba248c27",
+   "title": "🚨🎬 CBS’ “CIA” IS CASTING TODDLER TWINS IN NEW YORK! 👀🔥 Got adorable little ones who belong",
+   "text": "🚨🎬 CBS’ “CIA” IS CASTING TODDLER TWINS IN NEW YORK! 👀🔥\n\nGot adorable little ones who belong on TV? 📺✨ CBS’ “CIA” is looking for young boys to appear as background actors in the series!\n\nTWINS WANTED — BUT SINGLE CHILD SUBMISSIONS ARE ALSO ACCEPTED! 👶💙\n\n🎬 TV Series: CBS’ “CIA”\n👦 Casting: Twin boys, ages 2–4\n🌎 Look: Boys who can portray Hispanic/Latino children\n👶 Also accepted: Individual boys who fit the role\n📍 Location: Long Island, New York\n🎭 Role: Paid background actors\n📸 Submission: Child's name, current photo, clothing sizes & date of birth\n\nIf your little ones are comfortable in front of the camera, this could be their chance to make a TV debut on a CBS series! 🌟🎥\n\nApply now at 👉 www.projectcasting.com/jobs\n\n👇 Comment “INTERESTED” for the casting details, and TAG or SHARE this with a parent who has toddler twins or a little boy who could be perfect for the role! 👶🔥\n\n#ProjectCasting #CBSCIA #CBSCasting #KidsCasting #ToddlerCasting #TwinCasting #ChildActors #LongIslandCasting #NewYorkCasting #BackgroundActors #TVExtras #PaidCasting #CastingCall\n* ——— ര ം പി\nത ജിം ° ECT CASHING\n— ~ വ. ESTING CAMS =\n- മി * @ «\nal om ളം\nമി ക\n=. ത” «\na ആ . തി\nഅ = . ക -\nഅത a ae Bo\nനി [ ത ൭.\n- 2 9 — - വ്യു\n\nCASTING CALL\nCBS TV SERIES. CIA’\nCASTING CALL FOR\nFEATURED TALENT",
+   "key": " cbs cia is casting toddler twins in new york  got adorable little ones who belong on tv  cbs cia is looking for young boys to appear as background actors in the series twins wanted  but single child submissions are also accepted   tv series cbs cia  casting twin boys ages 24  look boys who can portray hispaniclatino children  also accepted individual boys who fit the role  location long island new york  role paid background actors  submission childs name current photo clothing sizes  date of birth if your little ones are comfortable in front of the camera this could be their chance to make a ",
+   "urls": [
+    "https://www.instagram.com/p/Deu-UtBHWuL/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-10-20T23:06:20.000Z",
+   "poster": "posters/64baba248c27.jpg",
+   "first_seen": "2026-10-22T18:48:22.942325+05:30",
+   "last_seen": "2026-10-22T18:48:22.942325+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Possibly relevant but location unclear",
+   "info": {
+    "deadline": null,
+    "gender": "any",
+    "location": null,
+    "type": "tv"
+   },
+   "contact": null,
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  "9a2b5ab7b206": {
+   "id": "9a2b5ab7b206",
+   "title": "#gwciseeking 2 year old boy to look 18 months old for scene on Netflix limited series DOLC",
+   "text": "#gwciseeking 2 year old boy to look 18 months old for scene on Netflix limited series DOLCE in NJ metro area!\n\n..\n..\n..\n..\n#babycasting #toddlercasting #extrascasting #grantwilfleycasting #newjersey #newjerseyparents #newjerseybabies #twins #twinscasting #netflix\nGWCI IS SEEKING\n\nPEOPLE FOR PAID BACKGROUND WORK ON\nLIMITED SERIES ‘DOLCE’ TO PORTRAY:\n\n2m BARS OEDEBON\n\nWHITE MALE TODDLER 18 MONTHS - 2 YEARS\n\nTENTATIVE SHOOT DATES:\n10/22 IN NJ\n\nSINGLE BABY RATE: $350/8HRS\nTWINS RATE: $500/8HRS\n\nSAGAFTRA COVERED BACKGROUND ROLE\n\n\nTO SUBMIT:\n\nEMAIL ALL THE FOLLOWING TO DOLCE@GWCNYC.COM\nWITH SUBJECT LINE “2YO OSCAR”\n\n¢ YOUR CHILD'S NAME, AGE, AND DATE OF BIRTH\n\n¢ GUARDIAN/PARENT'S NAME & PHONE NUMBER\n\n¢ IS CHILD A SAGAFTRA MEMBER OR NON-SAG?\n\n൦ ARE YOU LOCAL TO NJ OR NY AREA?\n\n¢ CHILD'S HEIGHT, APPROXIMATE WEIGHT, CURRENT\nCLOTHING & SHOE SIZES\n\n¢ ATTACH CLEAR, RECENT PHOTOS THAT REPRESENT\nYOUR CHILD'S CURRENT LOOK & HAIR. A FULL BODY\nPHOTO IS ALSO HELPFUL!\n\nTHIS BACKGROUND ROLE IS COVERED BY A SAG-AFTRA CBA.\nMUST HAVE VALID ID FOR I-9 VERIFICATION IN ACCORDANCE WITH FEDERAL LAW.\n*“HEIGHT, WEIGHT, AND CLOTHING SIZES ARE ASKED FOR COSTUMING PURPOSES ONLY.\n\n*“IF CHILD DOESN'T HAVE NJ WORK PERMIT, CASTING CAN PROVIDE INSTRUCTION ON\nHOW TO OBTAIN ONE.",
+   "key": "gwciseeking 2 year old boy to look 18 months old for scene on netflix limited series dolce in nj metro area     babycasting toddlercasting extrascasting grantwilfleycasting newjersey newjerseyparents newjerseybabies twins twinscasting netflix gwci is seeking people for paid background work on limited series dolce to portray 2m bars oedebon white male toddler 18 months  2 years tentative shoot dates 1022 in nj single baby rate 3508hrs twins rate 5008hrs sagaftra covered background role to submit email all the following to dolcegwcnyccom with subject line 2yo oscar  your childs name age and date",
+   "urls": [
+    "https://www.instagram.com/p/DesDZFVlHJo/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-10-19T19:52:44.000Z",
+   "poster": "posters/9a2b5ab7b206.jpg",
+   "first_seen": "2026-10-22T18:48:22.942325+05:30",
+   "last_seen": "2026-10-22T18:48:22.942325+05:30",
+   "class": "REJECTED",
+   "reason": "Boys only",
+   "info": {
+    "deadline": null
+   },
+   "contact": "DOLCE@GWCNYC.COM",
+   "notified_class": null,
+   "scans": 1
+  },
+  "59a8838b465c": {
+   "id": "59a8838b465c",
+   "title": "🎬 CASTING CALL | PILOT FILM MOUNT MOON MOVIES PRESENTS A LOVE DRAMA We are looking for fre",
+   "text": "🎬 CASTING CALL | PILOT FILM\n\nMOUNT MOON MOVIES PRESENTS\n\nA LOVE DRAMA\n\nWe are looking for fresh and talented faces for an upcoming Pilot Film.\n\nROLES OPEN:\n• Female Lead – Heroine-centric role\n• Male Friend Characters – Supporting roles\n• Supporting Female Character\n\nFreshers can apply for all roles.\n\n📍 Shoot Location: Chennai Only (Preferred)\n🎥 Auditions Start: November 2026\n\nHOW TO APPLY:\nSend your recent photographs and a short introduction + acting video to our official contact.\n\n📞 8939493799\n📧 hr.mountmoonmovies@gmail.com\n\nMount Moon Movies\nDiscovering fresh talent for the next story. 🎬\n\n#ᴛʀᴇɴᴅɪɴɢᴘᴏsᴛ #ᴛʀᴇɴᴅɪɴɢɴᴏᴡ #trendingreel #auditions #mumbaicasting\n\n🎬 CASTING CALL | PILOT FILM\n\nMOUNT MOON MOVIES PRESENTS\n\nA LOVE DRAMA\n\nWe are looking for fresh and talented faces for an upcoming Pilot Film.\n\nROLES OPEN:\n• Female Lead – Heroine-centric role\n• Male Friend Characters – Supporting roles\n• Supporting Female Character\n\nFreshers can apply for all roles.\n\n📍 Shoot Location: Chennai Only (Preferred)\n🎥 Auditions Start: November 2026\n\nHOW TO APPLY:\nSend your recent photographs and a short introduction + acting video to our official contact.\n\n📞 8939493799\n📧 hr.mountmoonmovies@gmail.com\n\nMount Moon Movies\nDiscovering fresh talent for the next story. 🎬\n\n#tamilcastingcall #tamilaudition #audition #castingcall #chennaicasting\n\n🎬 CASTING CALL | PILOT FILM\n\nMOUNT MOON MOVIES PRESENTS\n\nA LOVE DRAMA\n\nWe are looking for fresh and talented faces for an upcoming Pilot Film.\n\nROLES OPEN:\n• Female Lead – Heroine-centric role\n• Male Friend Characters – Supporting roles\n• Supporting Female Character\n\nFreshers can apply for all roles.\n\n📍 Shoot Location: Chennai Only (Preferred)\n🎥 Auditions Start: November 2026\n\nHOW TO APPLY:\nSend your recent photographs and a short introduction + acting video to our official contact.\n\n📞 8939493799\n📧 hr.mountmoonmovies@gmail.com\n\nMount Moon Movies\nDiscovering fresh talent for the next story. 🎬\n#malayalamcastingcall\n#heroine #cinemachance #trendingreels #trend\nMOUNT MOON MOVIES\nPRESENTS\n\n9.0\nA LOVE DRAMA .\n\nPILOT FILM\n\n| CASTING CALL 5\n\nWE ARE LOOKING FOR &\n\n__ FRESH FACES 7\n\nച്‌ +\n\nCONTACT US\n\n@ 8939493799\n\n൭ hr.mountmoonmovies@gmail.com\n\n+\n\nFRESHERS CAN APPLY\ni\" FOR ALL ROLES\n\n\nPRESENTS\n\n1. ക്‌ 4 . .\nWs $y MOUNT MOON MOVIES\nഴ്‌,\nി്‌\n.\n\nA LOVE DRAMA +a\n\n~ PILOT FILM\n\nCASTING CALL\n\nFEMALE LEAD ളി\n\nHeroine-centric role\nStrong screen presence e\nModern Indian look\nAge: 20 to 30 “\n\n+\n\nMALE FRIEND CHARACTER\n\nOne important supporting role\nGood screen presence\nAge: 20 to 30\nSo\n\nSUPPORTING FEMALE CHARACTERS\n\nNatural performers with\nscreen presence\nAge: 25 to 35\n\na\n\nFRESHERS CAN APPLY\nFOR ALL ROLES\n\n\n. MOUNT MOON MOVIES\n. PRESENTS\n\nA LOVE DRAMA\n\nPILOT FILM\nCASTING & CALL\n\nSHOOT LOCATION J\nCHENNAI ONLY\nfora -\nAUDITION DETAILS\nAUDITIONS START FROM a\nNOVEMBER 2026 :\n>\n\nHOW TO APPLY\nSend your recent photos and a short video\n/ (Introduction + Acting) to our official contact.\n+ BA\nBS\nCONTACT US Sa\n@ 8939493799 :\nഎ\n4\n\n© hr.mountmoonmovies@gmail.com\n\n",
+   "key": " casting call  pilot film mount moon movies presents a love drama we are looking for fresh and talented faces for an upcoming pilot film roles open  female lead  heroinecentric role  male friend characters  supporting roles  supporting female character freshers can apply for all roles  shoot location chennai only preferred  auditions start november 2026 how to apply send your recent photographs and a short introduction  acting video to our official contact  8939493799  hrmountmoonmoviesgmailcom mount moon movies discovering fresh talent for the next story  s  trendingreel auditions mumbaicasti",
+   "urls": [
+    "https://www.instagram.com/p/DeuSPqtj6DS/",
+    "https://www.instagram.com/p/DeuRjPiPM4V/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-10-20T16:41:01.000Z",
+   "poster": "posters/59a8838b465c.jpg",
+   "first_seen": "2026-10-22T18:48:22.942325+05:30",
+   "last_seen": "2026-10-22T18:48:22.942325+05:30",
+   "class": "REJECTED",
+   "reason": "Location only chennai",
+   "info": {
+    "deadline": null
+   },
+   "contact": "8939493799, hr.mountmoonmovies@gmail.com",
    "notified_class": null,
    "scans": 2
   }
@@ -1214,6 +1335,26 @@
    },
    "new": 0,
    "emailed": false,
+   "health": "ok"
+  },
+  {
+   "time": "2026-10-22T18:48:22.942325+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 9
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 36
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 5,
+   "emailed": true,
    "health": "ok"
   }
  ],
