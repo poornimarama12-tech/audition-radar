@@ -615,7 +615,7 @@
    "published": "2026-10-20T15:33:39.000Z",
    "poster": "posters/88c8b1524a61.jpg",
    "first_seen": "2026-10-21T11:49:43.920384+05:30",
-   "last_seen": "2026-10-23T18:44:12.984920+05:30",
+   "last_seen": "2026-10-24T18:35:28.856251+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -623,7 +623,7 @@
    },
    "contact": "marleystateofmind@gmail.com, +91 6238332494",
    "notified_class": "NEEDS REVIEW",
-   "scans": 10
+   "scans": 11
   },
   "eae61bd5969e": {
    "id": "eae61bd5969e",
@@ -639,13 +639,13 @@
    "published": "2026-10-20T22:40:09.000Z",
    "poster": "posters/eae61bd5969e.jpg",
    "first_seen": "2026-10-21T11:49:43.920384+05:30",
-   "last_seen": "2026-10-23T18:44:12.984920+05:30",
+   "last_seen": "2026-10-24T18:35:28.856251+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 10
+   "scans": 11
   },
   "44055b24dbfd": {
    "id": "44055b24dbfd",
@@ -830,13 +830,13 @@
    "published": "2026-10-21T06:43:32.000Z",
    "poster": "posters/0b2f0d2f8496.jpg",
    "first_seen": "2026-10-21T13:42:41.382349+05:30",
-   "last_seen": "2026-10-23T18:44:12.984920+05:30",
+   "last_seen": "2026-10-24T18:35:28.856251+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 4
+   "scans": 5
   },
   "b1d1fa80153f": {
    "id": "b1d1fa80153f",
@@ -922,7 +922,7 @@
    "published": "2026-10-20T13:22:51.000Z",
    "poster": "posters/bf4fccfac0b2.jpg",
    "first_seen": "2026-10-21T13:42:41.382349+05:30",
-   "last_seen": "2026-10-23T18:44:12.984920+05:30",
+   "last_seen": "2026-10-24T18:35:28.856251+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -930,7 +930,7 @@
    },
    "contact": "8943382660",
    "notified_class": null,
-   "scans": 4
+   "scans": 5
   },
   "803cf439e413": {
    "id": "803cf439e413",
@@ -946,13 +946,13 @@
    "published": "2026-10-22T01:46:20.000Z",
    "poster": "posters/803cf439e413.jpg",
    "first_seen": "2026-10-22T18:48:22.942325+05:30",
-   "last_seen": "2026-10-23T18:44:12.984920+05:30",
+   "last_seen": "2026-10-24T18:35:28.856251+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "74e2ff2f30ef": {
    "id": "74e2ff2f30ef",
@@ -968,13 +968,13 @@
    "published": "2026-10-22T06:57:45.000Z",
    "poster": "posters/74e2ff2f30ef.jpg",
    "first_seen": "2026-10-22T18:48:22.942325+05:30",
-   "last_seen": "2026-10-23T18:44:12.984920+05:30",
+   "last_seen": "2026-10-24T18:35:28.856251+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "64baba248c27": {
    "id": "64baba248c27",
@@ -1066,7 +1066,7 @@
    "published": "2026-10-23T09:47:53.000Z",
    "poster": "posters/2d5843052c92.jpg",
    "first_seen": "2026-10-23T18:44:12.984920+05:30",
-   "last_seen": "2026-10-23T18:44:12.984920+05:30",
+   "last_seen": "2026-10-24T18:35:28.856251+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -1074,7 +1074,7 @@
    },
    "contact": "+91 87148 06580",
    "notified_class": "NEEDS REVIEW",
-   "scans": 1
+   "scans": 2
   },
   "c98c430cddcd": {
    "id": "c98c430cddcd",
@@ -1090,7 +1090,7 @@
    "published": "2026-10-22T14:37:04.000Z",
    "poster": "posters/c98c430cddcd.jpg",
    "first_seen": "2026-10-23T18:44:12.984920+05:30",
-   "last_seen": "2026-10-23T18:44:12.984920+05:30",
+   "last_seen": "2026-10-24T18:35:28.856251+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -1098,7 +1098,7 @@
    },
    "contact": "teamavaran2026@gmail.com",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "93e105514831": {
    "id": "93e105514831",
@@ -1144,6 +1144,28 @@
    "info": {
     "deadline": null
    },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "ff634888716f": {
+   "id": "ff634888716f",
+   "title": "https://www.instagram.com/p/De2SbbUMbD7/",
+   "text": "ത്ത >\n\n0൧ ൫൫൪൧ Us\n\nFILMS",
+   "key": "ത്ത  0൧ ൫൫൪൧ us films",
+   "urls": [
+    "https://www.instagram.com/p/De2SbbUMbD7/"
+   ],
+   "sources": [
+    "instagram:mayoon_v_"
+   ],
+   "published": "2026-10-23T19:22:02.000Z",
+   "poster": "posters/ff634888716f.jpg",
+   "first_seen": "2026-10-24T18:35:28.856251+05:30",
+   "last_seen": "2026-10-24T18:35:28.856251+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
    "contact": null,
    "notified_class": null,
    "scans": 1
@@ -1471,6 +1493,26 @@
    },
    "new": 4,
    "emailed": true,
+   "health": "ok"
+  },
+  {
+   "time": "2026-10-24T18:35:28.856251+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 9
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 50
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 1,
+   "emailed": false,
    "health": "ok"
   }
  ],
