@@ -947,13 +947,13 @@
    "published": "2026-10-22T01:46:20.000Z",
    "poster": "posters/803cf439e413.jpg",
    "first_seen": "2026-10-22T18:48:22.942325+05:30",
-   "last_seen": "2026-10-28T18:58:50.304048+05:30",
+   "last_seen": "2026-10-29T19:02:16.529683+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 5
+   "scans": 6
   },
   "74e2ff2f30ef": {
    "id": "74e2ff2f30ef",
@@ -1234,13 +1234,13 @@
    "published": "2026-10-25T01:36:54.000Z",
    "poster": "posters/ebf0fec0204e.jpg",
    "first_seen": "2026-10-25T18:35:20.972257+05:30",
-   "last_seen": "2026-10-28T18:58:50.304048+05:30",
+   "last_seen": "2026-10-29T19:02:16.529683+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 7
+   "scans": 8
   },
   "90b7c14b4602": {
    "id": "90b7c14b4602",
@@ -1280,7 +1280,7 @@
    "published": "2026-10-26T08:21:02.000Z",
    "poster": "posters/6c471eb9cc6c.jpg",
    "first_seen": "2026-10-26T20:32:17.943276+05:30",
-   "last_seen": "2026-10-28T18:58:50.304048+05:30",
+   "last_seen": "2026-10-29T19:02:16.529683+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -1288,7 +1288,7 @@
    },
    "contact": "teamcasting7@gmail.com",
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "2b452b63442f": {
    "id": "2b452b63442f",
@@ -1304,7 +1304,7 @@
    "published": "2026-10-26T07:33:09.000Z",
    "poster": "posters/2b452b63442f.jpg",
    "first_seen": "2026-10-26T20:32:17.943276+05:30",
-   "last_seen": "2026-10-28T18:58:50.304048+05:30",
+   "last_seen": "2026-10-29T19:02:16.529683+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but age unclear, location unclear",
    "info": {
@@ -1315,7 +1315,7 @@
    },
    "contact": "919846461450",
    "notified_class": "NEEDS REVIEW",
-   "scans": 3
+   "scans": 4
   },
   "b0ef4be760c4": {
    "id": "b0ef4be760c4",
@@ -1331,7 +1331,7 @@
    "published": "2026-10-26T13:33:21.000Z",
    "poster": "posters/b0ef4be760c4.jpg",
    "first_seen": "2026-10-26T20:32:17.943276+05:30",
-   "last_seen": "2026-10-28T18:58:50.304048+05:30",
+   "last_seen": "2026-10-29T19:02:16.529683+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -1339,7 +1339,7 @@
    },
    "contact": "+91 85940 14193",
    "notified_class": "NEEDS REVIEW",
-   "scans": 3
+   "scans": 4
   },
   "ef009b9c41fc": {
    "id": "ef009b9c41fc",
@@ -1355,7 +1355,7 @@
    "published": "2026-10-27T11:02:44.000Z",
    "poster": "posters/ef009b9c41fc.jpg",
    "first_seen": "2026-10-27T18:49:01.949722+05:30",
-   "last_seen": "2026-10-28T18:58:50.304048+05:30",
+   "last_seen": "2026-10-29T19:02:16.529683+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -1363,7 +1363,7 @@
    },
    "contact": "casting.planbmotion@gmail.com",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "0a5dc5297e13": {
    "id": "0a5dc5297e13",
@@ -1484,7 +1484,7 @@
    "published": "2026-10-27T13:44:20.000Z",
    "poster": "posters/c576b2fd0aaf.jpg",
    "first_seen": "2026-10-28T18:58:50.304048+05:30",
-   "last_seen": "2026-10-28T18:58:50.304048+05:30",
+   "last_seen": "2026-10-29T19:02:16.529683+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -1492,7 +1492,7 @@
    },
    "contact": "castingcallsifa2026@gmail.com",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "6f9cdb004a77": {
    "id": "6f9cdb004a77",
@@ -1508,13 +1508,83 @@
    "published": "2026-10-27T14:15:43.000Z",
    "poster": "posters/6f9cdb004a77.jpg",
    "first_seen": "2026-10-28T18:58:50.304048+05:30",
-   "last_seen": "2026-10-28T18:58:50.304048+05:30",
+   "last_seen": "2026-10-29T19:02:16.529683+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
     "deadline": null
    },
    "contact": null,
+   "notified_class": null,
+   "scans": 2
+  },
+  "b239ef36a26f": {
+   "id": "b239ef36a26f",
+   "title": "Cast selected for TVS Photoshoot: Arvind! Heart congratulations and Celebrations !!🎉 🙌🥳 On",
+   "text": "Cast selected for TVS Photoshoot: Arvind!\nHeart congratulations and Celebrations !!🎉 🙌🥳\nOnwards and upwards!\nHere’s to more!\n\n#shootday #castingdirector #actor  #indriyaproductions #digitalad adfilm filmmaking bangaloremodel loveforacting vehicle brand\nARVIND\n\n1\n\nhttps://www.instagram.com/indriyaproductions",
+   "key": "cast selected for tvs photoshoot arvind heart congratulations and celebrations   onwards and upwards heres to more shootday castingdirector actor indriyaproductions digitalad adfilm filmmaking bangaloremodel loveforacting vehicle brand arvind 1 httpswwwinstagramcomindriyaproductions",
+   "urls": [
+    "https://www.instagram.com/p/DfClXpdy_PO/"
+   ],
+   "sources": [
+    "instagram:indriyaproductions"
+   ],
+   "published": "2026-10-28T13:53:53.000Z",
+   "poster": "posters/b239ef36a26f.jpg",
+   "first_seen": "2026-10-29T19:02:16.529683+05:30",
+   "last_seen": "2026-10-29T19:02:16.529683+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "8d20fafb390f": {
+   "id": "8d20fafb390f",
+   "title": "Behind every final frame, there’s a whole lot of work 🎬✨ Orgaheal shoot diaries! Loved the",
+   "text": "Behind every final frame, there’s a whole lot of work 🎬✨ \nOrgaheal shoot diaries! Loved the final result ❤️✨\n\n.\n.\n.\n\n#adshooting #behindthescenes📽️ #modellingdays #bengalurumodel\n\n\n\n\nTO, —E അ. മില്‌ betel NA Cen\n\nSimplified.\n\nTo inspire a healthier world\nwhere organic, science-backed\nwellness solutions are accessible\nto all, making natural healing\nsimple and attainable.",
+   "key": "behind every final frame theres a whole lot of work  orgaheal shoot diaries loved the final result     adshooting behindthescenes modellingdays bengalurumodel to e അ മില് betel na cen simplified to inspire a healthier world where organic sciencebacked wellness solutions are accessible to all making natural healing simple and attainable",
+   "urls": [
+    "https://www.instagram.com/p/DfEyWbqk9OX/"
+   ],
+   "sources": [
+    "instagram:flame_giya5"
+   ],
+   "published": "2026-10-29T10:24:51.000Z",
+   "poster": "posters/8d20fafb390f.jpg",
+   "first_seen": "2026-10-29T19:02:16.529683+05:30",
+   "last_seen": "2026-10-29T19:02:16.529683+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "fb63532db01d": {
+   "id": "fb63532db01d",
+   "title": "#bangalorecastingcall #craftyexclusive",
+   "text": "#bangalorecastingcall #craftyexclusive\nAa!\nCASTING CALL\n\nFEMALE,\nMODETS;\n\nfor\n\nPROMOTION SHOOT\n\nApp Promotion\nShoot\n\nBa Short Video\n\nContent a ne -\n\nരം Fun & Youthful\nമ concept\n\nA\nന്ത\nP\nONLY Z\nBANGALORE BASED (ae\nMODELS ഥി\n\nInterested?\nWhat’s App : 81222 63965\n\nച്‌",
+   "key": "bangalorecastingcall craftyexclusive aa casting call female modets for promotion shoot app promotion shoot ba short video content a ne  രം fun  youthful മ concept a ന്ത p only z bangalore based ae models ഥി interested whats app  81222 63965 ച്",
+   "urls": [
+    "https://www.instagram.com/p/De_-nObAD_J/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-10-27T13:36:24.000Z",
+   "poster": "posters/fb63532db01d.jpg",
+   "first_seen": "2026-10-29T19:02:16.529683+05:30",
+   "last_seen": "2026-10-29T19:02:16.529683+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": "81222 63965",
    "notified_class": null,
    "scans": 1
   }
@@ -1942,6 +2012,26 @@
    "new": 2,
    "emailed": false,
    "health": "degraded"
+  },
+  {
+   "time": "2026-10-29T19:02:16.529683+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 10
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 30
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 3,
+   "emailed": false,
+   "health": "ok"
   }
  ],
  "last_failure_email": null
