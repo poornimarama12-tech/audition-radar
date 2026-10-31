@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T18:58:55.363188+05:30",
+ "generated": "2026-10-31T18:48:39.089888+05:30",
  "scans": [
   {
    "time": "2026-10-15T15:01:28.288529+05:30",
@@ -463,9 +463,145 @@
    "new": 6,
    "emailed": true,
    "health": "ok"
+  },
+  {
+   "time": "2026-10-31T18:48:39.089888+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 10
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 36
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 5,
+   "emailed": true,
+   "health": "ok"
   }
  ],
  "opps": [
+  {
+   "id": "10b68b7bee21",
+   "title": "Happy birthday @samvrithaakhil #samvrithasunil #samvritha #navarasafilms #mollywood #birth",
+   "text": "Happy birthday @samvrithaakhil  #samvrithasunil #samvritha #navarasafilms #mollywood #birthdayvibes",
+   "urls": [
+    "https://www.instagram.com/p/DfJbVsMRy2A/"
+   ],
+   "sources": [
+    "instagram:navarasa.films"
+   ],
+   "published": "2026-10-31T05:48:58.000Z",
+   "poster": "posters/10b68b7bee21.jpg",
+   "first_seen": "2026-10-31T18:48:39.089888+05:30",
+   "last_seen": "2026-10-31T18:48:39.089888+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "3ad68a70b111",
+   "title": "Casting Call for Advertisement",
+   "text": "Casting Call for Advertisement\nGrandmother\n60 yrs and above\n\n60 yrs and above\n\nApply eigen Kerala, Chennai, Bangalore, Mumbai etc.\n\n(r=) | DM @launchpadcasting\n\non Instagram",
+   "urls": [
+    "https://www.instagram.com/p/DfJvMkvhVC6/"
+   ],
+   "sources": [
+    "instagram:launchpadcasting"
+   ],
+   "published": "2026-10-31T08:33:32.000Z",
+   "poster": "posters/3ad68a70b111.jpg",
+   "first_seen": "2026-10-31T18:48:39.089888+05:30",
+   "last_seen": "2026-10-31T18:48:39.089888+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "7d0673d44513",
+   "title": "New release for TVS motors in Hindi Cast : Arjun Casting by @indriyaproductions #actor #ad",
+   "text": "New release for TVS motors in Hindi\nCast : Arjun\nCasting by @indriyaproductions \n\n#actor #adfilm #indriyaproductions #castingdirector #filmmaking vehicle brand brandfilm corporate video digital ad",
+   "urls": [
+    "https://www.instagram.com/p/DfJdL61SiO_/"
+   ],
+   "sources": [
+    "instagram:indriyaproductions"
+   ],
+   "published": "2026-10-31T05:59:06.000Z",
+   "poster": "posters/7d0673d44513.jpg",
+   "first_seen": "2026-10-31T18:48:39.089888+05:30",
+   "last_seen": "2026-10-31T18:48:39.089888+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "53929dbe22da",
+   "title": "🎬 Teacher’s Day Special – Ad Shoot Casting Call! 🌟 Young talent wanted! Boys & Girls are i",
+   "text": "🎬 Teacher’s Day Special – Ad Shoot Casting Call!\n🌟 Young talent wanted! Boys & Girls are invited to audition for an upcoming Teacher’s Day Special Advertisement Shoot.\n\n👦👧 Required: Boys & Girls\n🎭 Age Group: 6–13 Years\n📍 Shoot Location: Hyderabad\n📅 Shoot Date: 5th November 2026\n🎥 Sourced From: VTHI – Vardhan Talent House India\n\n✨ A great opportunity for young aspiring actors to showcase their talent!\n👉 Apply Now: https://www.myrangmanch.in\n\n#ChildArtistCasting #CastingCall #HyderabadCasting #AdShoot #MyRangmanch\nന്‌ ¥ BN\nres Nastia\n\nCasting & Talent House\nSourced From: VTHI | Vardhan Talent House India\n\nThank you\nTeachers\n\n9\n\nLocation:\n\nHyderabad\n\n2s ജു\na | [8 | [8\nGender: Age Group: Shoot Date:\n\nMale & Female | 6-13 Years | 5th November\n|",
+   "urls": [
+    "https://www.instagram.com/p/DfJixtlDLLm/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-10-31T06:44:58.000Z",
+   "poster": "posters/53929dbe22da.jpg",
+   "first_seen": "2026-10-31T18:48:39.089888+05:30",
+   "last_seen": "2026-10-31T18:48:39.089888+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": "2026-11-05"
+   },
+   "contact": null,
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  {
+   "id": "7b5f12cc8c47",
+   "title": "Every casting comes with a story, and seeing young talent become part of a blockbuster mak",
+   "text": "Every casting comes with a story, and seeing young talent become part of a blockbuster makes the journey even more special! ✨\n\n@iamumarrnirban as Hamza’s son in Dhurandhar is a moment worth celebrating. Here’s wishing him many more opportunities to shine, grow, and leave his mark on the screen. The journey has so much more in store! 🌟\n\nCasting Coordinator: Jyottee Bajaj @official.jyotteebajaj \n\n#Dhurandhar #UmarNirban #CastingCoordinator #ChildArtistCasting #YoungTalent\n\nDhurandhar, Umarr Nirban, Hamza’s Son, Ranveer Singh, Child Actor, Child Artist, Young Actor, Bollywood Film, Indian Cinema, Bollywood Movie, Film Casting, Casting Coordinator, Child Artist Casting, Young Talent, Actor Spotlight, On-Screen Journey, Upcoming Talent, Movie Credits, Entertainment Industry, Film Industry, Acting Journey, Bollywood Debut, Rising Star, Young Performers, Casting Achievement, Film Recognition, Talent Spotlight, Big Screen Debut, Bollywood Entertainment, Indian Film Industry\nDAURANDHAR\nTHE REVENGE\n\nFrom a young talent’s casting\njourney to being part of a\nblockbuster like Dhurandhar\n(The Revenge), some moments\nare truly worth celebrating! ൪\n\nL>224\n\n=\n\nUmarr Nirban plays Hamza’s\nson in the film, marking a\n\nspecial milestone in his journey\nas a young actor.\n\nCasting Coordinator: Jyotte\nBajaj",
+   "urls": [
+    "https://www.instagram.com/p/DfHliFyIzkN/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-10-30T12:30:03.000Z",
+   "poster": "posters/7b5f12cc8c47.jpg",
+   "first_seen": "2026-10-31T18:48:39.089888+05:30",
+   "last_seen": "2026-10-31T18:48:39.089888+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Possibly relevant but age unclear, location unclear, gender unclear",
+   "info": {
+    "deadline": null,
+    "gender": "unknown",
+    "location": null,
+    "type": "movie"
+   },
+   "contact": null,
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
   {
    "id": "4da06179b0f9",
    "title": "Cast selected for Sugarfit ads: Surendran, Prashanth,Anumeha, Gaurav, Pooja, Anand and Pun",
@@ -479,7 +615,7 @@
    "published": "2026-10-30T06:21:09.000Z",
    "poster": "posters/4da06179b0f9.jpg",
    "first_seen": "2026-10-30T18:58:55.363188+05:30",
-   "last_seen": "2026-10-30T18:58:55.363188+05:30",
+   "last_seen": "2026-10-31T18:48:39.089888+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -487,7 +623,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "47cb568e9593",
@@ -623,7 +759,7 @@
    "published": "2026-10-28T13:53:53.000Z",
    "poster": "posters/b239ef36a26f.jpg",
    "first_seen": "2026-10-29T19:02:16.529683+05:30",
-   "last_seen": "2026-10-30T18:58:55.363188+05:30",
+   "last_seen": "2026-10-31T18:48:39.089888+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -631,7 +767,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "8d20fafb390f",
@@ -646,13 +782,13 @@
    "published": "2026-10-29T10:24:51.000Z",
    "poster": "posters/8d20fafb390f.jpg",
    "first_seen": "2026-10-29T19:02:16.529683+05:30",
-   "last_seen": "2026-10-30T18:58:55.363188+05:30",
+   "last_seen": "2026-10-31T18:48:39.089888+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "fb63532db01d",
@@ -690,7 +826,7 @@
    "published": "2026-10-27T13:44:20.000Z",
    "poster": "posters/c576b2fd0aaf.jpg",
    "first_seen": "2026-10-28T18:58:50.304048+05:30",
-   "last_seen": "2026-10-30T18:58:55.363188+05:30",
+   "last_seen": "2026-10-31T18:48:39.089888+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -698,7 +834,7 @@
    },
    "contact": "castingcallsifa2026@gmail.com",
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   {
    "id": "6f9cdb004a77",
@@ -713,7 +849,7 @@
    "published": "2026-10-27T14:15:43.000Z",
    "poster": "posters/6f9cdb004a77.jpg",
    "first_seen": "2026-10-28T18:58:50.304048+05:30",
-   "last_seen": "2026-10-30T18:58:55.363188+05:30",
+   "last_seen": "2026-10-31T18:48:39.089888+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -721,7 +857,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   {
    "id": "ef009b9c41fc",
@@ -980,13 +1116,13 @@
    "published": "2026-10-25T01:36:54.000Z",
    "poster": "posters/ebf0fec0204e.jpg",
    "first_seen": "2026-10-25T18:35:20.972257+05:30",
-   "last_seen": "2026-10-30T18:58:55.363188+05:30",
+   "last_seen": "2026-10-31T18:48:39.089888+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 9
+   "scans": 10
   },
   {
    "id": "90b7c14b4602",
@@ -1138,13 +1274,13 @@
    "published": "2026-10-22T01:46:20.000Z",
    "poster": "posters/803cf439e413.jpg",
    "first_seen": "2026-10-22T18:48:22.942325+05:30",
-   "last_seen": "2026-10-30T18:58:55.363188+05:30",
+   "last_seen": "2026-10-31T18:48:39.089888+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 7
+   "scans": 8
   },
   {
    "id": "74e2ff2f30ef",
