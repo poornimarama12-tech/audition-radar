@@ -1235,13 +1235,13 @@
    "published": "2026-10-25T01:36:54.000Z",
    "poster": "posters/ebf0fec0204e.jpg",
    "first_seen": "2026-10-25T18:35:20.972257+05:30",
-   "last_seen": "2026-11-01T18:50:01.439011+05:30",
+   "last_seen": "2026-11-02T19:09:03.136278+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 11
+   "scans": 12
   },
   "90b7c14b4602": {
    "id": "90b7c14b4602",
@@ -1603,7 +1603,7 @@
    "published": "2026-10-30T06:21:09.000Z",
    "poster": "posters/4da06179b0f9.jpg",
    "first_seen": "2026-10-30T18:58:55.363188+05:30",
-   "last_seen": "2026-11-01T18:50:01.439011+05:30",
+   "last_seen": "2026-11-02T19:09:03.136278+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -1611,7 +1611,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "47cb568e9593": {
    "id": "47cb568e9593",
@@ -1651,7 +1651,7 @@
    "published": "2026-10-29T22:45:11.000Z",
    "poster": "posters/c0f44b69d134.jpg",
    "first_seen": "2026-10-30T18:58:55.363188+05:30",
-   "last_seen": "2026-10-30T18:58:55.363188+05:30",
+   "last_seen": "2026-11-02T19:09:03.136278+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -1659,7 +1659,7 @@
    },
    "contact": "drama@dramakc.com",
    "notified_class": "NEEDS REVIEW",
-   "scans": 1
+   "scans": 2
   },
   "829031e5bf23": {
    "id": "829031e5bf23",
@@ -1753,13 +1753,13 @@
    "published": "2026-10-31T05:48:58.000Z",
    "poster": "posters/10b68b7bee21.jpg",
    "first_seen": "2026-10-31T18:48:39.089888+05:30",
-   "last_seen": "2026-11-01T18:50:01.439011+05:30",
+   "last_seen": "2026-11-02T19:09:03.136278+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "3ad68a70b111": {
    "id": "3ad68a70b111",
@@ -1775,7 +1775,7 @@
    "published": "2026-10-31T08:33:32.000Z",
    "poster": "posters/3ad68a70b111.jpg",
    "first_seen": "2026-10-31T18:48:39.089888+05:30",
-   "last_seen": "2026-11-01T18:50:01.439011+05:30",
+   "last_seen": "2026-11-02T19:09:03.136278+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -1783,7 +1783,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "7d0673d44513": {
    "id": "7d0673d44513",
@@ -1799,7 +1799,7 @@
    "published": "2026-10-31T05:59:06.000Z",
    "poster": "posters/7d0673d44513.jpg",
    "first_seen": "2026-10-31T18:48:39.089888+05:30",
-   "last_seen": "2026-11-01T18:50:01.439011+05:30",
+   "last_seen": "2026-11-02T19:09:03.136278+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -1807,7 +1807,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "53929dbe22da": {
    "id": "53929dbe22da",
@@ -1874,7 +1874,7 @@
    "published": "2026-11-01T04:10:23.000Z",
    "poster": "posters/e0d8e98415ff.jpg",
    "first_seen": "2026-11-01T18:50:01.439011+05:30",
-   "last_seen": "2026-11-01T18:50:01.439011+05:30",
+   "last_seen": "2026-11-02T19:09:03.136278+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -1882,7 +1882,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "18f788ac1e12": {
    "id": "18f788ac1e12",
@@ -1898,7 +1898,7 @@
    "published": "2026-11-01T13:11:41.000Z",
    "poster": "posters/18f788ac1e12.jpg",
    "first_seen": "2026-11-01T18:50:01.439011+05:30",
-   "last_seen": "2026-11-01T18:50:01.439011+05:30",
+   "last_seen": "2026-11-02T19:09:03.136278+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -1906,7 +1906,7 @@
    },
    "contact": "+91 9947004097",
    "notified_class": "NEEDS REVIEW",
-   "scans": 1
+   "scans": 2
   },
   "bc4fc890c9c7": {
    "id": "bc4fc890c9c7",
@@ -1922,12 +1922,132 @@
    "published": "2026-10-31T13:52:57.000Z",
    "poster": "posters/bc4fc890c9c7.jpg",
    "first_seen": "2026-11-01T18:50:01.439011+05:30",
-   "last_seen": "2026-11-01T18:50:01.439011+05:30",
+   "last_seen": "2026-11-02T19:09:03.136278+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
+   "scans": 2
+  },
+  "5e1a08f2d0e5": {
+   "id": "5e1a08f2d0e5",
+   "title": "✨ MODEL CASTING CALL | LUKMANCE MODEL MANAGEMENT We are looking for fresh faces and aspiri",
+   "text": "✨ MODEL CASTING CALL | LUKMANCE MODEL MANAGEMENT\n\nWe are looking for fresh faces and aspiring female models to collaborate with us for an International Fashion Shoot in Kerala.\n\nA creative opportunity to be part of something extraordinary. 🌿\n\nSouth Indian models preferred.\n\n📩 HOW TO APPLY\n\nSend us:\n• Full Name\n• Age\n• Height\n• Current Location\n• Recent Photographs\n• Self-Introduction Video\n\n📲 WhatsApp: 99954 33307\n\nFresh faces are welcome. Confidence, individuality and a passion for fashion are what matter.\n\nLUKMANCE @lukmancemodelmanagement @fashiongurulukman \n\n#Lukmance #ModelCasting #CastingCall #FemaleModels #ModelSearch SouthIndianModels KeralaModels KochiModels FashionShoot InternationalFashion FashionPhotography ModelManagement FreshFaces KeralaFashion FashionIndustry\n®\nLukmance\n\n‘model management\n\nCASTING\n© A:\n\nFoe MA a\nMO DET S\n\nCollaborate with us for an\nInternational Fashion Shoot\nin Kerala\n\nSOUTH INDIAN FRESH FACES PREFERRED\n\nExperienced models are also welcome\n\nAPPLY WITH\n\nFull Name | Age | Location\nHeight | Mobile Number\nSelf-Introduction Video\n< (30-60 seconds)\n\n© 99954 33307",
+   "key": " model casting call  lukmance model management we are looking for fresh faces and aspiring female models to collaborate with us for an international fashion shoot in kerala a creative opportunity to be part of something extraordinary  south indian models preferred  how to apply send us  full name  age  height  current location  recent photographs  selfintroduction video  whatsapp 99954 33307 fresh faces are welcome confidence individuality and a passion for fashion are what matter lukmance lukmancemodelmanagement fashiongurulukman lukmance modelcasting castingcall femalemodels modelsearch sout",
+   "urls": [
+    "https://www.instagram.com/p/DfOnyy8SR4M/"
+   ],
+   "sources": [
+    "instagram:lukmancemodelmanagement"
+   ],
+   "published": "2026-11-02T06:07:11.000Z",
+   "poster": "posters/5e1a08f2d0e5.jpg",
+   "first_seen": "2026-11-02T19:09:03.136278+05:30",
+   "last_seen": "2026-11-02T19:09:03.136278+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": "99954 33307",
+   "notified_class": null,
+   "scans": 1
+  },
+  "4a4b5acf3b6f": {
+   "id": "4a4b5acf3b6f",
+   "title": "Post Courtesy: @planbmotionpictures OFFICIAL CASTING INFORMATION from Team Mattancherry Ma",
+   "text": "Post Courtesy: @planbmotionpictures\n\nOFFICIAL CASTING INFORMATION from Team Mattancherry Mafia\n\nAll genuine casting requirements, updates and application details regarding 'Mattancherry Mafia' will be communicated exclusively through the official page and email ID only. \n\n- Team Mattancherry Mafia\n\nBeware of fake casting calls 🚨\nATTANCHERRY\nyj 3\n\nKWAUIO RAHMAN\n\n൧\nOFFICIAL\n\nCASTING\nINFORMATION\n\nThis is to clarify that all official casting announcements\nand requirements for MATTANCHERRY MAFIA will be\ncommunicated exclusively through our official social media\npage and mail id (casting.planbmotion@gmail.com).\n\nNo external casting agencies, individuals or third-party\npages have been authorised or assigned to conduct casting\non behalf of this project.\n\nPlease be cautious of fake casting calls or\nmisleading posts being circulated on other platforms.\n\nTeam Mattancherry Mafia",
+   "key": "post courtesy planbmotionpictures official casting information from team mattancherry mafia all genuine casting requirements updates and application details regarding mattancherry mafia will be communicated exclusively through the official page and email id only  team mattancherry mafia beware of fake casting calls  attancherry yj 3 kwauio rahman ൧ official casting information this is to clarify that all official casting announcements and requirements for mattancherry mafia will be communicated exclusively through our official social media page and mail id castingplanbmotiongmailcom no externa",
+   "urls": [
+    "https://www.instagram.com/p/DfM6phOTjiu/"
+   ],
+   "sources": [
+    "instagram:malayalam_castingcalls"
+   ],
+   "published": "2026-11-01T14:17:37.000Z",
+   "poster": "posters/4a4b5acf3b6f.jpg",
+   "first_seen": "2026-11-02T19:09:03.136278+05:30",
+   "last_seen": "2026-11-02T19:09:03.136278+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": "casting.planbmotion@gmail.com",
+   "notified_class": null,
+   "scans": 1
+  },
+  "8a14dee34b11": {
+   "id": "8a14dee34b11",
+   "title": "Diwali is round the corner. Casting for South Indian Bank. Thankyou @saratprakash @sodalim",
+   "text": "Diwali is round the corner. Casting for South Indian Bank. Thankyou @saratprakash @sodalimeproduction  for this opportunity. \n\nDirected by @prakkatmartin \nCasting by @shiyazkhan7\nROTATE\nPHONE",
+   "key": "diwali is round the corner casting for south indian bank thankyou saratprakash sodalimeproduction for this opportunity directed by prakkatmartin casting by shiyazkhan7 rotate phone",
+   "urls": [
+    "https://www.instagram.com/p/DfOgRm5zA5y/"
+   ],
+   "sources": [
+    "instagram:castmeperfect"
+   ],
+   "published": "2026-11-02T05:01:13.000Z",
+   "poster": "posters/8a14dee34b11.jpg",
+   "first_seen": "2026-11-02T19:09:03.136278+05:30",
+   "last_seen": "2026-11-02T19:09:03.136278+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "7aa68881d987": {
+   "id": "7aa68881d987",
+   "title": "🎬 Kotak Loan Ad – Casting Call! ✨ Female actors required for an upcoming Kotak Loan Digita",
+   "text": "🎬 Kotak Loan Ad – Casting Call!\n✨ Female actors required for an upcoming Kotak Loan Digital Advertisement!\n\n👩 Age Group: 40–55 Years\n🗣️ Language: Fluent Tamil (Mandatory)\n📍 Shoot Location: Mumbai\n📅 Shoot Dates: 2nd–3rd November 2026\n📱 Usage: Digital – 1 Year\n📸 To Apply: Share 4 Recent Pictures\n\n🎥 Sourced From: Casting Buddies\n🌟 Don't miss this exciting acting opportunity!\n👉 Apply Now: https://www.myrangmanch.in\n\n#KotakCasting #FemaleActors #MumbaiCasting #AdFilmCasting #MyRangmanch\n. Cp ke\n\nFEMALE ACTORS REQUIRED be\n\nല്‍ Sourced From: €\n\nFEMALE ACTORS LANGUAGE\nAge Group: GS) tamil\n40 - 55 Years എ (Must be fluent)\n\nSHOOT DATES Py 11007 LOCATION\ny M i\n\nMUI ]\n\n‘\\\\\n‘ Loan ef\\\n1 Ad >\n\nTO APPLY, SHARE:\n4 Recent Pictures\n\nGf APPLY NOW >\n\n— @® myrangmanch.in",
+   "key": " kotak loan ad  casting call  female actors required for an upcoming kotak loan digital advertisement  age group 4055 years  language fluent tamil mandatory  shoot location mumbai  shoot dates 2nd3rd november 2026  usage digital  1 year  to apply share 4 recent pictures  sourced from casting buddies  dont miss this exciting acting opportunity  apply now httpswwwmyrangmanchin kotakcasting femaleactors mumbaicasting adfilmcasting myrangmanch  cp ke female actors required be ല് sourced from  female actors language age group gs tamil 40  55 years എ must be fluent shoot dates py 11007 location y m ",
+   "urls": [
+    "https://www.instagram.com/p/DfJkMiBjNHb/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-10-31T06:57:22.000Z",
+   "poster": "posters/7aa68881d987.jpg",
+   "first_seen": "2026-11-02T19:09:03.136278+05:30",
+   "last_seen": "2026-11-02T19:09:03.136278+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": "2026-11-03"
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "295691aafe1e": {
+   "id": "295691aafe1e",
+   "title": "🎬 CHILD ARTISTS CASTING CALL | HNJ FILMS ENTERTAINMENT 🌟 बच्चों के लिए Quick TV Vertical S",
+   "text": "🎬 CHILD ARTISTS CASTING CALL | HNJ FILMS ENTERTAINMENT\n\n🌟 बच्चों के लिए Quick TV Vertical Show में काम करने का अवसर!\n\n👦👧 Age Group: 5–12 Years\n\n📍  Shoot Location: Mumbai \n📅 Shoot Dates: 3, 4 & 5 November 2026 \n🎭  Requirement:**🎬 CHILD ARTISTS CASTING CALL | HNJ FILMS ENTERTAINMENT\n\n🌟 बच्चों के लिए Quick TV Vertical Show में काम करने का अवसर!\n\n👦👧 Age Group: 5–12 Years\n\n📍 Shoot Location: Mumbai \n📅 Shoot Dates: 3, 4 & 5 November 2026 \n🎭 Requirement: Good Looking, Expressive Face & Natural Acting\n\nजिन बच्चों को एक्टिंग में रुचि है और जो शूटिंग के लिए मुंबई आ सकते हैं, उनके माता-पिता अपनी रुचि कमेंट करें और अधिक जानकारी के लिए DM करें।\n\n📩 Interested? Comment “INTERESTED” & DM Your Child’s Profile.\n\n🎥 Casting by: HNJ Films Entertainment \n⭐ Casting Agency in India | Since 2012\n\n#ChildArtistCasting #KidsAudition #ChildActor #KidsCastingCall #MumbaiCasting #HindiTVShow #VerticalShowCasting #ActingAudition #KidsActing #CastingCallIndia #HNJFilms #hnjfilmsentertainment \nजिन बच्चों को एक्टिंग में रुचि है और जो शूटिंग के लिए मुंबई आ सकते हैं, उनके माता-पिता अपनी रुचि कमेंट करें और अधिक जानकारी के लिए DM करें।\n\n📩 Interested? Comment “INTERESTED” & DM Your Child’s Profile.\n\n🎥 Casting by: HNJ Films Entertainment \n⭐ Casting Agency in India | Since 2012\n\n#ChildArtistCasting #KidsAudition #ChildActor #KidsCastingCall #MumbaiCasting #HindiTVShow #VerticalShowCasting #ActingAudition #KidsActing #CastingCallIndia #HNJFilms #HNJFilmsEntertainment\nളി @}j Expressive Face\n~ @% Natural Acting\n\nCasting b' Ee\ny\nfor More Detail\nIs\nFollow Our Page iS}",
+   "key": " child artists casting call  hnj films entertainment     quick tv vertical show       age group 512 years  shoot location mumbai  shoot dates 3 4  5 november 2026  requirement child artists casting call  hnj films entertainment     quick tv vertical show       age group 512 years  shoot location mumbai  shoot dates 3 4  5 november 2026  requirement good looking expressive face  natural acting                            dm   interested comment interested  dm your childs profile  casting by hnj films entertainment  casting agency in india  since 2012 childartistcasting kidsaudition childactor ki",
+   "urls": [
+    "https://www.instagram.com/p/DfMNVy6DJlB/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-01T07:35:23.000Z",
+   "poster": "posters/295691aafe1e.jpg",
+   "first_seen": "2026-11-02T19:09:03.136278+05:30",
+   "last_seen": "2026-11-02T19:09:03.136278+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": "2026-11-05"
+   },
+   "contact": null,
+   "notified_class": "NEEDS REVIEW",
    "scans": 1
   }
  },
@@ -2432,6 +2552,26 @@
     }
    },
    "new": 3,
+   "emailed": true,
+   "health": "ok"
+  },
+  {
+   "time": "2026-11-02T19:09:03.136278+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 11
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 50
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 5,
    "emailed": true,
    "health": "ok"
   }
