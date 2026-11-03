@@ -1753,13 +1753,13 @@
    "published": "2026-10-31T05:48:58.000Z",
    "poster": "posters/10b68b7bee21.jpg",
    "first_seen": "2026-10-31T18:48:39.089888+05:30",
-   "last_seen": "2026-11-02T19:09:03.136278+05:30",
+   "last_seen": "2026-11-03T19:05:03.940062+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "3ad68a70b111": {
    "id": "3ad68a70b111",
@@ -1775,7 +1775,7 @@
    "published": "2026-10-31T08:33:32.000Z",
    "poster": "posters/3ad68a70b111.jpg",
    "first_seen": "2026-10-31T18:48:39.089888+05:30",
-   "last_seen": "2026-11-02T19:09:03.136278+05:30",
+   "last_seen": "2026-11-03T19:05:03.940062+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -1783,7 +1783,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "7d0673d44513": {
    "id": "7d0673d44513",
@@ -1799,7 +1799,7 @@
    "published": "2026-10-31T05:59:06.000Z",
    "poster": "posters/7d0673d44513.jpg",
    "first_seen": "2026-10-31T18:48:39.089888+05:30",
-   "last_seen": "2026-11-02T19:09:03.136278+05:30",
+   "last_seen": "2026-11-03T19:05:03.940062+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -1807,7 +1807,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "53929dbe22da": {
    "id": "53929dbe22da",
@@ -1823,7 +1823,7 @@
    "published": "2026-10-31T06:44:58.000Z",
    "poster": "posters/53929dbe22da.jpg",
    "first_seen": "2026-10-31T18:48:39.089888+05:30",
-   "last_seen": "2026-10-31T18:48:39.089888+05:30",
+   "last_seen": "2026-11-03T19:05:03.940062+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -1831,7 +1831,7 @@
    },
    "contact": null,
    "notified_class": "NEEDS REVIEW",
-   "scans": 1
+   "scans": 2
   },
   "7b5f12cc8c47": {
    "id": "7b5f12cc8c47",
@@ -1874,7 +1874,7 @@
    "published": "2026-11-01T04:10:23.000Z",
    "poster": "posters/e0d8e98415ff.jpg",
    "first_seen": "2026-11-01T18:50:01.439011+05:30",
-   "last_seen": "2026-11-02T19:09:03.136278+05:30",
+   "last_seen": "2026-11-03T19:05:03.940062+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -1882,7 +1882,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "18f788ac1e12": {
    "id": "18f788ac1e12",
@@ -1898,7 +1898,7 @@
    "published": "2026-11-01T13:11:41.000Z",
    "poster": "posters/18f788ac1e12.jpg",
    "first_seen": "2026-11-01T18:50:01.439011+05:30",
-   "last_seen": "2026-11-02T19:09:03.136278+05:30",
+   "last_seen": "2026-11-03T19:05:03.940062+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -1906,7 +1906,7 @@
    },
    "contact": "+91 9947004097",
    "notified_class": "NEEDS REVIEW",
-   "scans": 2
+   "scans": 3
   },
   "bc4fc890c9c7": {
    "id": "bc4fc890c9c7",
@@ -1922,13 +1922,13 @@
    "published": "2026-10-31T13:52:57.000Z",
    "poster": "posters/bc4fc890c9c7.jpg",
    "first_seen": "2026-11-01T18:50:01.439011+05:30",
-   "last_seen": "2026-11-02T19:09:03.136278+05:30",
+   "last_seen": "2026-11-03T19:05:03.940062+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "5e1a08f2d0e5": {
    "id": "5e1a08f2d0e5",
@@ -1944,7 +1944,7 @@
    "published": "2026-11-02T06:07:11.000Z",
    "poster": "posters/5e1a08f2d0e5.jpg",
    "first_seen": "2026-11-02T19:09:03.136278+05:30",
-   "last_seen": "2026-11-02T19:09:03.136278+05:30",
+   "last_seen": "2026-11-03T19:05:03.940062+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -1952,7 +1952,7 @@
    },
    "contact": "99954 33307",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "4a4b5acf3b6f": {
    "id": "4a4b5acf3b6f",
@@ -1968,7 +1968,7 @@
    "published": "2026-11-01T14:17:37.000Z",
    "poster": "posters/4a4b5acf3b6f.jpg",
    "first_seen": "2026-11-02T19:09:03.136278+05:30",
-   "last_seen": "2026-11-02T19:09:03.136278+05:30",
+   "last_seen": "2026-11-03T19:05:03.940062+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -1976,7 +1976,7 @@
    },
    "contact": "casting.planbmotion@gmail.com",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "8a14dee34b11": {
    "id": "8a14dee34b11",
@@ -1992,7 +1992,7 @@
    "published": "2026-11-02T05:01:13.000Z",
    "poster": "posters/8a14dee34b11.jpg",
    "first_seen": "2026-11-02T19:09:03.136278+05:30",
-   "last_seen": "2026-11-02T19:09:03.136278+05:30",
+   "last_seen": "2026-11-03T19:05:03.940062+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -2000,7 +2000,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "7aa68881d987": {
    "id": "7aa68881d987",
@@ -2040,7 +2040,7 @@
    "published": "2026-11-01T07:35:23.000Z",
    "poster": "posters/295691aafe1e.jpg",
    "first_seen": "2026-11-02T19:09:03.136278+05:30",
-   "last_seen": "2026-11-02T19:09:03.136278+05:30",
+   "last_seen": "2026-11-03T19:05:03.940062+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -2048,6 +2048,103 @@
    },
    "contact": null,
    "notified_class": "NEEDS REVIEW",
+   "scans": 2
+  },
+  "bed39c9601f2": {
+   "id": "bed39c9601f2",
+   "title": "Navarasa Films Production No-3 Direction Team",
+   "text": "Navarasa Films \nProduction No-3\nDirection Team",
+   "key": "navarasa films production no3 direction team",
+   "urls": [
+    "https://www.instagram.com/p/DfPlokbxyQq/"
+   ],
+   "sources": [
+    "instagram:mayoon_v_"
+   ],
+   "published": "2026-11-02T15:10:57.000Z",
+   "poster": "posters/bed39c9601f2.jpg",
+   "first_seen": "2026-11-03T19:05:03.940062+05:30",
+   "last_seen": "2026-11-03T19:05:03.940062+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "6ba1b455e2f1": {
+   "id": "6ba1b455e2f1",
+   "title": "Casting Call for an ad",
+   "text": "Casting Call for an ad\n1 UNCHPAD\n\n—— CASTING COMPANY ——\n\nApply from “\n\nAnywhere in India.\n\n( ച DM @launchpadcasting\non Instagram",
+   "key": "casting call for an ad 1 unchpad  casting company  apply from  anywhere in india  ച dm launchpadcasting on instagram",
+   "urls": [
+    "https://www.instagram.com/p/DfPsG6DTbvQ/"
+   ],
+   "sources": [
+    "instagram:launchpadcasting"
+   ],
+   "published": "2026-11-02T16:02:00.000Z",
+   "poster": "posters/6ba1b455e2f1.jpg",
+   "first_seen": "2026-11-03T19:05:03.940062+05:30",
+   "last_seen": "2026-11-03T19:05:03.940062+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "d7ccbfd736b5": {
+   "id": "d7ccbfd736b5",
+   "title": "Looking for TWINS across all age groups (infants to 25 years) for an upcoming project!✨ Id",
+   "text": "Looking for TWINS across all age groups (infants to 25 years) for an upcoming project!✨\n\nIdentical and fraternal twins of all genders are welcome to apply.\n\n📩 Send your entries to: teamjyotteebajajcasting@gmail.com\n\n#TwinsCasting #TwinActors #CastingCall #PanIndiaCasting #ChildArtistCasting\n\nTwins casting, twin actors, child artist casting, identical twins, fraternal twins, Pan India casting, Bollywood casting, upcoming project, Bollywood\nUPCOMING PROJECT\n\nPAN INDIA PROJECT\n\nWE ARE LOOKING FOR\n\nTWINS (TWIN PAIRS)\n\nACROSS ALL AGE GROUPS FOR AN UPCOMING PROJECT.\n\nAGE GROUP: INFANTS TO 25 YEARS\nREQUIREMENT:\n\ne Identical and fraternal twins\n\ne All genders welcome\n\ne Twins across all age categories, from infants,\nkids and teenagers to young adults\n\nINTERESTED CANDIDATES CAN SHARE:\n\nRecent photographs of both twins together\nIndividual photographs\n\nNames and ages\n\nContact details\n\nCurrent location\n\nEmail your entries to:\n\n><] | teamjyotteebajajcasting@gmail.com",
+   "key": "looking for twins across all age groups infants to 25 years for an upcoming project identical and fraternal twins of all genders are welcome to apply  send your entries to teamjyotteebajajcastinggmailcom twinscasting twinactors castingcall panindiacasting childartistcasting twins casting twin actors child artist casting identical twins fraternal twins pan india casting bollywood casting upcoming project bollywood upcoming project pan india project we are looking for twins twin pairs across all age groups for an upcoming project age group infants to 25 years requirement e identical and fraterna",
+   "urls": [
+    "https://www.instagram.com/p/DfO0qXZuxX4/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-02T07:58:33.000Z",
+   "poster": "posters/d7ccbfd736b5.jpg",
+   "first_seen": "2026-11-03T19:05:03.940062+05:30",
+   "last_seen": "2026-11-03T19:05:03.940062+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Possibly relevant but age unclear",
+   "info": {
+    "deadline": null,
+    "gender": "any",
+    "location": "pan india",
+    "type": "ott"
+   },
+   "contact": "teamjyotteebajajcasting@gmail.com",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  "83c7e8bb1a88": {
+   "id": "83c7e8bb1a88",
+   "title": "Casting for our upcoming projects DM if interested #castingcall#malayalamcastingcall #pala",
+   "text": "Casting for our upcoming projects \n\nDM if interested \n\n#castingcall#malayalamcastingcall #palakkad #pattambi #fypシ゚viralシfypシ゚\nറിപ\n\nപ്‌\n\nFEMALE L MALELEAD\n(20s-30s) (20s-30s) (10-15)\nROLES & AGE REQUIREMENTS\nപ Gay ccs ത്തും\nAGE: 22 - 35 YEARS റു AGE: 22 - 35 YEARS Ot ie 10 - SYR\nHOW TO APPLY\n\nSEEKING FRESH & | © Wort: cuse-u Misha Fu\nEXPERIENCED TALENT | © SUBMITVIA WHATSAPP:\n\n(@)_1-MINUTE AUDITION VIDEO\n\nPREFERENCE WILL BE GIVEN TO CANDIDATES FROM PALAKKAD, PATTAMBI, & SHORNUR AREAS\n\na",
+   "key": "casting for our upcoming projects dm if interested castingcallmalayalamcastingcall palakkad pattambi fypviralfyp റിപ പ് female l malelead 20s30s 20s30s 1015 roles  age requirements പ gay ccs ത്തും age 22  35 years റു age 22  35 years ot ie 10  syr how to apply seeking fresh    wort cuseu misha fu experienced talent   submitvia whatsapp 1minute audition video preference will be given to candidates from palakkad pattambi  shornur areas a",
+   "urls": [
+    "https://www.instagram.com/p/DfKqIbKyxH0/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-10-31T17:08:31.000Z",
+   "poster": "posters/83c7e8bb1a88.jpg",
+   "first_seen": "2026-11-03T19:05:03.940062+05:30",
+   "last_seen": "2026-11-03T19:05:03.940062+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
    "scans": 1
   }
  },
@@ -2572,6 +2669,26 @@
     }
    },
    "new": 5,
+   "emailed": true,
+   "health": "ok"
+  },
+  {
+   "time": "2026-11-03T19:05:03.940062+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 11
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 36
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 4,
    "emailed": true,
    "health": "ok"
   }
