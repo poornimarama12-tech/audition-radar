@@ -1,23 +1,6 @@
 {
- "generated": "2026-11-08T18:52:15.815752+05:30",
+ "generated": "2026-11-09T19:12:34.673937+05:30",
  "scans": [
-  {
-   "time": "2026-10-16T18:42:20.152301+05:30",
-   "sources": {
-    "instagram": {
-     "ok": true,
-     "count": 14
-    },
-    "search": {
-     "ok": false,
-     "error": "all search queries failed"
-    }
-   },
-   "new": 2,
-   "emailed": false,
-   "email_error": "'ascii' codec can't encode character '\\xa0' in position 31: ordinal not in range(128)",
-   "health": "degraded"
-  },
   {
    "time": "2026-10-17T18:29:59.086833+05:30",
    "sources": {
@@ -589,9 +572,99 @@
    "new": 14,
    "emailed": true,
    "health": "ok"
+  },
+  {
+   "time": "2026-11-09T19:12:34.673937+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 24
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 37
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 3,
+   "emailed": true,
+   "health": "ok"
   }
  ],
  "opps": [
+  {
+   "id": "aba15515b8c4",
+   "title": "Elegance rooted in tradition, carried with confidence. . . . . . . . . . . . #lukmancemode",
+   "text": "Elegance rooted in tradition, carried with confidence.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#lukmancemodelmanagement #lukmanceonammodellaunch2026 #onammodellaunch #keralamodels #kozhikode model experience, aspiring models, models of kerala, Kerala models, Kozhikode models, modeling guidance\n| തപം i> 2 —\nee GS a tee an\n\nയ Lukmance\n“e 1] ല്‌) |] |\n144 |",
+   "urls": [
+    "https://www.instagram.com/p/DfgqEheyMB_/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-09T06:18:36.000Z",
+   "poster": "posters/aba15515b8c4.jpg",
+   "first_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "a68946ac4cdc",
+   "title": "🎬 CASTING CALL – MALE MODEL / ACTOR Looking for a male models with good acting skills for ",
+   "text": "🎬 CASTING CALL – MALE MODEL / ACTOR\n\nLooking for a male models with good acting skills for an upcoming advertisement shoot!\n\n✨ Requirements:\n\nScreen Age: 25–30 years\nGood screen presence\nStrong acting skills\n\n📍 Shoot Location: Malappuram \n\n📩 How to Apply?\n\nInterested candidates, please WhatsApp the following:\n\n📸 Recent photographs\n🎥 Acting videos / Performance videos\n\n📱 Contact / WhatsApp: +91 87148 06580\nMALE MODEL / ACTOR\n\nLooking for a male models\nwith good acting skills for an\n| upcoming advertisement shoot!\n\nREQUIREMENTS: .\n\n| @ Screen Age: 25-30 years 4\n@ Good screen presence\n@ Strong acting skills '\n\ny 9 Shooting location:\nY Malappuram ക്‌\n\"\n\nണി\n\n= | 5 = |\nDIRECTOR !\n\nInterested candidates, please WhatsApp /\n\nthe following:\nത്തു Recent photographs\nജൂ Acting videos / Performance videos\n\n| Contact / WhatsApp:\n\n+91 87148 06580",
+   "urls": [
+    "https://www.instagram.com/p/Dfe4-DDzxv7/"
+   ],
+   "sources": [
+    "instagram:malayalam_castingcalls"
+   ],
+   "published": "2026-11-08T13:44:27.000Z",
+   "poster": "posters/a68946ac4cdc.jpg",
+   "first_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "+91 87148 06580",
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "8037cb8afee0",
+   "title": "Little boy, big dreams! 🥰🚲 Introducing my little sunshine, ready for his little adventure!",
+   "text": "Little boy, big dreams! 🥰🚲\n\nIntroducing my little sunshine, ready for his little adventure!\n\nA tiny smile, a curious heart and a little pushbike. Who knows, maybe this little one is ready for his first modelling journey. 🤍\n\nOpen for toddler modelling & casting opportunities.\n\nLet's create beautiful little memories together! ✨\n\n#ToddlerModel #BabyModelMalaysia #ChildModel #KidsCastingMalaysia #toddlercasting",
+   "urls": [
+    "https://www.instagram.com/p/DfgIxT0sMPP/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-09T01:20:18.000Z",
+   "poster": "posters/8037cb8afee0.jpg",
+   "first_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Possibly relevant but age unclear, location unclear",
+   "info": {
+    "deadline": null,
+    "gender": "any",
+    "location": null,
+    "type": "modelling"
+   },
+   "contact": null,
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
   {
    "id": "fb9737d63b9b",
    "title": "Classic charm, fresh vibes, and a look that hits different! . . . . . . . . . . . #modeljo",
@@ -605,13 +678,13 @@
    "published": "2026-11-07T06:07:26.000Z",
    "poster": "posters/fb9737d63b9b.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "6c8f52d9e907",
@@ -626,13 +699,13 @@
    "published": "2026-11-07T05:18:21.000Z",
    "poster": "posters/6c8f52d9e907.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "db182078346c",
@@ -647,13 +720,13 @@
    "published": "2026-11-06T10:20:06.000Z",
    "poster": "posters/db182078346c.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "ed2f96448ba0",
@@ -668,13 +741,13 @@
    "published": "2026-11-08T05:18:32.000Z",
    "poster": "posters/ed2f96448ba0.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "9618a2045801",
@@ -689,13 +762,13 @@
    "published": "2026-11-08T06:20:37.000Z",
    "poster": "posters/9618a2045801.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "76dd665ad1c9",
@@ -710,13 +783,13 @@
    "published": "2026-11-07T06:54:43.000Z",
    "poster": "posters/76dd665ad1c9.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "082219ab1f7f",
@@ -731,7 +804,7 @@
    "published": "2026-11-08T06:49:11.000Z",
    "poster": "posters/082219ab1f7f.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -739,7 +812,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "b50b1bda0757",
@@ -754,7 +827,7 @@
    "published": "2026-11-06T14:11:56.000Z",
    "poster": "posters/b50b1bda0757.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -762,7 +835,7 @@
    },
    "contact": "22framesofficial@gmail.com",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "31fa9e42f2aa",
@@ -777,7 +850,7 @@
    "published": "2026-11-07T10:40:19.000Z",
    "poster": "posters/31fa9e42f2aa.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -785,7 +858,7 @@
    },
    "contact": "+91 87148 06580",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "386da55091df",
@@ -800,7 +873,7 @@
    "published": "2026-11-07T04:51:49.000Z",
    "poster": "posters/386da55091df.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "Boys only",
    "info": {
@@ -808,7 +881,7 @@
    },
    "contact": "62823 01840",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "848ba6042023",
@@ -823,13 +896,13 @@
    "published": "2026-11-08T05:39:30.000Z",
    "poster": "posters/848ba6042023.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "19247df13174",
@@ -844,13 +917,13 @@
    "published": "2026-11-08T00:30:07.000Z",
    "poster": "posters/19247df13174.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "edc5e59ecef2",
@@ -865,7 +938,7 @@
    "published": "2026-11-07T10:56:03.000Z",
    "poster": "posters/edc5e59ecef2.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -873,7 +946,7 @@
    },
    "contact": "22framesofficial@gmail.com, 22FRAMESOFFICIAL@GMAIL.COM.",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "3ce9254808f8",
@@ -914,7 +987,7 @@
    "published": "2026-11-06T13:11:44.000Z",
    "poster": "posters/e7764083d4ac.jpg",
    "first_seen": "2026-11-06T19:07:37.995677+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -922,7 +995,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "9ba7863fe4d8",
@@ -937,7 +1010,7 @@
    "published": "2026-11-06T11:01:03.000Z",
    "poster": "posters/9ba7863fe4d8.jpg",
    "first_seen": "2026-11-06T19:07:37.995677+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -945,7 +1018,7 @@
    },
    "contact": "auditionsdesk@gmail.com",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "531e3ac41b84",
@@ -960,7 +1033,7 @@
    "published": "2026-11-06T08:33:49.000Z",
    "poster": "posters/531e3ac41b84.jpg",
    "first_seen": "2026-11-06T19:07:37.995677+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -968,7 +1041,7 @@
    },
    "contact": "8594014193",
    "notified_class": "NEEDS REVIEW",
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "5c3c0d5c6107",
@@ -983,7 +1056,7 @@
    "published": "2026-11-06T06:07:46.000Z",
    "poster": "posters/5c3c0d5c6107.jpg",
    "first_seen": "2026-11-06T19:07:37.995677+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -991,7 +1064,7 @@
    },
    "contact": "22FRAMESOFFICIAL@GMAIL.COM, 22framesofficial@gmail.com, 22FRAMESOFFICIAL@GMAIL.COM.",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "a6e41ac4633a",
@@ -1006,13 +1079,13 @@
    "published": "2026-11-06T09:40:50.000Z",
    "poster": "posters/a6e41ac4633a.jpg",
    "first_seen": "2026-11-06T19:07:37.995677+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "e526265382ce",
@@ -1027,13 +1100,13 @@
    "published": "2026-11-06T07:38:31.000Z",
    "poster": "posters/e526265382ce.jpg",
    "first_seen": "2026-11-06T19:07:37.995677+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "baf31adb2eac",
@@ -1048,7 +1121,7 @@
    "published": "2026-11-05T19:36:31.000Z",
    "poster": "posters/baf31adb2eac.jpg",
    "first_seen": "2026-11-06T19:07:37.995677+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -1056,7 +1129,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "3278dc1aeaef",
@@ -2428,7 +2501,8 @@
     "https://www.instagram.com/p/Dex02HOslYj/",
     "https://www.instagram.com/p/DfA2FEcz1kO/",
     "https://www.instagram.com/p/Dfcq6N7xb2D/",
-    "https://www.instagram.com/p/DfaWNqkRgRD/"
+    "https://www.instagram.com/p/DfaWNqkRgRD/",
+    "https://www.instagram.com/p/DfghIv3xVJy/"
    ],
    "sources": [
     "instagram:mayoon_v_"
@@ -2436,13 +2510,13 @@
    "published": "2026-10-22T01:46:20.000Z",
    "poster": "posters/803cf439e413.jpg",
    "first_seen": "2026-10-22T18:48:22.942325+05:30",
-   "last_seen": "2026-11-08T18:52:15.815752+05:30",
+   "last_seen": "2026-11-09T19:12:34.673937+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 10
+   "scans": 13
   },
   {
    "id": "74e2ff2f30ef",
