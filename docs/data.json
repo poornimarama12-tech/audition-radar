@@ -1,23 +1,6 @@
 {
- "generated": "2026-11-09T19:12:34.673937+05:30",
+ "generated": "2026-11-10T19:03:40.353829+05:30",
  "scans": [
-  {
-   "time": "2026-10-17T18:29:59.086833+05:30",
-   "sources": {
-    "instagram": {
-     "ok": true,
-     "count": 14
-    },
-    "search": {
-     "ok": false,
-     "error": "all search queries failed"
-    }
-   },
-   "new": 2,
-   "emailed": false,
-   "email_error": "'ascii' codec can't encode character '\\xa0' in position 31: ordinal not in range(128)",
-   "health": "degraded"
-  },
   {
    "time": "2026-10-18T18:30:23.267011+05:30",
    "sources": {
@@ -592,9 +575,119 @@
    "new": 3,
    "emailed": true,
    "health": "ok"
+  },
+  {
+   "time": "2026-11-10T19:03:40.353829+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 20
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 30
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 4,
+   "emailed": false,
+   "health": "ok"
   }
  ],
  "opps": [
+  {
+   "id": "78734d8332da",
+   "title": "Tradition in her attire, confidence in every step. . . . . . . . . . . . . . #keralamodels",
+   "text": "Tradition in her attire, confidence in every step.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#keralamodels #onammodellaunch #onamoutfit  #modeling #aspiringmodel, lukmancemodelmanagement, lukmanceonammodellaunch, lukmanceonammodellaunch 2026, grooming, talents of kerala, kerala models, models of kerala, modeling experience, cat walk, modeling guidance\n()",
+   "urls": [
+    "https://www.instagram.com/p/Dfi9jmPS9fV/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-10T03:43:41.000Z",
+   "poster": "posters/78734d8332da.jpg",
+   "first_seen": "2026-11-10T19:03:40.353829+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "01ea64bc7812",
+   "title": "Contact here 👉👉👉 Whatsapp no: 9640405199 Gamil: pasulaumeshchandan145@gmail.com",
+   "text": "Contact here 👉👉👉\nWhatsapp no: 9640405199\nGamil: pasulaumeshchandan145@gmail.com\nSOUTH INDIAN FILM ACADEMY\ny (SIFA)\n— presents\n\nA SHORT FILM\n\nfor our upcoming short film, produced by SIFA\nWe are looking for talented actors for the following roles:\n\n15 - 16 Years 6 Years - Above 50\nOld Girl Old Girl ars Old\n\n=~ Director\n1-5) Umesh Chandan Pasula\n© Phone no : 9640405199\n\nDOP\n| John bk\n{& Phone no : 7012770521\n\nHOW TO APPLY? IMPORTANT NOTES:\n\nSend your recent photos and ‘© Only shoristed candidates wil be contacted.\na short introduction (name, age, se റ\n\nABE, © Thisis a shore film project produced by\ncontact number) to: South Indian Film Academy (SIFA).\n\n3 pasulaumeshchandanl45@gmail.com) | ൭ All selected artists willbe informed with\n\nfurther details regarding dé ind location.\nSubject: The Shell World ~ Casting Call ge ന്‌\n\n—— Bea part of a unique cinematic journey... —",
+   "urls": [
+    "https://www.instagram.com/p/Dfj8LkHTDDn/"
+   ],
+   "sources": [
+    "instagram:malayalam_castingcalls"
+   ],
+   "published": "2026-11-10T12:47:35.000Z",
+   "poster": "posters/01ea64bc7812.jpg",
+   "first_seen": "2026-11-10T19:03:40.353829+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "9640405199, pasulaumeshchandan145@gmail.com, 7012770521, pasulaumeshchandanl45@gmail.com",
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "9d08800ad769",
+   "title": "🎬 CASTING CALL – FEMALE MODEL / ACTOR Looking for a female model with good acting skills f",
+   "text": "🎬 CASTING CALL – FEMALE MODEL / ACTOR\n\nLooking for a female model with good acting skills for an upcoming advertisement shoot!\n\n✨ Requirements:\n\n- Screen Age: 25–30 years\n- Elegant appearance and good screen presence\n- Strong acting skills\n\nInterested candidates, please WhatsApp the following:\n\n📸 Recent photographs\n🎥 Acting videos / Performance videos\n\n📱 Contact / WhatsApp: +91 87148 06580\nAD FILM PRODUCTION NOW CASTING « KOCHI\n\nCASTING\nCall\n\nFemale Model / Actor\n\n‘Seeking a talented face for an upcoming advertisement shoot.\n\nKOCHI-BASED MODELS ONLY\n\nREQUIREMENTS\n\n‘Screen age 25-30 years\nLook Elegant, with good screen presence\nSkill Strong acting skills\nSHOOT DATE DURATION\n3rd Week of November 2026 One-Day\nShoot\n\nHOW TO APPLY\n\nWhatsApp your recent photographs and acting / performance videos\nto:\n\n91 87148 06580",
+   "urls": [
+    "https://www.instagram.com/p/Dfjv5uYTJ-3/"
+   ],
+   "sources": [
+    "instagram:malayalam_castingcalls"
+   ],
+   "published": "2026-11-10T11:00:30.000Z",
+   "poster": "posters/9d08800ad769.jpg",
+   "first_seen": "2026-11-10T19:03:40.353829+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "+91 87148 06580, 91 87148 06580",
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "2d511a87daa8",
+   "title": "💍 CASTING CALL – STAR BRIDE | HALA MOHANLAL A unique opportunity to be part of a grand cel",
+   "text": "💍 CASTING CALL – STAR BRIDE | HALA MOHANLAL\n\nA unique opportunity to be part of a grand celebration!\n\nMeralda Gold, Diamonds & Gems, in association with Hit 96.7 and Equity Plus, is looking for a female model for the upcoming Star Bride event featuring Hala Mohanlal.\n\n✨ Requirements:\n\n- Female candidates\n- Age: 20–26 years\n- Good screen presence and confidence\n\n📹 How to Apply?\n\nInterested candidates should send a 1–2 minute introduction video via WhatsApp.\n\n📱 WhatsApp: +971 50 996 7693\n\n📅 Event Date: 2 December 2026\n📍 Venue: Coca-Cola Arena, Dubai\n\nShortlisted applicants will proceed to the next stage of the casting process.\n\n🌟 Don't miss this opportunity! Share with someone who might be interested.\n\n#CastingCall #mohanlal #dubaicasting #DubaiEvents #femalemodelcasting\nലാലേട്ടന്‍ പങ്കെടു\nകല്ല്യാണത്തിന്‌\n\nലാലേട്ടനും\nഒഞ്ജുവാര്യര്‍ക്കുമൊപ്പം\nCoca-Cola Arena യില്‍\nവേദി പങ്കിടാം\n\nSend us your 1-2 minute\n\nintroduction video .\nvia WhatsApp: +971 50 996 7693 + AL. +\nOgg\n| Age limit: 20-26 years MOH [11 [\n1 shortlisted applicants will advance to 02 December 2026\n\nthe next stage of the casting process. CoCo-Cola Arena, Dubai\n\nBe,",
+   "urls": [
+    "https://www.instagram.com/p/DfiGzNiyiSq/"
+   ],
+   "sources": [
+    "instagram:malayalam_castingcalls"
+   ],
+   "published": "2026-11-09T19:42:06.000Z",
+   "poster": "posters/2d511a87daa8.jpg",
+   "first_seen": "2026-11-10T19:03:40.353829+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": "2026-12-02"
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
   {
    "id": "aba15515b8c4",
    "title": "Elegance rooted in tradition, carried with confidence. . . . . . . . . . . . #lukmancemode",
@@ -608,13 +701,13 @@
    "published": "2026-11-09T06:18:36.000Z",
    "poster": "posters/aba15515b8c4.jpg",
    "first_seen": "2026-11-09T19:12:34.673937+05:30",
-   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "a68946ac4cdc",
@@ -678,13 +771,13 @@
    "published": "2026-11-07T06:07:26.000Z",
    "poster": "posters/fb9737d63b9b.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "6c8f52d9e907",
@@ -699,13 +792,13 @@
    "published": "2026-11-07T05:18:21.000Z",
    "poster": "posters/6c8f52d9e907.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "db182078346c",
@@ -741,13 +834,13 @@
    "published": "2026-11-08T05:18:32.000Z",
    "poster": "posters/ed2f96448ba0.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "9618a2045801",
@@ -762,13 +855,13 @@
    "published": "2026-11-08T06:20:37.000Z",
    "poster": "posters/9618a2045801.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "76dd665ad1c9",
@@ -783,13 +876,13 @@
    "published": "2026-11-07T06:54:43.000Z",
    "poster": "posters/76dd665ad1c9.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "082219ab1f7f",
@@ -804,7 +897,7 @@
    "published": "2026-11-08T06:49:11.000Z",
    "poster": "posters/082219ab1f7f.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -812,7 +905,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "b50b1bda0757",
@@ -827,7 +920,7 @@
    "published": "2026-11-06T14:11:56.000Z",
    "poster": "posters/b50b1bda0757.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -835,7 +928,7 @@
    },
    "contact": "22framesofficial@gmail.com",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "31fa9e42f2aa",
@@ -873,7 +966,7 @@
    "published": "2026-11-07T04:51:49.000Z",
    "poster": "posters/386da55091df.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
    "class": "REJECTED",
    "reason": "Boys only",
    "info": {
@@ -881,7 +974,7 @@
    },
    "contact": "62823 01840",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "848ba6042023",
@@ -896,13 +989,13 @@
    "published": "2026-11-08T05:39:30.000Z",
    "poster": "posters/848ba6042023.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "19247df13174",
@@ -917,13 +1010,13 @@
    "published": "2026-11-08T00:30:07.000Z",
    "poster": "posters/19247df13174.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "edc5e59ecef2",
@@ -938,7 +1031,7 @@
    "published": "2026-11-07T10:56:03.000Z",
    "poster": "posters/edc5e59ecef2.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -946,7 +1039,7 @@
    },
    "contact": "22framesofficial@gmail.com, 22FRAMESOFFICIAL@GMAIL.COM.",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "3ce9254808f8",
@@ -2502,7 +2595,8 @@
     "https://www.instagram.com/p/DfA2FEcz1kO/",
     "https://www.instagram.com/p/Dfcq6N7xb2D/",
     "https://www.instagram.com/p/DfaWNqkRgRD/",
-    "https://www.instagram.com/p/DfghIv3xVJy/"
+    "https://www.instagram.com/p/DfghIv3xVJy/",
+    "https://www.instagram.com/p/Dfj2-IAxj7k/"
    ],
    "sources": [
     "instagram:mayoon_v_"
@@ -2510,13 +2604,13 @@
    "published": "2026-10-22T01:46:20.000Z",
    "poster": "posters/803cf439e413.jpg",
    "first_seen": "2026-10-22T18:48:22.942325+05:30",
-   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-10T19:03:40.353829+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 13
+   "scans": 17
   },
   {
    "id": "74e2ff2f30ef",
