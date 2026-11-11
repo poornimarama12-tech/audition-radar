@@ -1,23 +1,6 @@
 {
- "generated": "2026-11-10T19:03:40.353829+05:30",
+ "generated": "2026-11-11T19:11:01.265371+05:30",
  "scans": [
-  {
-   "time": "2026-10-18T18:30:23.267011+05:30",
-   "sources": {
-    "instagram": {
-     "ok": true,
-     "count": 13
-    },
-    "search": {
-     "ok": false,
-     "error": "all search queries failed"
-    }
-   },
-   "new": 2,
-   "emailed": false,
-   "email_error": "'ascii' codec can't encode character '\\xa0' in position 31: ordinal not in range(128)",
-   "health": "degraded"
-  },
   {
    "time": "2026-10-19T18:43:57.079140+05:30",
    "sources": {
@@ -595,9 +578,124 @@
    "new": 4,
    "emailed": false,
    "health": "ok"
+  },
+  {
+   "time": "2026-11-11T19:11:01.265371+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 15
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 50
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 4,
+   "emailed": true,
+   "health": "ok"
   }
  ],
  "opps": [
+  {
+   "id": "0bd9837e09d8",
+   "title": "Casting Call 🎭 Feature Film (Malayalam) Looking for Female, Boys & Girls. Check the poster",
+   "text": "Casting Call 🎭 Feature Film (Malayalam)\n\nLooking for Female, Boys & Girls. Check the poster for more details.\n\n#arh #auditionsarehere #castingcall #malayalamcinema #mollywood\nEXPERIMENTS\n\nEA EXPERIMENTS നിര്‍മ്മിക്കുന്ന പുതിയ ചിത്രത്തിലേക്ക്‌\nഅഭിനതാക്കുളെ തുന്നു\n\nFEMALE\n(SCREEN AGE 23)\n\n<i 0K. .:\n\n(SCREEN AGE‘10)\nദ്ധ\n\n(SCREEN AGE 7)\n\nSEND YOUR PHOTOS (UNEDITED/NO MAKEUP) TO\n\n(S +91 94456 78073\n\nLAST DATE OF SUBMISSION :\n25 NOVEMBER 2026",
+   "urls": [
+    "https://www.instagram.com/p/DfkbDRGPnIw/"
+   ],
+   "sources": [
+    "instagram:auditionsarehere"
+   ],
+   "published": "2026-11-10T17:17:34.000Z",
+   "poster": "posters/0bd9837e09d8.jpg",
+   "first_seen": "2026-11-11T19:11:01.265371+05:30",
+   "last_seen": "2026-11-11T19:11:01.265371+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": "2026-11-25"
+   },
+   "contact": "+91 94456 78073",
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "9163c603085c",
+   "title": "CASTING CALL – KURSIYIL GOAL ഒരു പുതിയ ചിത്രത്തിലേക്ക് അഭിനേതാക്കളെ തേടുന്നു. ആവശ്യമായ അഭി",
+   "text": "CASTING CALL – KURSIYIL GOAL\n\nഒരു പുതിയ ചിത്രത്തിലേക്ക് അഭിനേതാക്കളെ തേടുന്നു.\n\nആവശ്യമായ അഭിനേതാക്കൾ\n\nആൺകുട്ടികളും പെൺകുട്ടികളും\n\nപ്രായപരിധി: 10–15 വയസ്സ്\n\nഫുട്ബോൾ കളിക്കാൻ അറിയാവുന്ന കുട്ടികൾക്ക് മുൻഗണന ഉണ്ടായിരിക്കും.\n\nഅപേക്ഷിക്കേണ്ട വിധം\n\nതാൽപര്യമുള്ളവർ താഴെ പറയുന്നവ അയക്കുക:\n\nബയോഡാറ്റ\n\nഫോട്ടോകൾ\n\nഒരു മിനിറ്റ് ഇൻട്രൊഡക്ഷൻ വീഡിയോ\n\nഫുട്ബോൾ കളിക്കുന്ന വീഡിയോ ക്ലിപ്പ് (ഉണ്ടെങ്കിൽ)\n\nEmail: casting4marc@gmail.com\n\nContact: +91 62823 61500 +91 77364 62073\nഫുട്‌ബോള്‍ കളിക്കാന്‍\nകുട്ടികള്‍ക്ക്‌ മുന്‍ഗ൦\n\nഅയര്‍ക്കണ്ടവ:\nബടയാ . ഫോടട്ടാകള്‍, 1 ദിനിറ്റ്‌ ഇന്‍൭്രാഡക്ഷന്‍ വീഡിഭയാ.\nഫുട്ബോള്‍ കളിക്കുദനന വീഡിയോ ക്ലിഷ്‌.\n\nടി 62823 61500 “ടി 7736462075",
+   "urls": [
+    "https://www.instagram.com/p/DflrJ_pTzXH/"
+   ],
+   "sources": [
+    "instagram:malayalam_castingcalls"
+   ],
+   "published": "2026-11-11T04:57:16.000Z",
+   "poster": "posters/9163c603085c.jpg",
+   "first_seen": "2026-11-11T19:11:01.265371+05:30",
+   "last_seen": "2026-11-11T19:11:01.265371+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "casting4marc@gmail.com, +91 62823 61500, +91 77364 62073, 62823 61500, 7736462075",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  {
+   "id": "694245b8a844",
+   "title": "ഓഡിഷൻ കോൾ E4 Experiments നിർമ്മിക്കുന്ന പുതിയ ചിത്രത്തിലേക്ക് അഭിനയപ്രതിഭകളെ തേടുന്നു. ആവശ",
+   "text": "ഓഡിഷൻ കോൾ\n\nE4 Experiments നിർമ്മിക്കുന്ന പുതിയ ചിത്രത്തിലേക്ക് അഭിനയപ്രതിഭകളെ തേടുന്നു.\n\nആവശ്യമായ അഭിനേതാക്കൾ\n\nസ്ത്രീ: സ്ക്രീൻ പ്രായം 23 വയസ്സ്\n\nആൺകുട്ടി: സ്ക്രീൻ പ്രായം 10 വയസ്സ്\n\nപെൺകുട്ടി: സ്ക്രീൻ പ്രായം 7 വയസ്സ്\n\nഅപേക്ഷിക്കേണ്ട വിധം\n\nതാൽപര്യമുള്ളവർ മേക്കപ്പില്ലാത്തതും എഡിറ്റ് ചെയ്യാത്തതുമായ പുതിയ ഫോട്ടോകൾ താഴെ കൊടുത്തിരിക്കുന്ന വാട്സ്ആപ്പ് നമ്പറിലേക്ക് അയക്കുക.\n\nWhatsApp: +91 94456 78073\n\nഅപേക്ഷിക്കേണ്ട അവസാന തീയതി: 2026 നവംബർ 25\nEQ EXPERIMENTS നിര്‍മ്മിക്കുന്ന പുതിയ ചിത്രത്തിഃവക്ക്‌\nഅഭിനതാക്കളെത്ുന്നു\n\nFEMALE\n(SCREEN AGE 23)\n\nBOY\n(SCREEN AGE 10)\n\nGIRL\n(SCREEN AGE 7)\n\nSEND YOUR PHOTOS (UNEDITED/NO MAKEUP) TO\n\n(S +91 94456 78073\n\nLAST DATE OF SUBMISSION :\n25 NOVEMBER 2026\n\nCASTING GALL",
+   "urls": [
+    "https://www.instagram.com/p/DfkHPt_TMBG/"
+   ],
+   "sources": [
+    "instagram:malayalam_castingcalls"
+   ],
+   "published": "2026-11-10T14:24:13.000Z",
+   "poster": "posters/694245b8a844.jpg",
+   "first_seen": "2026-11-11T19:11:01.265371+05:30",
+   "last_seen": "2026-11-11T19:11:01.265371+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Possibly relevant but age unclear, location unclear, production type unclear",
+   "info": {
+    "deadline": "2026-11-25",
+    "gender": "female",
+    "location": null,
+    "type": null
+   },
+   "contact": "+91 94456 78073",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  {
+   "id": "01f572e128ab",
+   "title": "📢 WE ARE HIRING KIDS FOR UPCOMING MODELLING PROJECTS! Does your little one love the camera",
+   "text": "📢 WE ARE HIRING KIDS FOR UPCOMING MODELLING PROJECTS!\n\nDoes your little one love the camera? This could be their opportunity to shine!\n\nTHE CAST CO. is welcoming registrations for:\n\n📸 Kids Photoshoots\n👗 Fashion Modelling\n🛍️ E-commerce Shoots\n🎬 TV & Digital Advertisements\n✨ Brand Campaigns\n\n👶 Age Group: 1 Month – 18 Years\n\n📩 DM NOW TO REGISTER YOUR LITTLE STAR!\n\nTHE CAST CO. – Discovering Tomorrow’s Little Faces!\n\n#TheCastCo #KidsModelHiring #KidsCastingCall #ChildModels #FashionCasting",
+   "urls": [
+    "https://www.instagram.com/p/DfmhgkUTkqY/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-11T12:52:01.000Z",
+   "poster": "posters/01f572e128ab.jpg",
+   "first_seen": "2026-11-11T19:11:01.265371+05:30",
+   "last_seen": "2026-11-11T19:11:01.265371+05:30",
+   "class": "REJECTED",
+   "reason": "Location only delhi",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
   {
    "id": "78734d8332da",
    "title": "Tradition in her attire, confidence in every step. . . . . . . . . . . . . . #keralamodels",
@@ -611,13 +709,13 @@
    "published": "2026-11-10T03:43:41.000Z",
    "poster": "posters/78734d8332da.jpg",
    "first_seen": "2026-11-10T19:03:40.353829+05:30",
-   "last_seen": "2026-11-10T19:03:40.353829+05:30",
+   "last_seen": "2026-11-11T19:11:01.265371+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "01ea64bc7812",
@@ -632,15 +730,15 @@
    "published": "2026-11-10T12:47:35.000Z",
    "poster": "posters/01ea64bc7812.jpg",
    "first_seen": "2026-11-10T19:03:40.353829+05:30",
-   "last_seen": "2026-11-10T19:03:40.353829+05:30",
-   "class": "REJECTED",
-   "reason": "Age requirement does not fit",
+   "last_seen": "2026-11-11T19:11:01.265371+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
     "deadline": null
    },
    "contact": "9640405199, pasulaumeshchandan145@gmail.com, 7012770521, pasulaumeshchandanl45@gmail.com",
-   "notified_class": null,
-   "scans": 1
+   "notified_class": "NEEDS REVIEW",
+   "scans": 2
   },
   {
    "id": "9d08800ad769",
@@ -678,7 +776,7 @@
    "published": "2026-11-09T19:42:06.000Z",
    "poster": "posters/2d511a87daa8.jpg",
    "first_seen": "2026-11-10T19:03:40.353829+05:30",
-   "last_seen": "2026-11-10T19:03:40.353829+05:30",
+   "last_seen": "2026-11-11T19:11:01.265371+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -686,7 +784,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "aba15515b8c4",
@@ -701,13 +799,13 @@
    "published": "2026-11-09T06:18:36.000Z",
    "poster": "posters/aba15515b8c4.jpg",
    "first_seen": "2026-11-09T19:12:34.673937+05:30",
-   "last_seen": "2026-11-10T19:03:40.353829+05:30",
+   "last_seen": "2026-11-11T19:11:01.265371+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "a68946ac4cdc",
@@ -834,13 +932,13 @@
    "published": "2026-11-08T05:18:32.000Z",
    "poster": "posters/ed2f96448ba0.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-10T19:03:40.353829+05:30",
+   "last_seen": "2026-11-11T19:11:01.265371+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   {
    "id": "9618a2045801",
@@ -855,13 +953,13 @@
    "published": "2026-11-08T06:20:37.000Z",
    "poster": "posters/9618a2045801.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-10T19:03:40.353829+05:30",
+   "last_seen": "2026-11-11T19:11:01.265371+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   {
    "id": "76dd665ad1c9",
@@ -897,7 +995,7 @@
    "published": "2026-11-08T06:49:11.000Z",
    "poster": "posters/082219ab1f7f.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-10T19:03:40.353829+05:30",
+   "last_seen": "2026-11-11T19:11:01.265371+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -905,7 +1003,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   {
    "id": "b50b1bda0757",
@@ -989,13 +1087,13 @@
    "published": "2026-11-08T05:39:30.000Z",
    "poster": "posters/848ba6042023.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-10T19:03:40.353829+05:30",
+   "last_seen": "2026-11-11T19:11:01.265371+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   {
    "id": "19247df13174",
@@ -1010,13 +1108,13 @@
    "published": "2026-11-08T00:30:07.000Z",
    "poster": "posters/19247df13174.jpg",
    "first_seen": "2026-11-08T18:52:15.815752+05:30",
-   "last_seen": "2026-11-10T19:03:40.353829+05:30",
+   "last_seen": "2026-11-11T19:11:01.265371+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   {
    "id": "edc5e59ecef2",
@@ -2604,13 +2702,13 @@
    "published": "2026-10-22T01:46:20.000Z",
    "poster": "posters/803cf439e413.jpg",
    "first_seen": "2026-10-22T18:48:22.942325+05:30",
-   "last_seen": "2026-11-10T19:03:40.353829+05:30",
+   "last_seen": "2026-11-11T19:11:01.265371+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 17
+   "scans": 20
   },
   {
    "id": "74e2ff2f30ef",
