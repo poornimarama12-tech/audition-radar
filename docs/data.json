@@ -1,23 +1,6 @@
 {
- "generated": "2026-11-11T19:11:01.265371+05:30",
+ "generated": "2026-11-12T19:13:10.937396+05:30",
  "scans": [
-  {
-   "time": "2026-10-19T18:43:57.079140+05:30",
-   "sources": {
-    "instagram": {
-     "ok": true,
-     "count": 13
-    },
-    "search": {
-     "ok": false,
-     "error": "all search queries failed"
-    }
-   },
-   "new": 1,
-   "emailed": false,
-   "email_error": "'ascii' codec can't encode character '\\xa0' in position 31: ordinal not in range(128)",
-   "health": "degraded"
-  },
   {
    "time": "2026-10-20T18:43:42.141234+05:30",
    "sources": {
@@ -598,9 +581,52 @@
    "new": 4,
    "emailed": true,
    "health": "ok"
+  },
+  {
+   "time": "2026-11-12T19:13:10.937396+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 10
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 37
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 1,
+   "emailed": false,
+   "health": "ok"
   }
  ],
  "opps": [
+  {
+   "id": "35bfe07f074c",
+   "title": "🎬 കാസ്റ്റിംഗ് കോൾ – പുരുഷ / സ്ത്രീ അഭിനേതാക്കൾ വരാനിരിക്കുന്ന ഒരു പരസ്യ ചിത്രീകരണത്തിനായി ",
+   "text": "🎬 കാസ്റ്റിംഗ് കോൾ – പുരുഷ / സ്ത്രീ അഭിനേതാക്കൾ\n\nവരാനിരിക്കുന്ന ഒരു പരസ്യ ചിത്രീകരണത്തിനായി അച്ഛൻ, അമ്മ എന്നീ കഥാപാത്രങ്ങളെ അവതരിപ്പിക്കാൻ പുരുഷ, സ്ത്രീ അഭിനേതാക്കളെ തേടുന്നു!\n\n✨ ആവശ്യകതകൾ:\n\n- പ്രായം: 50–55 വയസ്സ് തോന്നിക്കുന്നവർ\n- ആകർഷകമായ വ്യക്തിത്വം\n- മികച്ച സ്ക്രീൻ പ്രസൻസ്\n\n📍 ഷൂട്ടിംഗ് ലൊക്കേഷൻ: പെരിന്തൽമണ്ണ, മലപ്പുറം\n📅 ഷൂട്ടിംഗ് തീയതി: നവംബർ 20, 2026\n\n📌 മുൻഗണന: മലപ്പുറം ജില്ലയിൽ നിന്നുള്ളവർക്ക് മുൻഗണന.\n\n📩 താൽപ്പര്യമുള്ളവർ നിങ്ങളുടെ ഏറ്റവും പുതിയ ഫോട്ടോകൾ താഴെ നൽകിയിരിക്കുന്ന WhatsApp നമ്പറിലേക്ക് അയക്കുക.\n\n📱 +91 87148 06580\nCASTING CALL - പരസ്വ ചിത്രം\n\nകാസ്റ്റിംഗ്‌\nകോള്‍\n\nപുരുഷ / സ്ത്രീ അഭിനേതാക്കളെ തേടുന്നു\n\nഅച്ഛന്‍ അമ്മ\n\nപുരുഷ അഭിനേതാവ്‌ സ്ത്രീ അഭിനേതാവ്‌\n\nആവശ്യ\nപ്രായം: 50-55 വയസ്സ്‌ തോന്നിക്കുന്നവര്‍\nആകരഷകുമായ വ്യക്തിത്വം\n\nമികച്ച സ്ക്രീ൯ പ്രസന്‍സ്‌\n\nലൊക്കേഷ൯ ഷൂട്ടിംഗ്‌ തീയതി\n\nപെരിന്തല്‍മണ്ണ, മലഖു നവംബര്‍ 20, 2026\n\nനിങ്ങളുടെ ഏറ്റവും പുതിയ ഫോട്ടോകള്‍ WhatsApp ചെയ്യുക\n\n391 87148 06580",
+   "urls": [
+    "https://www.instagram.com/p/Dfosc3MTOJh/"
+   ],
+   "sources": [
+    "instagram:malayalam_castingcalls"
+   ],
+   "published": "2026-11-12T09:06:19.000Z",
+   "poster": "posters/35bfe07f074c.jpg",
+   "first_seen": "2026-11-12T19:13:10.937396+05:30",
+   "last_seen": "2026-11-12T19:13:10.937396+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "+91 87148 06580, 91 87148 06580",
+   "notified_class": null,
+   "scans": 1
+  },
   {
    "id": "0bd9837e09d8",
    "title": "Casting Call 🎭 Feature Film (Malayalam) Looking for Female, Boys & Girls. Check the poster",
@@ -614,7 +640,7 @@
    "published": "2026-11-10T17:17:34.000Z",
    "poster": "posters/0bd9837e09d8.jpg",
    "first_seen": "2026-11-11T19:11:01.265371+05:30",
-   "last_seen": "2026-11-11T19:11:01.265371+05:30",
+   "last_seen": "2026-11-12T19:13:10.937396+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -622,7 +648,7 @@
    },
    "contact": "+91 94456 78073",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "9163c603085c",
@@ -637,7 +663,7 @@
    "published": "2026-11-11T04:57:16.000Z",
    "poster": "posters/9163c603085c.jpg",
    "first_seen": "2026-11-11T19:11:01.265371+05:30",
-   "last_seen": "2026-11-11T19:11:01.265371+05:30",
+   "last_seen": "2026-11-12T19:13:10.937396+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -645,7 +671,7 @@
    },
    "contact": "casting4marc@gmail.com, +91 62823 61500, +91 77364 62073, 62823 61500, 7736462075",
    "notified_class": "NEEDS REVIEW",
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "694245b8a844",
@@ -660,7 +686,7 @@
    "published": "2026-11-10T14:24:13.000Z",
    "poster": "posters/694245b8a844.jpg",
    "first_seen": "2026-11-11T19:11:01.265371+05:30",
-   "last_seen": "2026-11-11T19:11:01.265371+05:30",
+   "last_seen": "2026-11-12T19:13:10.937396+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but age unclear, location unclear, production type unclear",
    "info": {
@@ -671,7 +697,7 @@
    },
    "contact": "+91 94456 78073",
    "notified_class": "NEEDS REVIEW",
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "01f572e128ab",
@@ -709,13 +735,13 @@
    "published": "2026-11-10T03:43:41.000Z",
    "poster": "posters/78734d8332da.jpg",
    "first_seen": "2026-11-10T19:03:40.353829+05:30",
-   "last_seen": "2026-11-11T19:11:01.265371+05:30",
+   "last_seen": "2026-11-12T19:13:10.937396+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "01ea64bc7812",
@@ -730,7 +756,7 @@
    "published": "2026-11-10T12:47:35.000Z",
    "poster": "posters/01ea64bc7812.jpg",
    "first_seen": "2026-11-10T19:03:40.353829+05:30",
-   "last_seen": "2026-11-11T19:11:01.265371+05:30",
+   "last_seen": "2026-11-12T19:13:10.937396+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -738,7 +764,7 @@
    },
    "contact": "9640405199, pasulaumeshchandan145@gmail.com, 7012770521, pasulaumeshchandanl45@gmail.com",
    "notified_class": "NEEDS REVIEW",
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "9d08800ad769",
@@ -776,7 +802,7 @@
    "published": "2026-11-09T19:42:06.000Z",
    "poster": "posters/2d511a87daa8.jpg",
    "first_seen": "2026-11-10T19:03:40.353829+05:30",
-   "last_seen": "2026-11-11T19:11:01.265371+05:30",
+   "last_seen": "2026-11-12T19:13:10.937396+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -784,7 +810,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "aba15515b8c4",
@@ -799,13 +825,13 @@
    "published": "2026-11-09T06:18:36.000Z",
    "poster": "posters/aba15515b8c4.jpg",
    "first_seen": "2026-11-09T19:12:34.673937+05:30",
-   "last_seen": "2026-11-11T19:11:01.265371+05:30",
+   "last_seen": "2026-11-12T19:13:10.937396+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   {
    "id": "a68946ac4cdc",
@@ -843,7 +869,7 @@
    "published": "2026-11-09T01:20:18.000Z",
    "poster": "posters/8037cb8afee0.jpg",
    "first_seen": "2026-11-09T19:12:34.673937+05:30",
-   "last_seen": "2026-11-09T19:12:34.673937+05:30",
+   "last_seen": "2026-11-12T19:13:10.937396+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but age unclear, location unclear",
    "info": {
@@ -854,7 +880,7 @@
    },
    "contact": null,
    "notified_class": "NEEDS REVIEW",
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "fb9737d63b9b",
@@ -2702,13 +2728,13 @@
    "published": "2026-10-22T01:46:20.000Z",
    "poster": "posters/803cf439e413.jpg",
    "first_seen": "2026-10-22T18:48:22.942325+05:30",
-   "last_seen": "2026-11-11T19:11:01.265371+05:30",
+   "last_seen": "2026-11-12T19:13:10.937396+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 20
+   "scans": 22
   },
   {
    "id": "74e2ff2f30ef",
