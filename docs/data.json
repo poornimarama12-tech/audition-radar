@@ -1,27 +1,6 @@
 {
- "generated": "2026-11-13T19:09:49.508806+05:30",
+ "generated": "2026-11-14T18:53:52.949945+05:30",
  "scans": [
-  {
-   "time": "2026-10-21T11:49:43.920384+05:30",
-   "sources": {
-    "instagram": {
-     "ok": true,
-     "count": 8
-    },
-    "hashtags": {
-     "ok": true,
-     "count": 50
-    },
-    "search": {
-     "ok": false,
-     "error": "all search queries failed"
-    }
-   },
-   "new": 4,
-   "emailed": false,
-   "email_error": "'ascii' codec can't encode character '\\xa0' in position 31: ordinal not in range(128)",
-   "health": "degraded"
-  },
   {
    "time": "2026-10-21T12:00:19.306041+05:30",
    "sources": {
@@ -604,9 +583,232 @@
    "new": 5,
    "emailed": false,
    "health": "ok"
+  },
+  {
+   "time": "2026-11-14T18:53:52.949945+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 16
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 50
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 9,
+   "emailed": true,
+   "health": "ok"
   }
  ],
  "opps": [
+  {
+   "id": "6a2308a2a9bb",
+   "title": "A touch of tradition, a beautiful walk, and effortless style! ✨🌸 . . . . . . . . . . . . .",
+   "text": "A touch of tradition, a beautiful walk, and effortless style! ✨🌸\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#onammodelllaunch #aspiringmodel #modeling #modeljourney #modelllaunch\nLukmancemodelmanagement, lukmanceonammodelllaunch, lukmanceonammodelllaunch 2026, aspiring models, modeling experience, grooming, transformation\n‘ meee യം: ~ 4%\n(7 ‘ 111 ന്‌. പറ്റ്‌\n— oF UF\n\nLukmance",
+   "urls": [
+    "https://www.instagram.com/p/DftaIAwS4kY/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-14T05:03:33.000Z",
+   "poster": "posters/6a2308a2a9bb.jpg",
+   "first_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "6de29aee2e7c",
+   "title": "A graceful transition, a timeless traditional look! ✨🌸 . . . . . . . . . . . . . . #onammo",
+   "text": "A graceful transition, a timeless traditional look! ✨🌸\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#onammodelllaunch #modeling #modeljourney #modelllaunch #aspiringmodel\nLukmancemodelmanagement, lukmanceonammodelllaunch, lukmanceonammodelllaunch 2026, aspiring models, modeling experience, grooming, transformation",
+   "urls": [
+    "https://www.instagram.com/p/DftXcvpyQlh/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-14T04:40:06.000Z",
+   "poster": "posters/6de29aee2e7c.jpg",
+   "first_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "aacbfccdc1cb",
+   "title": "Little steps, lovely traditions, and endless cuteness. ✨❤️ . . . . . . . . . . . . #onammo",
+   "text": "Little steps, lovely traditions, and endless cuteness. ✨❤️\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#onammodelllaunch #modelkids #modeling #modeljourney #modellaunch\nLukmancemodelmanagement, lukmanceonammodelllaunch, lukmanceonammodelllaunch 2026, aspiring models, modeling experience, grooming, transformation\nSOAS. gaps ONE\nLukmance\n\nO\\AM MODE\nLAUNCH",
+   "urls": [
+    "https://www.instagram.com/p/DftzSemSpY0/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-14T08:43:32.000Z",
+   "poster": "posters/aacbfccdc1cb.jpg",
+   "first_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "14abd0461c9c",
+   "title": "Walking with grace, dressed in tradition. ✨ . . . . . . . . . . . . . #onammodelllaunch #m",
+   "text": "Walking with grace, dressed in tradition. ✨\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#onammodelllaunch #modelkids #modeling #modeljourney #modelllaunch\nLukmancemodelmanagement, lukmanceonammodelllaunch, lukmanceonammodelllaunch 2026, aspiring models, modeling experience, grooming, transformation",
+   "urls": [
+    "https://www.instagram.com/p/DfuEFgayedP/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-14T11:09:28.000Z",
+   "poster": "posters/14abd0461c9c.jpg",
+   "first_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "782a3e6134a0",
+   "title": "Grace, tradition, and style come together✨ . . . . . . . . . . . . #onammodelllaunch #aspi",
+   "text": "Grace, tradition, and style come together✨\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#onammodelllaunch #aspiringmodel #modeling #modeljourney #modelllaunch\n\nTags / Keywords:\n\nLukmancemodelmanagement, lukmanceonammodelllaunch, lukmanceonammodelllaunch 2026, aspiring models, modeling experience, grooming, transformation\n2\n\nMY\n\nയം\n\nA ONY i\n‘ant ' iN of LN\nfoc\n\nപ\n\nഷെ Lukmance\nക (യാ.\n\nQa\n\noF LiFe",
+   "urls": [
+    "https://www.instagram.com/p/DfthPTmyfDL/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-14T06:05:26.000Z",
+   "poster": "posters/782a3e6134a0.jpg",
+   "first_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "f4cc4caead45",
+   "title": "Casting Call 🎭 Feature Film (Malayalam) Looking for Male, Female & Boy. Check the poster f",
+   "text": "Casting Call 🎭 Feature Film (Malayalam)\n\nLooking for Male, Female & Boy. Check the poster for more details.\n\n#arh #auditionsarehere #castingcall #malayalamcinema #mollywood\nPanoramA UM\n\nUMSO\n\nWRITTEN AND DIRECTED BY UNNI MUKUNDAN\n\nCASTING CALL\n\nse a\n\nCASTING REQUIREMENT: V7],\n\nMALE\nSCREEN AGE : 25-35 YEARS\nHEIGHT: 6 FEET AND ABOVE\n\nPHYSICAL APPEARANCE: 7.\n¢ ATHLETIC.\n\n¢ MUSCULAR.\n\n¢ PHYSICALLY FIT.\n\nCOULD THIS BE THE ROLE FOR YOU?\nOR SOMEONE YOU KNOW?\nHELP US DISCOVER THE RIGHT TALENT.\n\n(_EMAIL- 22FRAMESOFFICIAL@GMAIL.COM.\n\nPanoraMA UMP\n\nWRITTEN AND DIRECTED BY UNNI MUKUNDAN\n\nCASTING CALL\n\nCASTING REQUIREMENT:\n\nFEMALE\nSCREEN AGE : 20 - 26\nHEIGHT: 5'3”\" TO 5'6\"\n\nILL\n\n¢ WHEATISH / LIGHTER SKIN TONE.\n\nOTHER REQUIRMENTS:\n\nAUTHENTICITY, INDIVIDUALITY AND A\nDISTINCTIVE SCREEN PRESENCE TO THE\nCHARACTER.\n\nPREFERENCE FOR PERFORMERS WHO BRING\n\nPA YSICAL APPEARANCE: WY Ml\n\n¢ NATURAL, EFFORTLESS SCREEN PRESENCE.\n¢ NATURALLY CURLY HAIR PREFERRED.\n\nM1\n\nEMAIL- 22FRAMESOFFICIAL@GMAIL.COM. Proves തത\n\nPanoramA UMP\n\nUMSO\n\nWRITTEN AND DIRECTED BY UNNI MUKUNDAN\n\nCASTING CALL\neee\nപ ര്യ\n\nSCREEN AGE : 45-55 YEARS\nHEIGHT: 5'10\" AND ABOVE\n\nPHYSICAL APPEARANCE: YY ///\n\n¢ TOUGH, RUGGED\n¢ MASCULINE, ATHLETIC\n¢ PHYSICALLY FIT.\n\nOTHER REQUIRMENTS: |\n\nA COMPELLING PERFORMER\n\nWITH STRONG SCREEN PRESENCE,\nCAPABLE OF PORTRAYING\n\nLAYERED,\n\nNUANCED AND COMPLEX CHARACTERS.\n\n(_EMAlL- 22FRAMESOFFICIAL@GMAIL.COM.\n\nPanoraMA UMP\n\nLIMSO\n\nWRITTEN AND DIRECTED BY UNNI MUKUNDAN\n\nCASTING CALL\n\nSCREEN AGE : 25-27 YEARS\nHEIGHT: 5'3\" TO 5'6\"\n\n( cHaracTEeR\nCASTING REQUIREMENT: V7, x ടട\nFEMALE @ =)\n\nPHYSICAL APPEARANGE. ന്‌ Ml ടം :\n\n¢ ATHLETIC, PHYSICALLY FIT AND AGILE. : ] a\n¢ NATURAL LONG HAIR. |\n¢ NATURAL BROWN / DUSKY SKIN TONE.\n\nSKILL SET & ATTRIBUTES ///\n\n* GOOD FLEXIBILITY AND PHYSICAL COORDINATION.\n\n൦ MARTIAL ARTS PROFICIENCY OR PRIOR TRAINING.\n\n* FAMILIARITY WITH TRADITIONAL WEAPONS AND\nCOMBAT TECHNIQUES.\n\n+ TRAINING IN KALARIPAYATTU WILL BE A STRONG\nADVANTAGE.\n\nPREFERENCE FOR PERFORMERS WITH STRONG\nPHYSICAL ABILITIES, A NATURAL SCREEN\nPRESENCE AND THE CAPACITY TO PERFORM\nACTION SEQUENCES CONVINCINGLY.\n\nVJ,\n\nEMAIL- 22FRAMESOFFICIAL@GMAIL.COM. Proves Ww\n\nPanoramA| UM?\n\nWRITTEN AND DIRECTED BY UNNI MUKUNDAN\n\nCASTING CALL\n\nCASTING REQUIREMENT\n\nAGE: 10-12 YEARS\nGENDER: MALE\nBUILD: ATHLETIC / PHYSICALLY FIT\n\nESSENTIAL REQUIREMENTS\n\n¢ PROFICIENCY IN ACROBATICS\n¢ TRAINING OR EXPERIENCE IN GYMNASTICS\n¢ MARTIAL ARTS SKILLS\n\nLANGUAGE REQUIREMENTS\n\n൦ MALAYALAM FLUENCY IS COMPULSORY.\n¢ KNOWLEDGE OF MULTIPLE LANGUAGES\nWILL BE AN ADDED ADVANTAGE.\n\nCHILDREN WITH STRONG PHYSICAL AGILITY,\nFLEXIBILITY, COORDINATION AND\nPERFORMANCE ABILITIES ARE PREFERRED.\n\nAPPLY NOW #/f\n\nCHARACTER\n\nREFERENCE",
+   "urls": [
+    "https://www.instagram.com/p/DfsFMp2D-wT/"
+   ],
+   "sources": [
+    "instagram:auditionsarehere"
+   ],
+   "published": "2026-11-13T16:39:55.000Z",
+   "poster": "posters/f4cc4caead45.jpg",
+   "first_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "class": "REJECTED",
+   "reason": "Promotional/class ('training')",
+   "info": {
+    "deadline": null
+   },
+   "contact": "22FRAMESOFFICIAL@GMAIL.COM.",
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "607d313fc5f7",
+   "title": "#babycreator #babybrandcollab #kidscastingcall",
+   "text": "#babycreator #babybrandcollab #kidscastingcall",
+   "urls": [
+    "https://www.instagram.com/p/DfrC3cvmQA0/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-13T07:00:18.000Z",
+   "poster": "posters/607d313fc5f7.jpg",
+   "first_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Possibly relevant but age unclear, location unclear",
+   "info": {
+    "deadline": null,
+    "gender": "any",
+    "location": null,
+    "type": "brand"
+   },
+   "contact": null,
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  {
+   "id": "5dad0cda6b34",
+   "title": "🌟 NEW FACES WANTED FOR UPCOMING PROJECTS! Calling all parents! We are looking for charming",
+   "text": "🌟 NEW FACES WANTED FOR UPCOMING PROJECTS!\n\nCalling all parents! We are looking for charming little models for exciting upcoming photoshoots and brand collaborations.\n\nIs your little one ready to explore the world of modelling?\n\n📸 Professional Photoshoots\n🛍️ Clothing & E-commerce Shoots\n👗 Fashion Modelling\n🎬 Advertisement Campaigns\n\n👶 Age Group: 1 Month – 18 Years\n\n📩 REGISTER TODAY! DM US!\n\nTHE CAST CO. – Discovering Little Faces for Big Brands!\n\n#TheCastCo #FreshFaces #KidsCastingCall #KidsFashion #ModelsWanted",
+   "urls": [
+    "https://www.instagram.com/p/DfozZd8NXlN/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-12T10:06:42.000Z",
+   "poster": "posters/5dad0cda6b34.jpg",
+   "first_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Possibly relevant but age unclear, location unclear",
+   "info": {
+    "deadline": null,
+    "gender": "any",
+    "location": null,
+    "type": "advertisement"
+   },
+   "contact": null,
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  {
+   "id": "7a56669b520b",
+   "title": "On the sets 2 - #castingbangalore #castingcallbangalore #bangaloremodels #bangaloremodelsh",
+   "text": "On the sets 2 - #castingbangalore #castingcallbangalore #bangaloremodels #bangaloremodelshoot #bangalorecasting",
+   "urls": [
+    "https://www.instagram.com/p/Dfog4-TA6sZ/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-12T07:30:51.000Z",
+   "poster": "posters/7a56669b520b.jpg",
+   "first_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
   {
    "id": "f1303bb0f6a9",
    "title": "Casting Call 🎭 Feature Film (Malayalam) Looking for Male, Female & Girl. Check the poster ",
@@ -620,7 +822,7 @@
    "published": "2026-11-13T05:30:11.000Z",
    "poster": "posters/f1303bb0f6a9.jpg",
    "first_seen": "2026-11-13T19:09:49.508806+05:30",
-   "last_seen": "2026-11-13T19:09:49.508806+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -628,7 +830,7 @@
    },
    "contact": "crowdclapscinemass@gmail.com, alenmatters@gmail.com",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "4909635508b2",
@@ -643,13 +845,13 @@
    "published": "2026-11-13T05:11:55.000Z",
    "poster": "posters/4909635508b2.jpg",
    "first_seen": "2026-11-13T19:09:49.508806+05:30",
-   "last_seen": "2026-11-13T19:09:49.508806+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "83d89f94f6ec",
@@ -664,13 +866,13 @@
    "published": "2026-11-13T10:48:44.000Z",
    "poster": "posters/83d89f94f6ec.jpg",
    "first_seen": "2026-11-13T19:09:49.508806+05:30",
-   "last_seen": "2026-11-13T19:09:49.508806+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "0453b70cf5fe",
@@ -685,13 +887,13 @@
    "published": "2026-11-13T06:01:46.000Z",
    "poster": "posters/0453b70cf5fe.jpg",
    "first_seen": "2026-11-13T19:09:49.508806+05:30",
-   "last_seen": "2026-11-13T19:09:49.508806+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "94ae2cf9f044",
@@ -706,13 +908,13 @@
    "published": "2026-11-13T04:22:44.000Z",
    "poster": "posters/94ae2cf9f044.jpg",
    "first_seen": "2026-11-13T19:09:49.508806+05:30",
-   "last_seen": "2026-11-13T19:09:49.508806+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "35bfe07f074c",
@@ -727,7 +929,7 @@
    "published": "2026-11-12T09:06:19.000Z",
    "poster": "posters/35bfe07f074c.jpg",
    "first_seen": "2026-11-12T19:13:10.937396+05:30",
-   "last_seen": "2026-11-13T19:09:49.508806+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -735,7 +937,7 @@
    },
    "contact": "+91 87148 06580, 91 87148 06580",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "0bd9837e09d8",
@@ -750,7 +952,7 @@
    "published": "2026-11-10T17:17:34.000Z",
    "poster": "posters/0bd9837e09d8.jpg",
    "first_seen": "2026-11-11T19:11:01.265371+05:30",
-   "last_seen": "2026-11-13T19:09:49.508806+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -758,7 +960,7 @@
    },
    "contact": "+91 94456 78073",
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   {
    "id": "9163c603085c",
@@ -773,7 +975,7 @@
    "published": "2026-11-11T04:57:16.000Z",
    "poster": "posters/9163c603085c.jpg",
    "first_seen": "2026-11-11T19:11:01.265371+05:30",
-   "last_seen": "2026-11-13T19:09:49.508806+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -781,7 +983,7 @@
    },
    "contact": "casting4marc@gmail.com, +91 62823 61500, +91 77364 62073, 62823 61500, 7736462075",
    "notified_class": "NEEDS REVIEW",
-   "scans": 3
+   "scans": 4
   },
   {
    "id": "694245b8a844",
@@ -796,7 +998,7 @@
    "published": "2026-11-10T14:24:13.000Z",
    "poster": "posters/694245b8a844.jpg",
    "first_seen": "2026-11-11T19:11:01.265371+05:30",
-   "last_seen": "2026-11-13T19:09:49.508806+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but age unclear, location unclear, production type unclear",
    "info": {
@@ -807,7 +1009,7 @@
    },
    "contact": "+91 94456 78073",
    "notified_class": "NEEDS REVIEW",
-   "scans": 3
+   "scans": 4
   },
   {
    "id": "01f572e128ab",
@@ -822,7 +1024,7 @@
    "published": "2026-11-11T12:52:01.000Z",
    "poster": "posters/01f572e128ab.jpg",
    "first_seen": "2026-11-11T19:11:01.265371+05:30",
-   "last_seen": "2026-11-11T19:11:01.265371+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
    "class": "REJECTED",
    "reason": "Location only delhi",
    "info": {
@@ -830,7 +1032,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "78734d8332da",
@@ -2310,7 +2512,8 @@
    "title": "Cast selected for TVS Photoshoot: Arvind! Heart congratulations and Celebrations !!🎉 🙌🥳 On",
    "text": "Cast selected for TVS Photoshoot: Arvind!\nHeart congratulations and Celebrations !!🎉 🙌🥳\nOnwards and upwards!\nHere’s to more!\n\n#shootday #castingdirector #actor  #indriyaproductions #digitalad adfilm filmmaking bangaloremodel loveforacting vehicle brand\nARVIND\n\n1\n\nhttps://www.instagram.com/indriyaproductions",
    "urls": [
-    "https://www.instagram.com/p/DfClXpdy_PO/"
+    "https://www.instagram.com/p/DfClXpdy_PO/",
+    "https://www.instagram.com/p/Dftd63OygzH/"
    ],
    "sources": [
     "instagram:indriyaproductions"
@@ -2318,7 +2521,7 @@
    "published": "2026-10-28T13:53:53.000Z",
    "poster": "posters/b239ef36a26f.jpg",
    "first_seen": "2026-10-29T19:02:16.529683+05:30",
-   "last_seen": "2026-11-01T18:50:01.439011+05:30",
+   "last_seen": "2026-11-14T18:53:52.949945+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -2326,7 +2529,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 4
+   "scans": 5
   },
   {
    "id": "8d20fafb390f",
