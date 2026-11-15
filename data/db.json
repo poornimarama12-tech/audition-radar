@@ -1539,7 +1539,7 @@
    "published": "2026-10-28T13:53:53.000Z",
    "poster": "posters/b239ef36a26f.jpg",
    "first_seen": "2026-10-29T19:02:16.529683+05:30",
-   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -1547,7 +1547,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 5
+   "scans": 6
   },
   "8d20fafb390f": {
    "id": "8d20fafb390f",
@@ -3246,7 +3246,7 @@
    "published": "2026-11-12T09:06:19.000Z",
    "poster": "posters/35bfe07f074c.jpg",
    "first_seen": "2026-11-12T19:13:10.937396+05:30",
-   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -3254,7 +3254,7 @@
    },
    "contact": "+91 87148 06580, 91 87148 06580",
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "f1303bb0f6a9": {
    "id": "f1303bb0f6a9",
@@ -3270,7 +3270,7 @@
    "published": "2026-11-13T05:30:11.000Z",
    "poster": "posters/f1303bb0f6a9.jpg",
    "first_seen": "2026-11-13T19:09:49.508806+05:30",
-   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -3278,7 +3278,7 @@
    },
    "contact": "crowdclapscinemass@gmail.com, alenmatters@gmail.com",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "4909635508b2": {
    "id": "4909635508b2",
@@ -3382,13 +3382,13 @@
    "published": "2026-11-14T05:03:33.000Z",
    "poster": "posters/6a2308a2a9bb.jpg",
    "first_seen": "2026-11-14T18:53:52.949945+05:30",
-   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "6de29aee2e7c": {
    "id": "6de29aee2e7c",
@@ -3404,13 +3404,13 @@
    "published": "2026-11-14T04:40:06.000Z",
    "poster": "posters/6de29aee2e7c.jpg",
    "first_seen": "2026-11-14T18:53:52.949945+05:30",
-   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "aacbfccdc1cb": {
    "id": "aacbfccdc1cb",
@@ -3426,13 +3426,13 @@
    "published": "2026-11-14T08:43:32.000Z",
    "poster": "posters/aacbfccdc1cb.jpg",
    "first_seen": "2026-11-14T18:53:52.949945+05:30",
-   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "14abd0461c9c": {
    "id": "14abd0461c9c",
@@ -3448,13 +3448,13 @@
    "published": "2026-11-14T11:09:28.000Z",
    "poster": "posters/14abd0461c9c.jpg",
    "first_seen": "2026-11-14T18:53:52.949945+05:30",
-   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "782a3e6134a0": {
    "id": "782a3e6134a0",
@@ -3470,13 +3470,13 @@
    "published": "2026-11-14T06:05:26.000Z",
    "poster": "posters/782a3e6134a0.jpg",
    "first_seen": "2026-11-14T18:53:52.949945+05:30",
-   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "f4cc4caead45": {
    "id": "f4cc4caead45",
@@ -3492,7 +3492,7 @@
    "published": "2026-11-13T16:39:55.000Z",
    "poster": "posters/f4cc4caead45.jpg",
    "first_seen": "2026-11-14T18:53:52.949945+05:30",
-   "last_seen": "2026-11-14T18:53:52.949945+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
    "class": "REJECTED",
    "reason": "Promotional/class ('training')",
    "info": {
@@ -3500,7 +3500,7 @@
    },
    "contact": "22FRAMESOFFICIAL@GMAIL.COM.",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "607d313fc5f7": {
    "id": "607d313fc5f7",
@@ -3576,6 +3576,164 @@
    "info": {
     "deadline": null
    },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "afc955824fb1": {
+   "id": "afc955824fb1",
+   "title": "Casting Call: Upcoming Malayalam Short Film 🎥✨ Looking for natural and talented actors for",
+   "text": "Casting Call: Upcoming Malayalam Short Film 🎥✨\n\n Looking for natural and talented actors for an upcoming Malayalam short film project!\n\n​🔹 Female Character: \nAge 42 – 52 years (Natural acting skills)\n\n🔹 Child Artist: \nAge 8 years (Natural acting skills)\n\n​How to Apply:\n\nSend 2 full-size photos and a 1-minute self-introduction video to:\n\n📞 Contact: +91 9747904736\n\n⏳ Last Date: November 20, 2026\n.\n.\n.\n.\n.\n.\nകാസ്റ്റിംഗ് കോൾ: മലയാളം ഷോർട്ട് ഫിലിം 🎬✨\n \nഒരു പുതിയ മലയാളം ഷോർട്ട് ഫിലിമിലേക്ക് മികച്ച അഭിനയമികവുള്ള അഭിനേതാക്കളെ തേടുന്നു!\n \n📌 ആവശ്യമുള്ള കഥാപാത്രങ്ങൾ:\n\nസ്ത്രീ കഥാപാത്രം: പ്രായം 42 – 52 വയസ്സ് (സ്വാഭാവിക അഭിനയശേഷി)\n \nകുട്ടി: പ്രായം 8 വയസ്സ് (സ്വാഭാവിക അഭിനയശേഷി)\n \nരണ്ട് ഫുൾ സൈസ് ഫോട്ടോകളും, ഒരു മിനിറ്റ് സെൽഫ് ഇൻട്രൊഡക്ഷൻ വീഡിയോയും നവംബർ 20-ന് മുൻപായി അയക്കുക.\n \n📞 9747904736\n\n​#CastingCall #MalayalamShortFilm #Mollywood #AuditionAlert #KeralaActors ChildArtist\nകാന്റ്റിംഗ്‌ കോള്‍\n\nഒരു പുതിയ മലയാള ഷോട്ട്‌ ഫിലിമിലേക്ക്‌\n\n_ മിക അമിനയമികവുളള\ny അഭിനേതാക്കളെ തടുന്നു\n\n, ൫ സ്ത്രി കഥാപാത്രം:\nപ്രായം 42 - 52 amy.\nസ്വാദാവിക അഭിനയശേഷി\n\n1) വയസ്റ്‌,\nസ്വാഭാവിക അദിനയശേ\n\nin +\n\nഅപേക്ഷകര്‍ ശ്രഖിക്കാന്‍: 4\n@ ങു ഫുള്‍ സൈസ്‌ ഫോട്ടോകള്‍\n൫ രു മിനിറ്റ്‌ സെല്‍ഫ്‌ ഉ൯ട്രോഡക്ഷന്‍ വിഡിയോ\nബന്ധപെടേണ്ട നമ്പറുകള്‍:\n9747904736 നമ്പര്‍:\n൫ അവസാന തീയതി: 2026 നവംബര്‍ 20 (7\na) ണ്മ = te al",
+   "key": "casting call upcoming malayalam short film  looking for natural and talented actors for an upcoming malayalam short film project  female character age 42  52 years natural acting skills  child artist age 8 years natural acting skills how to apply send 2 fullsize photos and a 1minute selfintroduction video to  contact 91 9747904736  last date november 20 2026       കാസ്റ്റിംഗ് കോൾ മലയാളം ഷോർട്ട് ഫിലിം  ഒരു പുതിയ മലയാളം ഷോർട്ട് ഫിലിമിലേക്ക് മികച്ച അഭിനയമികവുള്ള അഭിനേതാക്കളെ തേടുന്നു  ആവശ്യമുള്ള കഥാപാത്രങ്ങൾ സ്ത്രീ കഥാപാത്രം പ്രായം 42  52 വയസ്സ് സ്വാഭാവിക അഭിനയശേഷി കുട്ടി പ്രായം 8 വയസ്സ് സ്വാഭാവി",
+   "urls": [
+    "https://www.instagram.com/p/DfwjiUVTkD1/"
+   ],
+   "sources": [
+    "instagram:malayalam_castingcalls"
+   ],
+   "published": "2026-11-15T10:25:49.000Z",
+   "poster": "posters/afc955824fb1.jpg",
+   "first_seen": "2026-11-16T00:30:43.463185+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": "2026-11-20"
+   },
+   "contact": "+91 9747904736, 9747904736",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  "579e6089dfa8": {
+   "id": "579e6089dfa8",
+   "title": "CASTING CALL REQUIREMENT: 3 BOYS AGE: 20–26 YEARS HOW TO APPLY? Send the following details",
+   "text": "CASTING CALL\n\nREQUIREMENT: 3 BOYS\nAGE: 20–26 YEARS\n\nHOW TO APPLY?\n\nSend the following details:\n\n- Biodata\n- Recent photographs (Unedited / No Makeup)\n- Self-introduction video (Maximum 1 minute)\n\nEMAIL: odiosmovie@gmail.com\n\nCONTACT: +91 9108446799\n\n#castingcall #audition #malayalamcinema\nSEND BIODATA, PHOTOS (UNEDITED/ NO MAKEUP)\nSELF INTRODUCTION VIDEO (MAX. | MINUTE)\n\nഗ്‌ EMAIL - ODIOSMOVIE@GMAIL.COM\nനും,\nന +91 9108446799",
+   "key": "casting call requirement 3 boys age 2026 years how to apply send the following details  biodata  recent photographs unedited  no makeup  selfintroduction video maximum 1 minute email odiosmoviegmailcom contact 91 9108446799 castingcall audition malayalamcinema send biodata photos unedited no makeup self introduction video max  minute ഗ് email  odiosmoviegmailcom നും ന 91 9108446799",
+   "urls": [
+    "https://www.instagram.com/p/Dfuj3jMz4y4/"
+   ],
+   "sources": [
+    "instagram:malayalam_castingcalls"
+   ],
+   "published": "2026-11-14T15:46:49.000Z",
+   "poster": "posters/579e6089dfa8.jpg",
+   "first_seen": "2026-11-16T00:30:43.463185+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
+   "class": "REJECTED",
+   "reason": "Boys only",
+   "info": {
+    "deadline": null
+   },
+   "contact": "odiosmovie@gmail.com, +91 9108446799, ODIOSMOVIE@GMAIL.COM",
+   "notified_class": null,
+   "scans": 1
+  },
+  "e8780bee7266": {
+   "id": "e8780bee7266",
+   "title": "A traditional look with a touch of class! ✨🤍 . . . . . . . . . . . . #onammodelllaunch #tr",
+   "text": "A traditional look with a touch of class! ✨🤍\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#onammodelllaunch #traditional #modeling #modeljourney #modelllaunch\nLukmancemodelmanagement, lukmanceonammodelllaunch, lukmanceonammodelllaunch 2026, aspiring models, modeling experience, grooming, transformation",
+   "key": "a traditional look with a touch of class              onammodelllaunch traditional modeling modeljourney modelllaunch lukmancemodelmanagement lukmanceonammodelllaunch lukmanceonammodelllaunch 2026 aspiring models modeling experience grooming transformation",
+   "urls": [
+    "https://www.instagram.com/p/Dfwdr-FSdwI/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-15T09:31:51.000Z",
+   "poster": "posters/e8780bee7266.jpg",
+   "first_seen": "2026-11-16T00:30:43.463185+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "e51d6fb30653": {
+   "id": "e51d6fb30653",
+   "title": "A beautiful traditional look with simple style! ✨🤍 . . . . . . . . . . . . . #onammodellla",
+   "text": "A beautiful traditional look with simple style! ✨🤍\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#onammodelllaunch #traditional #modeling #modeljourney #modelllaunch\nLukmancemodelmanagement, lukmanceonammodelllaunch, lukmanceonammodelllaunch 2026, aspiring models, modeling experience, grooming, transformation\nane സ്സ\n10 ടി iy wreers ()\\\\\\|\nയി കി \\\n\nLukmance\n\n| കൂര!\nOS",
+   "key": "a beautiful traditional look with simple style               onammodelllaunch traditional modeling modeljourney modelllaunch lukmancemodelmanagement lukmanceonammodelllaunch lukmanceonammodelllaunch 2026 aspiring models modeling experience grooming transformation ane സ്സ 10 ടി iy wreers  യി കി  lukmance  കൂര os",
+   "urls": [
+    "https://www.instagram.com/p/DfwmU_MyyXv/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-15T10:47:35.000Z",
+   "poster": "posters/e51d6fb30653.jpg",
+   "first_seen": "2026-11-16T00:30:43.463185+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "1976af550313": {
+   "id": "1976af550313",
+   "title": "Tradition meets style with every step! ✨🤍 . . . . . . . . . . . . . #onammodelllaunch #you",
+   "text": "Tradition meets style with every step! ✨🤍\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#onammodelllaunch #youngmodels #modeling #modeljourney #modelllaunch\nLukmancemodelmanagement, lukmanceonammodelllaunch, lukmanceonammodelllaunch 2026, aspiring models, modeling experience, grooming, transformation\n.  Lukgance\n> ONB@ ODE\n൫.",
+   "key": "tradition meets style with every step               onammodelllaunch youngmodels modeling modeljourney modelllaunch lukmancemodelmanagement lukmanceonammodelllaunch lukmanceonammodelllaunch 2026 aspiring models modeling experience grooming transformation  lukgance  onb ode ൫",
+   "urls": [
+    "https://www.instagram.com/p/DfwC7NUSPt7/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-15T05:38:33.000Z",
+   "poster": "posters/1976af550313.jpg",
+   "first_seen": "2026-11-16T00:30:43.463185+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "499ba247f91e": {
+   "id": "499ba247f91e",
+   "title": "A classic traditional look, carried with effortless style! ✨🤍 . . . . . . . . . . . #onamm",
+   "text": "A classic traditional look, carried with effortless style! ✨🤍\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#onammodelllaunch #aspiringmodel #modeling #modeljourney #modelllaunch\nLukmancemodelmanagement, lukmanceonammodelllaunch, lukmanceonammodelllaunch 2026, aspiring models, modeling experience, grooming, transformation\nഴ്‌\n\nmrt’, S",
+   "key": "a classic traditional look carried with effortless style             onammodelllaunch aspiringmodel modeling modeljourney modelllaunch lukmancemodelmanagement lukmanceonammodelllaunch lukmanceonammodelllaunch 2026 aspiring models modeling experience grooming transformation ഴ് mrt s",
+   "urls": [
+    "https://www.instagram.com/p/Dfv9M2WyhB2/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-15T04:50:48.000Z",
+   "poster": "posters/499ba247f91e.jpg",
+   "first_seen": "2026-11-16T00:30:43.463185+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "02f6ebd2126c": {
+   "id": "02f6ebd2126c",
+   "title": "A perfect blend of tradition, style, and confidence! ✨🤍 . . . . . . . . . . . #onammodelll",
+   "text": "A perfect blend of tradition, style, and confidence! ✨🤍\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#onammodelllaunch #traditional #modeling #modeljourney #modelllaunch\nLukmancemodelmanagement, lukmanceonammodelllaunch, lukmanceonammodelllaunch 2026, aspiring models, modeling experience, grooming, transformation",
+   "key": "a perfect blend of tradition style and confidence             onammodelllaunch traditional modeling modeljourney modelllaunch lukmancemodelmanagement lukmanceonammodelllaunch lukmanceonammodelllaunch 2026 aspiring models modeling experience grooming transformation",
+   "urls": [
+    "https://www.instagram.com/p/DfwLux_yDtb/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-15T06:54:58.000Z",
+   "poster": "posters/02f6ebd2126c.jpg",
+   "first_seen": "2026-11-16T00:30:43.463185+05:30",
+   "last_seen": "2026-11-16T00:30:43.463185+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
    "contact": null,
    "notified_class": null,
    "scans": 1
@@ -4322,6 +4480,26 @@
     }
    },
    "new": 9,
+   "emailed": true,
+   "health": "ok"
+  },
+  {
+   "time": "2026-11-16T00:30:43.463185+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 16
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 30
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 7,
    "emailed": true,
    "health": "ok"
   }
