@@ -1,27 +1,6 @@
 {
- "generated": "2026-11-17T03:54:55.269589+05:30",
+ "generated": "2026-11-18T02:41:43.487971+05:30",
  "scans": [
-  {
-   "time": "2026-10-21T12:33:49.485547+05:30",
-   "sources": {
-    "instagram": {
-     "ok": true,
-     "count": 16
-    },
-    "hashtags": {
-     "ok": true,
-     "count": 50
-    },
-    "search": {
-     "ok": false,
-     "error": "all search queries failed"
-    }
-   },
-   "new": 0,
-   "emailed": false,
-   "email_error": "Connection unexpectedly closed",
-   "health": "degraded"
-  },
   {
    "time": "2026-10-21T12:58:34.085076+05:30",
    "sources": {
@@ -601,9 +580,396 @@
    "new": 2,
    "emailed": false,
    "health": "degraded"
+  },
+  {
+   "time": "2026-11-18T02:41:43.487971+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 14
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 40
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 16,
+   "emailed": true,
+   "health": "ok"
   }
  ],
  "opps": [
+  {
+   "id": "ec77751b451a",
+   "title": "Traditional style, perfectly carried! 🤍 . . . . . . . . . . . . #TraditionalLook #Traditio",
+   "text": "Traditional style, perfectly carried! 🤍\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#TraditionalLook #TraditionalWear #EthnicWear #TraditionalStyle #EthnicFashion,MensFashion MensStyle, PortfolioShoot,ModelPortfolio FashionPhotography, TraditionalOutfit ClassicLook, StyleInspiration LukmanceModelManagement, LukmanceModels FashionReels, InstagramReels,ExplorePage, lukmanceonammodellaunch, lukmanceonammodellaunch 2026\nനട  WHeeLS\nട്ട OFLIFe ൨൧)\n€ Lukmance Lukmance\nONAM MODEL\nLAUNCH\n\nWHeeLS\nOF LIFe\n\nVHCECLS \\ ;\nF LIFE [\nക്തി aoe",
+   "urls": [
+    "https://www.instagram.com/p/Df1QEdnyHnc/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-17T06:10:37.000Z",
+   "poster": "posters/ec77751b451a.jpg",
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "ac9b38d63d96",
+   "title": "A touch of tradition, a look to admire! ✨ . . . . . . . . . . . . . . #TraditionalLook, #L",
+   "text": "A touch of tradition, a look to admire! ✨\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#TraditionalLook, #LukmanceModelManagement, #LukmanceOnamModelLaunch, #AspiringModels, #ModelPortfolio, TraditionalLook, TraditionalWear, EthnicWear, TraditionalStyle, EthnicFashion, WomenFashion , WomenStyle , PortfolioShoot, ModelPortfolio, FashionPhotography, TraditionalOutfit, ClassicLook, StyleInspiration, LukmanceModels, FashionReels, InstagramReels, ExplorePage\nപന്നു.\n) Mt NCH | focus. Lukmance —\n\nce\n\nWHeeLS\nQFLIFe",
+   "urls": [
+    "https://www.instagram.com/p/Df1dacUyLM2/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-17T08:08:27.000Z",
+   "poster": "posters/ac9b38d63d96.jpg",
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "850c058df838",
+   "title": "Classic style that never goes out of fashion! ✨ . . . . . . . . . . . . #TraditionalLook #",
+   "text": "Classic style that never goes out of fashion! ✨\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#TraditionalLook #TraditionalWear #EthnicWear #TraditionalStyle #EthnicFashion,MensFashion MensStyle,PortfolioShoot,ModelPortfolio FashionPhotography,TraditionalOutfit,ClassicLook StyleInspiration, LukmanceModelManagement LukmanceModels,FashionReels,InstagramReels ExplorePage, aspiring models, talents of kerala\na\n\nJtukmance wHeeLs\n\nWHEELS OF LIFe S22.\n\n2F LIFe Lukmance Lukmance Ss\nONAMMODEL 4\n\n©) LAUNCH\n\nence ;\n\nWwHeeLS\nat OFLIFe\n\nce\nWHeeL\nMIMO DEL OF LIF\n\n1 Seties\n\nട്ട ¢\n2 Lukmance\n\nA ന്ന്‌: L",
+   "urls": [
+    "https://www.instagram.com/p/Df1Kad0yM_6/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-17T05:21:03.000Z",
+   "poster": "posters/850c058df838.jpg",
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "e611e03f3b26",
+   "title": "Tradition looks beautiful on her! 🤍 . . . . . . . . . . . . #TraditionalLook, #LukmanceMod",
+   "text": "Tradition looks beautiful on her! 🤍\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#TraditionalLook, #LukmanceModelManagement, #LukmanceOnamModelLaunch, #AspiringModels, #ModelPortfolio,TraditionalLook, TraditionalWear, EthnicWear, TraditionalStyle, EthnicFashion, WomenFashion , WomenStyle, PortfolioShoot, ModelPortfolio, FashionPhotography, TraditionalOutfit, ClassicLook, StyleInspiration, LukmanceModelManagement, LukmanceModels, FashionReels, InstagramReels, ExplorePage\nധൂ [1 അണി ത്ത്‌\ne Lukmance “Yugemane’\n\nONIN pe FOCUS. ൦൦൨൧൦\n: ( കി AM MODI\nനി\n\nWHeCLS .\nOF LIFE BOF LiFe\n\nNCH",
+   "urls": [
+    "https://www.instagram.com/p/Df1uWWqy-Qe/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-17T10:34:58.000Z",
+   "poster": "posters/e611e03f3b26.jpg",
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "c65605d66391",
+   "title": "Keeping it classic, keeping it stylish!✨ . . . . . . . . . . . . . #TraditionalLook, #Lukm",
+   "text": "Keeping it classic, keeping it stylish!✨\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#TraditionalLook, #LukmanceModelManagement, #LukmanceOnamModelLaunch, #AspiringModels, #modelportfolio , TraditionalWear, EthnicWear, TraditionalStyle, EthnicFashion, MensFashion, MensStyle, PortfolioShoot, ModelPortfolio, FashionPhotography, TraditionalOutfit, ClassicLook, StyleInspiration, LukmanceModelManagement, LukmanceModels, FashionReels, InstagramReels, ExplorePage\nമിക]\n\nLukmance\nINAMMODEL J\nLAUNCH\n\nദ്ര ട ONT (3 .\n‘LIFE |",
+   "urls": [
+    "https://www.instagram.com/p/Df1kC0qSJa5/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-17T09:03:13.000Z",
+   "poster": "posters/c65605d66391.jpg",
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "328405800ec0",
+   "title": "#malayalamcastingcall #malayalamcinema #actors #auditions #castingmalayalam",
+   "text": "#malayalamcastingcall #malayalamcinema #actors #auditions #castingmalayalam",
+   "urls": [
+    "https://www.instagram.com/p/Df1bhOlBxk2/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-17T07:48:12.000Z",
+   "poster": null,
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "3c024ae5385f",
+   "title": "Join Cmofficial for exclusive casting calls Whatsapp 8848936347 #kidscasting #childcasting",
+   "text": "Join Cmofficial for exclusive casting calls \nWhatsapp 8848936347\n\n#kidscasting #childcasting #childartist #malayalamcinema",
+   "urls": [
+    "https://www.instagram.com/p/DfzhIZmhGsL/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-16T13:58:55.000Z",
+   "poster": null,
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Possibly relevant but age unclear, location unclear, production type unclear",
+   "info": {
+    "deadline": "2026-11-22",
+    "gender": "any",
+    "location": null,
+    "type": null
+   },
+   "contact": "8848936347",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 2
+  },
+  {
+   "id": "6465988a5226",
+   "title": "CASTING CALL 🎬 പോസ്റ്ററിൽ കാണുന്ന വാട്സാപ്പ് നമ്പരിലോ , മെയിൽ ഐഡിയിലോ അവർ പറഞ്ഞിട്ടുള്ളതുപ",
+   "text": "CASTING CALL 🎬\n\nപോസ്റ്ററിൽ കാണുന്ന വാട്സാപ്പ് നമ്പരിലോ , മെയിൽ ഐഡിയിലോ അവർ പറഞ്ഞിട്ടുള്ളതുപോല ഡീറ്റേൽസ് അയച്ച് കൊടുക്കുക.\n\n#cinema #casting #movie #fyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy #castingcall\nPROACT\n\nFOR SHORT FICTION\nനന്നായി സംസാരിക്കുന്ന\n4 നല്ല പോലെ ചിരിക്കുന്ന\n\nഎങ്കില്‍\n\nനിങ്ങള്‍ക്കായി റെഡിയാണ്‌.\n\n‘Age 6t060 | ഖം നലം\n[റു\n\nലെ\n\n4919940375006",
+   "urls": [
+    "https://www.instagram.com/p/DfzHCrmpGVS/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-16T10:11:46.000Z",
+   "poster": "posters/6465988a5226.jpg",
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": "919940375006",
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "9ea75ec5090e",
+   "title": "Casting Call for Lead artists for our folk drama short More info in the posters #malayalm ",
+   "text": "Casting Call for Lead artists for our folk drama short\nMore info in the posters\n#malayalm #casting #malluactor #audition\nCASTING CALL\n\nLEAD ARTISTS\n\nA FOLK-DRAMA SHORT\n\nWe’re casting three adult lead roles for an upcoming Malayalam | Hindi, short film.\n\nROLES\n\nMale: (25-30) - lean build - medium-brown complexion -\nPlays a composed, reserved man. Able to hold a scene through\nstillness rather than big expression.\n\nMale: (25-30) - fair to medium complexion -\nPlays an emotionally intense role requiring strong, physical,\nexpressive acting.\n\nFemale: (25-30) - fair to medium complexion - 7 }\nPlays a warm but guarded woman carrying a quiet grief. Needs wel\nsensitive, grounded dramatic range.\n\nPROJECT DETAILS\n\nLanguages: Malayalam | Hindi (dubbed)\nShoot location: _ Kerala- Kochi (preference for actors based in Kochi)\nShoot schedule: December >\n\nHOW TO APPLY ക\n\nPlease mention which role you're applying for, and share:\n\n൭ Ashort acting video, a previous clip, a showreel, or a self-recorded scene\n* Two recent photos (close-up and full-length)\n\n* A short self-introduction (name, age, location)\n\nContact / WhatsApp:\n\n9995009697\n\nOnly shortlisted candidates will be contacted.\n\nAFTERFOLD FitmsSe\nwww.afterfoldfilms.com",
+   "urls": [
+    "https://www.instagram.com/p/Dfy_WTDvAsT/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-16T09:05:24.000Z",
+   "poster": "posters/9ea75ec5090e.jpg",
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": "9995009697",
+   "notified_class": null,
+   "scans": 2
+  },
+  {
+   "id": "f548a9785cbf",
+   "title": "CASTING CALL FOR YOU 🤗 SEND your profile... 7736115482-{ whatsapp}",
+   "text": "CASTING CALL FOR YOU 🤗\n\nSEND your profile... 7736115482-{ whatsapp}\nജട കാസ്റ്റിംഗ്‌ കോള്‍ &\n\nലയാളം മൂവി\n\n൭ ഷൂട്ടിംഗ്‌ വിവരങ്ങള്‍\n\nജ്ജ ഡ്വിസംബര്‍ 4 40 ദിവസത്തെ\n& തൃശ്ശൂര്‍ gy ആദ്യവാരം Zn ചിത്രീകരണം\n\n൫ അഭിനേതാക്കളെ ആവശ്യമുണ്ട്‌\nFeatured | Supporting | Junior\nArtists Artists Artists\n\nപ്രായപരിധി: 3 മുതല്‍ 60 വയസ്സുവരെ\n(കുട്ടികള്‍, യുവാക്കള്‍, യുവതികള്‍, പുരുഷന്മാര്‍, സ്ത്രീകള്‍)\n\nee ൭ പ്രത്യേക മുന്‍ഗണന പം\nനം ചിത്രീകരണ സ്ഥലം: എരുള്ളപ്െട്ടി\nസമീപ്പ്രദേശങ്ങളായ\nകുന്നംകുളം © വടക്കാഞ്ചേരി © ഗുരുവായുര്‍ ൦ ചെറുതരുത്തി ;\n+ പഴയന്നൂര്‍ ൦ മുങ്ങത്തിക്കോട്‌ © ദേശമംഗലം\n\n(എരുമ്മപ്പെട്ടിയിലും സമീപ്പ്രദേശങ്ങളിലുമായാണ്‌ ചിത്രീകരണം നടകുന്നത്‌.\nഅതിനാല്‍ താഴെ കൊടുത്തിരിക്കുന്ന പ്രദേഗങ്ങളില്‍ ഉള്ളവര്‍കൂഭ മുന്‍ഗണന ഉണായിരിക്കും)\n\n© ൭ അപേക്ഷിക്കേണ്ട വിധം\nതാഴെക്കൊടുത്ത വിവരങ്ങള്‍ ASME al ചെയ്യുക:\nപേര്‌, IMM), സ്ഥലം, 3 ഫോട്ടോകള്‍\nWhatsApp: 7736115482\n\n(ശ്രദ്ധിക്കുക: ഈ നമ്പറിലേക്ക്‌ വാട്‌സ്‌ആല്‌ oaequst\nഅയച്ചാല്‍ മാത്രമേ മറുപടി ലഭിക്കുകയുള്ളൂ)\n\n൭൫൭൭൭\n\nഗ്രാമ പശ്ചാത്തലം സിനിമ * സാഹൃദം",
+   "urls": [
+    "https://www.instagram.com/p/DfwjROATE1U/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-15T10:19:43.000Z",
+   "poster": "posters/f548a9785cbf.jpg",
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Possibly relevant but age unclear, location unclear, gender unclear",
+   "info": {
+    "deadline": null,
+    "gender": "unknown",
+    "location": null,
+    "type": "സിനിമ"
+   },
+   "contact": "7736115482",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 2
+  },
+  {
+   "id": "996941e8cdaf",
+   "title": "Casting call 💪💥💥",
+   "text": "Casting call 💪💥💥\nപുതിയ ടു റ\n\nപത്മ ah\n\n~ കാരക്‌ ള്‍ Z\n7 റി. your ee\ncr min video\n\n—— Audition in ——\n— Ernakulam, Thiruvananthapuram,\n\neo Kozhikode, Thrissur\n>)",
+   "urls": [
+    "https://www.instagram.com/p/DfuTA6BJhns/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-14T13:19:24.000Z",
+   "poster": "posters/996941e8cdaf.jpg",
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "86c406f55f97",
+   "title": "Join Cmofficial for exclusive casting calls #kidscasting #kidsmodels #childartist #malayal",
+   "text": "Join Cmofficial for exclusive casting calls \n\n#kidscasting #kidsmodels #childartist #malayalamcastingcall\n4 - 1 ot റ്‌ : = ; 7 ടാ.\n= ee ച\n\n കാസ്റ്ിഥ്‌ കോള്‍ ‘ “@\n\n: ഒരു പ്രമുഖ ചാനലിലെ\n\n2 അവസരം! ae\n\nപ പ്‌ ത്‌\nലി fe ആൺകുട്ടികൾ ; മ്‌ വ\n\n3- a aon |\n\nപി SSS SS\n\nWhaisApp pe\naE\n\n© 8848936347 ye\n\nJoin the Fast!",
+   "urls": [
+    "https://www.instagram.com/p/DftS08wJXI5/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-14T03:58:18.000Z",
+   "poster": "posters/86c406f55f97.jpg",
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Possibly relevant but age unclear, location unclear, production type unclear",
+   "info": {
+    "deadline": null,
+    "gender": "any",
+    "location": null,
+    "type": null
+   },
+   "contact": "8848936347",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  {
+   "id": "804af7276719",
+   "title": "🎬 CASTING CALL | UPCOMING WEB SERIES 🌟 Romaa Rekhi Casting is looking for a talented KID G",
+   "text": "🎬 CASTING CALL | UPCOMING WEB SERIES 🌟\n\nRomaa Rekhi Casting is looking for a talented KID GIRL (Age 4–10 Years) for a primary role in an upcoming web series!\n\n✨ Role Details:\n• Age: 4–10 Years\n• Character: Primary Role\n• Shoot Date: 25th November\n• Shoot Duration: 20–30 Days\n• Budget: Depends on profile (including 20% cut)\n\n📍 Location: Mumbai\n\n📩 How to Apply?\nInterested parents can share:\n• 4 Recent Photos\n• 1 Audition Video\n• 1 Introduction Video\n\n📲 WhatsApp: 9650046111\n\n📧 auditionsrrcasting@gmail.com\n📧 romaarekhicasting@gmail.com\n\n✨ A wonderful opportunity for your little star to shine on screen!\n\nSend your profiles now!\n\n#CastingCall #WebSeriesCasting #KidArtist #ChildArtist #KidsAudition ChildActorsWanted MumbaiCasting KidsCasting PrimaryRole ActingOpportunity AuditionCall RomaaRekhiCasting",
+   "urls": [
+    "https://www.instagram.com/p/Df1zVC-NTwt/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-17T11:19:22.000Z",
+   "poster": null,
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": "2026-11-25"
+   },
+   "contact": "9650046111, auditionsrrcasting@gmail.com, romaarekhicasting@gmail.com",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  {
+   "id": "e5c2eb030208",
+   "title": "PROJECT | FEATURE FILM We are looking for a **3–4-year-old boy** for an upcoming feature f",
+   "text": "PROJECT | FEATURE FILM\n\nWe are looking for a **3–4-year-old boy** for an upcoming feature film.\n\nDoes your little one have the spark to be on the big screen? This could be the opportunity!\n\n📩 Application details and submission guidelines are mentioned in the post.\n\n#BollywoodCasting #FeatureFilmCasting #ChildArtistCasting #CastingCallIndia #PanIndiaCasting\n\nBollywood casting, feature film casting, Bollywood casting call 2026, child artist casting, 3 to 4 year old boy required, toddler casting call, kids audition India, child actor auditions, upcoming Bollywood movie, Hindi feature film, Indian film industry, casting call for kids, baby casting, young actor required, pan India casting, film auditions 2026, acting opportunities for kids, child model casting, Mumbai casting call, Indian cinema auditions.\nCASTING CALL\n\n— FEATURE FILM ———\n\nNEED A310 4 YEAR\nOLD BOY\n\nHOW TO APPLY:\ne Send a recent introduction video\ne Details (Name, Age, Height and City)\n\nKINDLY DM, WITH THE\nREQUIRED INFORMATION.\n\nThanks and regards,\nJyottee Bajaj\n\nCasting Coordinator.",
+   "urls": [
+    "https://www.instagram.com/p/Dft83ytOrEx/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-14T10:06:52.000Z",
+   "poster": "posters/e5c2eb030208.jpg",
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  {
+   "id": "99c678765456",
+   "title": "We are excited to meet some fresh talent in Kullu, Himachal Pradesh! #CastingCall #Kullu #",
+   "text": "We are excited to meet some fresh talent in Kullu, Himachal Pradesh!\n\n#CastingCall #Kullu #HimachalPradesh #OpenCastingCall #OpenAuditions\nCasting Bay’ |\n\n- OPEN CASTING CALL\n\nNOW casting\n\nWe Are Coming To Kullu, HP\n\nWe are looking for actors for prominent parts in an upcoming film.\n\nPRIMARY CAST SECONDARY & TERTIARY CAST KID CAST\n18-22 years(Male) 30-60 years(Male & Female) 7-9 years(Girl)\n\nDATE & TIME VENUE\n17Nov&18Nov Hotel The Nest, Sarwari Bazar, near Main Bus\n10:30 AM To 607 Terminal, Kullu, Himachal Pradesh\n\nCome meet us for an audition!\n\nMeet Suryaansh & Aklavya at the venue.\n\nLooking forward to discovering some exciting new talent in\nKullu, Himachal Pradesh!\n\n| OPEN AUDITION | റം\n' i castingbay.app",
+   "urls": [
+    "https://www.instagram.com/p/DfzY8wFC2Wn/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-16T12:47:18.000Z",
+   "poster": "posters/99c678765456.jpg",
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": "2026-11-18"
+   },
+   "contact": null,
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  {
+   "id": "0df288f84c83",
+   "title": "🎬Casting call for our upcoming student malayalam short film. Looking for actors based in K",
+   "text": "🎬Casting call for our upcoming student malayalam short film.\n\nLooking for actors based in Kochi.\n\nInterested? Get in touch to audition.\n\n[casting call, student shortfilm, audition, film, malayalam, kochi, kerala]\n—— - 0111 01818)\n\n7\nക്‌\n\nUR¢\nCASTING\n\n(006 inl ll\n\nLooking for two female actors\n\nfor an upcoming short film.\n\nj short\nE Daughter |\n\n35 - 45 years\n\n17 - 20 years\n\nRequirements:\n\nകാ\n൭ Should be based in Kochi.\n\nShoot Dates:\n\n26% & 27%\ne Looking for people who can November 2026\nexpress emotions naturally SS\nand convincingly. 9 oe\n൦ Should be comfortable Mee\nperforming emotional scenes. ഒ Remuneration:\ne Acting experience is a plus, This Basu pele\nbut freshers are welcome too! se aE Me. may,\n[ ന്ത\nGet in touch! 4 '\n$ 2 യ :\nFahad Shruthi | Instagram:\n7907964276 8075784645 @fahad__thaju\n\nInterested candidates can contact us directly and share\ntheir photographs, profiles and previous acting work (if available).\n\nFeel free to share with anyone who might be interested!\nSS",
+   "urls": [
+    "https://www.instagram.com/p/DfzQG_Dvvf8/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-16T11:35:12.000Z",
+   "poster": "posters/0df288f84c83.jpg",
+   "first_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "7907964276, 8075784645",
+   "notified_class": null,
+   "scans": 1
+  },
   {
    "id": "84f211704b9c",
    "title": "New series of releases for Mahindra Veero ✨🤩 Cast Deepank Casting @indriyaproductions #veh",
@@ -617,7 +983,7 @@
    "published": "2026-11-16T07:04:49.000Z",
    "poster": "posters/84f211704b9c.jpg",
    "first_seen": "2026-11-17T03:54:55.269589+05:30",
-   "last_seen": "2026-11-17T03:54:55.269589+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -625,7 +991,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "05e6716d412e",
@@ -634,7 +1000,8 @@
    "urls": [
     "https://www.instagram.com/p/DfzPZzuSEDg/",
     "https://www.instagram.com/p/Dfy-VszSvNd/",
-    "https://www.instagram.com/p/DfzF9xxS1iv/"
+    "https://www.instagram.com/p/DfzF9xxS1iv/",
+    "https://www.instagram.com/p/Df1HGj5S0iZ/"
    ],
    "sources": [
     "instagram:lukmanceonammodellaunch"
@@ -642,13 +1009,13 @@
    "published": "2026-11-16T11:25:58.000Z",
    "poster": "posters/05e6716d412e.jpg",
    "first_seen": "2026-11-17T03:54:55.269589+05:30",
-   "last_seen": "2026-11-17T03:54:55.269589+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 7
   },
   {
    "id": "afc955824fb1",
@@ -663,7 +1030,7 @@
    "published": "2026-11-15T10:25:49.000Z",
    "poster": "posters/afc955824fb1.jpg",
    "first_seen": "2026-11-16T00:30:43.463185+05:30",
-   "last_seen": "2026-11-17T03:54:55.269589+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -671,7 +1038,7 @@
    },
    "contact": "+91 9747904736, 9747904736",
    "notified_class": "NEEDS REVIEW",
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "579e6089dfa8",
@@ -686,7 +1053,7 @@
    "published": "2026-11-14T15:46:49.000Z",
    "poster": "posters/579e6089dfa8.jpg",
    "first_seen": "2026-11-16T00:30:43.463185+05:30",
-   "last_seen": "2026-11-17T03:54:55.269589+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
    "class": "REJECTED",
    "reason": "Boys only",
    "info": {
@@ -694,7 +1061,7 @@
    },
    "contact": "odiosmovie@gmail.com, +91 9108446799, ODIOSMOVIE@GMAIL.COM",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "e8780bee7266",
@@ -712,13 +1079,13 @@
    "published": "2026-11-15T09:31:51.000Z",
    "poster": "posters/e8780bee7266.jpg",
    "first_seen": "2026-11-16T00:30:43.463185+05:30",
-   "last_seen": "2026-11-17T03:54:55.269589+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 5
+   "scans": 6
   },
   {
    "id": "e51d6fb30653",
@@ -2719,7 +3086,7 @@
    "published": "2026-10-28T13:53:53.000Z",
    "poster": "posters/b239ef36a26f.jpg",
    "first_seen": "2026-10-29T19:02:16.529683+05:30",
-   "last_seen": "2026-11-17T03:54:55.269589+05:30",
+   "last_seen": "2026-11-18T02:41:43.487971+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -2727,7 +3094,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 7
+   "scans": 8
   },
   {
    "id": "8d20fafb390f",
