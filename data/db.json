@@ -3594,7 +3594,7 @@
    "published": "2026-11-15T10:25:49.000Z",
    "poster": "posters/afc955824fb1.jpg",
    "first_seen": "2026-11-16T00:30:43.463185+05:30",
-   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -3602,7 +3602,7 @@
    },
    "contact": "+91 9747904736, 9747904736",
    "notified_class": "NEEDS REVIEW",
-   "scans": 3
+   "scans": 4
   },
   "579e6089dfa8": {
    "id": "579e6089dfa8",
@@ -3755,7 +3755,7 @@
    "published": "2026-11-16T07:04:49.000Z",
    "poster": "posters/84f211704b9c.jpg",
    "first_seen": "2026-11-17T03:54:55.269589+05:30",
-   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -3763,7 +3763,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "05e6716d412e": {
    "id": "05e6716d412e",
@@ -3782,13 +3782,13 @@
    "published": "2026-11-16T11:25:58.000Z",
    "poster": "posters/05e6716d412e.jpg",
    "first_seen": "2026-11-17T03:54:55.269589+05:30",
-   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 7
+   "scans": 8
   },
   "ec77751b451a": {
    "id": "ec77751b451a",
@@ -3804,13 +3804,13 @@
    "published": "2026-11-17T06:10:37.000Z",
    "poster": "posters/ec77751b451a.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "ac9b38d63d96": {
    "id": "ac9b38d63d96",
@@ -3826,13 +3826,13 @@
    "published": "2026-11-17T08:08:27.000Z",
    "poster": "posters/ac9b38d63d96.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "850c058df838": {
    "id": "850c058df838",
@@ -3848,13 +3848,13 @@
    "published": "2026-11-17T05:21:03.000Z",
    "poster": "posters/850c058df838.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "e611e03f3b26": {
    "id": "e611e03f3b26",
@@ -3870,13 +3870,13 @@
    "published": "2026-11-17T10:34:58.000Z",
    "poster": "posters/e611e03f3b26.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "c65605d66391": {
    "id": "c65605d66391",
@@ -3892,13 +3892,13 @@
    "published": "2026-11-17T09:03:13.000Z",
    "poster": "posters/c65605d66391.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "328405800ec0": {
    "id": "328405800ec0",
@@ -4163,13 +4163,248 @@
    "published": "2026-11-16T11:35:12.000Z",
    "poster": "posters/0df288f84c83.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
    "class": "REJECTED",
-   "reason": "Age requirement does not fit",
+   "reason": "No child requirement found",
    "info": {
     "deadline": null
    },
    "contact": "7907964276, 8075784645",
+   "notified_class": null,
+   "scans": 2
+  },
+  "caddb5911687": {
+   "id": "caddb5911687",
+   "title": "Cast selected for Voiceclub app shoot: Shruti! Heart congratulations and Celebrations !!🎉 ",
+   "text": "Cast selected for Voiceclub app shoot: Shruti!\nHeart congratulations and Celebrations !!🎉 🙌🥳\nOnwards and upwards!\nHere’s to more!\n\n#shootday #castingdirector #actor  #indriyaproductions #digitalad adfilm filmmaking bangaloremodel loveforacting friendship brand social audio chat\nSHRUTI\n\nhttps://www.instagram.com/indriyaproductions",
+   "key": "cast selected for voiceclub app shoot shruti heart congratulations and celebrations   onwards and upwards heres to more shootday castingdirector actor indriyaproductions digitalad adfilm filmmaking bangaloremodel loveforacting friendship brand social audio chat shruti httpswwwinstagramcomindriyaproductions",
+   "urls": [
+    "https://www.instagram.com/p/Df4gmNVSB6G/"
+   ],
+   "sources": [
+    "instagram:indriyaproductions"
+   ],
+   "published": "2026-11-18T12:31:28.000Z",
+   "poster": "posters/caddb5911687.jpg",
+   "first_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "6c143907895b": {
+   "id": "6c143907895b",
+   "title": "Cast selected for Cardboard Ai brand film shoot: Dawn! Heart congratulations and Celebrati",
+   "text": "Cast selected for Cardboard Ai brand film shoot: Dawn!\nHeart congratulations and Celebrations !!🎉 🙌🥳\nOnwards and upwards!\nHere’s to more!\n\n#shootday #castingdirector #actor  #indriyaproductions #digitalad adfilm filmmaking bangaloremodel loveforacting ai video editor\nCongratulations !\nFor\nVay! Cardboard\n\nmi\n\nhttps://www.instagram.com/indriyaproductions",
+   "key": "cast selected for cardboard ai brand film shoot dawn heart congratulations and celebrations   onwards and upwards heres to more shootday castingdirector actor indriyaproductions digitalad adfilm filmmaking bangaloremodel loveforacting ai video editor congratulations  for vay cardboard mi httpswwwinstagramcomindriyaproductions",
+   "urls": [
+    "https://www.instagram.com/p/Df4jbyhy4hl/"
+   ],
+   "sources": [
+    "instagram:indriyaproductions"
+   ],
+   "published": "2026-11-18T12:57:12.000Z",
+   "poster": "posters/6c143907895b.jpg",
+   "first_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "372d14ac9fb0": {
+   "id": "372d14ac9fb0",
+   "title": "WhatsApp Only",
+   "text": "WhatsApp Only\nEsVgEsRay O-N FEES BEAUTIFUL a\nTALENTS AND CELEBRITY MANAGEMENT COCHIN\nത്ത https://youtube.com/@mirrormodelcasting | സ്സ്‌ +91 989 55 99 811\n\n“പതിനാറാം നൂറ്റാണ്ടിലെ കേരളത്തിന്റെ വീരചരിത്രവും :\nപോരാട്ടപാരമ്പര്യവും പുനരാവിഷ്കരിക്കുന്ന ചിത്രത്തിലേക്ക്‌,\n\n\"CASTING GALL\n\n(aAlIMCGCGACGCMS —MH—\nകളരി അല്ലെങ്കില്‍ മറ്റു കായിക ഇനങ്ങള്‍ പരിശീലിച്ചവര്‍ക്ക്‌ മുന്‍ഗണന\n\n4\nകായ്‌,യില്‍ സാഗാരണക്കാരില്‍ നിന്ന്‌ ;\nത്യസ്തമായ പ്രത്യേകതയുളളവര്‍\n\n{",
+   "key": "whatsapp only esvgesray on fees beautiful a talents and celebrity management cochin ത്ത httpsyoutubecommirrormodelcasting  സ്സ് 91 989 55 99 811 പതിനാറാം നൂറ്റാണ്ടിലെ കേരളത്തിന്റെ വീരചരിത്രവും  പോരാട്ടപാരമ്പര്യവും പുനരാവിഷ്കരിക്കുന്ന ചിത്രത്തിലേക്ക് casting gall aalimcgcgacgcms mh കളരി അല്ലെങ്കില് മറ്റു കായിക ഇനങ്ങള് പരിശീലിച്ചവര്ക്ക് മുന്ഗണന 4 കായ്യില് സാഗാരണക്കാരില് നിന്ന്  ത്യസ്തമായ പ്രത്യേകതയുളളവര് ",
+   "urls": [
+    "https://www.instagram.com/p/Df4lvT7qubc/"
+   ],
+   "sources": [
+    "instagram:mirror_talents_india"
+   ],
+   "published": "2026-11-18T13:15:14.000Z",
+   "poster": "posters/372d14ac9fb0.jpg",
+   "first_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "5af32e8d2e24": {
+   "id": "5af32e8d2e24",
+   "title": "A look filled with charm and grace!🌼 . . . . . . . . . . . . #TraditionalLook, #LukmanceMo",
+   "text": "A look filled with charm and grace!🌼\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#TraditionalLook, #LukmanceModelManagement, #LukmanceOnamModelLaunch, #AspiringModels, #ModelPortfolio,  TraditionalWear, EthnicWear, TraditionalStyle, EthnicFashion, Fashion,Style, PortfolioShoot, ModelPortfolio, FashionPhotography, TraditionalOutfit, ClassicLook, StyleInspiration, LukmanceModelManagement, LukmanceModels, FashionReels, InstagramReels, ExplorePage\nച 0൦൦. CNW!\n\n= ര\nLukmance\n‘model management\n\nOMMM MODE\nLAUNCH\n\nWHEELS ¢\nOF LIFe",
+   "key": "a look filled with charm and grace             traditionallook lukmancemodelmanagement lukmanceonammodellaunch aspiringmodels modelportfolio traditionalwear ethnicwear traditionalstyle ethnicfashion fashionstyle portfolioshoot modelportfolio fashionphotography traditionaloutfit classiclook styleinspiration lukmancemodelmanagement lukmancemodels fashionreels instagramreels explorepage ച 0൦൦ cnw  ര lukmance model management ommm mode launch wheels  of life",
+   "urls": [
+    "https://www.instagram.com/p/Df32kQpS1Np/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-18T06:29:02.000Z",
+   "poster": "posters/5af32e8d2e24.jpg",
+   "first_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "4017a988f03d": {
+   "id": "4017a988f03d",
+   "title": "Beauty that needs no introduction! ✨ . . . . . . . . . . . . . . . . . #TraditionalLook, #",
+   "text": "Beauty that needs no introduction! ✨\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#TraditionalLook, #LukmanceModelManagement, #LukmanceOnamModelLaunch, #AspiringModels, #ModelPortfolio , TraditionalWear, EthnicWear, TraditionalStyle, EthnicFashion, Fashion, Style, PortfolioShoot, ModelPortfolio, FashionPhotography, TraditionalOutfit, ClassicLook, StyleInspiration, LukmanceModelManagement, LukmanceModels, FashionReels, InstagramReels, ExplorePage\nടി വ 1--- | ൧\n-focus.. Lukmance\nONASLMODE! WHe\n\nA ©\nLukmance ൧\n| )Lukmor",
+   "key": "beauty that needs no introduction                   traditionallook lukmancemodelmanagement lukmanceonammodellaunch aspiringmodels modelportfolio  traditionalwear ethnicwear traditionalstyle ethnicfashion fashion style portfolioshoot modelportfolio fashionphotography traditionaloutfit classiclook styleinspiration lukmancemodelmanagement lukmancemodels fashionreels instagramreels explorepage ടി വ 1  ൧ focus lukmance onaslmode whe a  lukmance ൧  lukmor",
+   "urls": [
+    "https://www.instagram.com/p/Df38dtFyP5T/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-18T07:15:56.000Z",
+   "poster": "posters/4017a988f03d.jpg",
+   "first_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "92e0720872ab": {
+   "id": "92e0720872ab",
+   "title": "A timeless look with a superstar touch!✨ . . . . . . . . . . . . . . #TraditionalLook, #Lu",
+   "text": "A timeless look with a superstar touch!✨\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#TraditionalLook, #LukmanceModelManagement, #LukmanceOnamModelLaunch, #AspiringModels, #ModelPortfolio,TraditionalLook, TraditionalWear, EthnicWear, TraditionalStyle, EthnicFashion, MensFashion, MensStyle, PortfolioShoot, ModelPortfolio, FashionPhotography, TraditionalOutfit, ClassicLook, StyleInspiration, LukmanceModelManagement, LukmanceModels, FashionReels, InstagramReels, ExplorePage\nLukmanc\nസ്വന\n\nLAUNCH focus.\nWHeCLS =\n\nOF LIFE\nfocus..\nWHeeCLS\nOFLIFe .focl",
+   "key": "a timeless look with a superstar touch               traditionallook lukmancemodelmanagement lukmanceonammodellaunch aspiringmodels modelportfoliotraditionallook traditionalwear ethnicwear traditionalstyle ethnicfashion mensfashion mensstyle portfolioshoot modelportfolio fashionphotography traditionaloutfit classiclook styleinspiration lukmancemodelmanagement lukmancemodels fashionreels instagramreels explorepage lukmanc സ്വന launch focus whecls  of life focus wheecls oflife focl",
+   "urls": [
+    "https://www.instagram.com/p/Df3rSU7ygQl/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-18T04:45:54.000Z",
+   "poster": "posters/92e0720872ab.jpg",
+   "first_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "109032f1da85": {
+   "id": "109032f1da85",
+   "title": "Simple, classic and full of character! 🤍 . . . . . . . . . . . . . #TraditionalLook, #Lukm",
+   "text": "Simple, classic and full of character! 🤍\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#TraditionalLook, #LukmanceModelManagement, #LukmanceOnamModelLaunch, #AspiringModels, #ModelPortfolio,TraditionalWear, EthnicWear, TraditionalStyle, EthnicFashion, MensFashion, MensStyle, PortfolioShoot, ModelPortfolio, FashionPhotography, TraditionalOutfit, ClassicLook, StyleInspiration, onammodellaunch 2026, LukmanceModels, FashionReels, InstagramReels, ExplorePage\nന ന്‌ LAUNCH നു\nLukmenc® — wieers\n\nOF LIFE\n\n7\n\nLukmance\nONAM MODEL\nLAUNCH\n\nWHeeLS\nQF LIFE ,.\n\nBa",
+   "key": "simple classic and full of character               traditionallook lukmancemodelmanagement lukmanceonammodellaunch aspiringmodels modelportfoliotraditionalwear ethnicwear traditionalstyle ethnicfashion mensfashion mensstyle portfolioshoot modelportfolio fashionphotography traditionaloutfit classiclook styleinspiration onammodellaunch 2026 lukmancemodels fashionreels instagramreels explorepage ന ന് launch നു lukmenc  wieers of life 7 lukmance onam model launch wheels qf life  ba",
+   "urls": [
+    "https://www.instagram.com/p/Df3wTayyYzN/"
+   ],
+   "sources": [
+    "instagram:lukmanceonammodellaunch"
+   ],
+   "published": "2026-11-18T05:29:49.000Z",
+   "poster": "posters/109032f1da85.jpg",
+   "first_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "class": "REJECTED",
+   "reason": "No casting/audition signal in text",
+   "info": {},
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "6ac1101e5197": {
+   "id": "6ac1101e5197",
+   "title": "Looking for Child Artists for a Folk Drama Short More details in the poster #malayalam #ch",
+   "text": "Looking for Child Artists for a Folk Drama Short \nMore details in the poster \n#malayalam #childactor #kerala #castingcall",
+   "key": "looking for child artists for a folk drama short more details in the poster malayalam childactor kerala castingcall",
+   "urls": [
+    "https://www.instagram.com/p/DfxJuyoB0xH/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-15T15:57:34.000Z",
+   "poster": null,
+   "first_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Possibly relevant but age unclear, gender unclear, production type unclear",
+   "info": {
+    "deadline": null,
+    "gender": "unknown",
+    "location": "kerala",
+    "type": null
+   },
+   "contact": null,
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  "b94297526a1c": {
+   "id": "b94297526a1c",
+   "title": "🎬 CASTING CALL – LOVE TRAP ❤️ Dreaming of becoming an actor or actress? Your opportunity i",
+   "text": "🎬 CASTING CALL – LOVE TRAP ❤️\n\nDreaming of becoming an actor or actress? Your opportunity is here!\n\n🌟 Upcoming Web Series – LOVE TRAP 🎭 Lead & Supporting Actors | Actresses | Child Artists 📍 Kerala & Nainital 💰 ₹2,000–₹15,000 Per Day ✨ Freshers & Experienced Artists Welcome!\n\n🚀 HOW TO APPLY?\n\nVisit our website.\n\nCreate your FREE Artist Profile.\n\nUpload your photos and acting videos.\n\nApply for LOVE TRAP!\n\n🌐 Apply Now: www.castingscreen.com\n\n📲 WhatsApp: 9824011921\n\n📸 Follow us: @castingscreenindia\n\nCASTING SCREEN 🎥 Roll • Camera • Action!\n\nYour Talent. Your Screen. Your Opportunity.\n\n#CastingCall #LoveTrap #WebSeriesCasting #IndianActors #AuditionIndia CastingScreen ctorLife ModelCasting FreshersWelcome ActingOpportunities\nfl\n\n|\ni\n\n5 CASTING SCREEN\n\nROLL-CAMERA- ACTION\n\nUPCOMING WEB SERIES\n\n2 ങ്ങ\n1 2 5 6 2\nLead Actor Lead Actresses Supporting Supporting Child Artists\n(Age: 19 - 28) (Age: 18 - 26) Actors Actresses (Age: 11-14)\n(Age: 22 - 40) (Age: 22 - 30)\n‘ g Shoot Location ‘= Shoot Starts Project Duration >\n( <> Kerala - Nainital 232] End of December 4-6 Months )\nFees: 2,000 - $15,000 Per Day\n(Depending on Role and Work)\n\\,\nAll india Freshers & Web Series Real Roles &\nCasting Experienced Opportunity Good Exposure\nWelcome",
+   "key": " casting call  love trap  dreaming of becoming an actor or actress your opportunity is here  upcoming web series  love trap  lead  supporting actors  actresses  child artists  kerala  nainital  200015000 per day  freshers  experienced artists welcome  how to apply visit our website create your free artist profile upload your photos and acting videos apply for love trap  apply now wwwcastingscreencom  whatsapp 9824011921  follow us castingscreenindia casting screen  roll  camera  action your talent your screen your opportunity castingcall lovetrap webseriescasting indianactors auditionindia cas",
+   "urls": [
+    "https://www.instagram.com/p/Dfw0hViqZaF/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-15T12:50:28.000Z",
+   "poster": "posters/b94297526a1c.jpg",
+   "first_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": "2026-12-04"
+   },
+   "contact": "9824011921",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  "95be20af9865": {
+   "id": "95be20af9865",
+   "title": "#keralaactors #keralaactor #castingcallmalayalam #fyp #mollywood",
+   "text": "#keralaactors #keralaactor #castingcallmalayalam #fyp #mollywood\nചി മ ത്തു ”,\n\nSOUTH INDIAN\n\nMAGIC FRAMES FILM ACADEMY\n\nPRESENTS LEARN FILM FROM WHERE IT HAPPENS\n\n602 SHORT FILM\n\n൭ rec |\n\nCASTING\n\n+ CALL\n\nWE ARE LOOKING FOR\n\nMALE ACTORS\n\nSEND FIVE RECENT PHOTOS\n\nM4 AND ONE PERFORMANCE VIDEO TO is 8157004693 മ\ncastingcallsifa26@gmail.com 9744721641",
+   "key": "keralaactors keralaactor castingcallmalayalam fyp mollywood ചി മ ത്തു  south indian magic frames film academy presents learn film from where it happens 602 short film ൭ rec  casting  call we are looking for male actors send five recent photos m4 and one performance video to is 8157004693 മ castingcallsifa26gmailcom 9744721641",
+   "urls": [
+    "https://www.instagram.com/p/Df2M7ghTr46/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-17T14:59:56.000Z",
+   "poster": "posters/95be20af9865.jpg",
+   "first_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": "8157004693, castingcallsifa26@gmail.com, 9744721641",
    "notified_class": null,
    "scans": 1
   }
@@ -4975,6 +5210,26 @@
     }
    },
    "new": 16,
+   "emailed": true,
+   "health": "ok"
+  },
+  {
+   "time": "2026-11-19T02:16:54.949565+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 15
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 30
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 10,
    "emailed": true,
    "health": "ok"
   }
