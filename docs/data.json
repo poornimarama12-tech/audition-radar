@@ -1,26 +1,6 @@
 {
- "generated": "2026-11-19T02:16:54.949565+05:30",
+ "generated": "2026-11-20T02:23:32.691176+05:30",
  "scans": [
-  {
-   "time": "2026-10-21T13:07:08.092856+05:30",
-   "sources": {
-    "instagram": {
-     "ok": true,
-     "count": 16
-    },
-    "hashtags": {
-     "ok": true,
-     "count": 50
-    },
-    "search": {
-     "ok": false,
-     "error": "all search queries failed"
-    }
-   },
-   "new": 0,
-   "emailed": false,
-   "health": "degraded"
-  },
   {
    "time": "2026-10-21T13:42:41.382349+05:30",
    "sources": {
@@ -600,9 +580,262 @@
    "new": 10,
    "emailed": true,
    "health": "ok"
+  },
+  {
+   "time": "2026-11-20T02:23:32.691176+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 15
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 50
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 10,
+   "emailed": true,
+   "health": "ok"
   }
  ],
  "opps": [
+  {
+   "id": "3ca9ffb9be06",
+   "title": "Message in inbox",
+   "text": "Message in inbox\nLooking for a\ntamed Persian cat\nfor an ad shoot in Kochi.\n\nഴ്‌ ി It,\n\nSao oa iG) DM @launchpadcasting &\nva ക്‌ o> : on Instagram f=",
+   "urls": [
+    "https://www.instagram.com/p/Df6prqnBkRa/"
+   ],
+   "sources": [
+    "instagram:launchpadcasting"
+   ],
+   "published": "2026-11-19T08:28:08.000Z",
+   "poster": "posters/3ca9ffb9be06.jpg",
+   "first_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "08199e1a8d0f",
+   "title": "🎬 MALAYALAM MOVIE SHOOT – CASTING CALL 🎬 📅 Date: 20/11/2026 ⏰ Reporting Time: 4:30 PM (Nig",
+   "text": "🎬 MALAYALAM MOVIE SHOOT – CASTING CALL 🎬\n📅 Date: 20/11/2026\n⏰ Reporting Time: 4:30 PM (Night Shoot)\n📍 Location: Thiruvankulam, Ernakulam\n🗓️ Schedule: 15 Days Continuity\nREQUIREMENTS:\n Kids (Boys): 5 Nos (Age: 7– 10)\n Kids (Girls): 3 Nos (Age: 7 – 10)\n⚠️ നിബന്ധനകൾ (Important):\n എറണാകുളം ജില്ലയിൽ ഉള്ളവർക്ക് മുൻഗണന.\n ഉറപ്പായിട്ടും 15 ദിവസം തുടർച്ചയായി ഷൂട്ടിന് വരാൻ കഴിയുന്നവർ മാത്രം അയക്കുക.\n📲 Send Details to WhatsApp: 6238738050\n(Name, Age, Place & Recent Photo)\nDate : 20/11/2026\n© Reporting Time : 4:30 PM (Night Shoot)\n൭ Location : Thiruvankulam, Ernakulam\n‘Schedule : 15 Days Continuity\n\nPY Kids (Boys)\n\n5 Nos\nറ (Age: 7 - 10)\n\nKids (Girls)\n3 Nos\n1 (296: 7 - 10)\n\nറ0ണാകുളം ജിലുയില്‍ ഉങവര്‍ക്ക്‌ മുന്‍ഗണ;\n൭ എ;\n\n© ഉറ്ായിടും 15 ദിവസം തുടര്‍ച്ചയായി ഷൂട്ടിന്‌\nSe വരാന്‍ കഴിയുന്നവര്‍ ധാരം അയക്കു\n\n(൭ ‘Send Details to 1/0 രം\n(Name, Age, Place & Recent Photo) ന)",
+   "urls": [
+    "https://www.instagram.com/p/Df7WxF-xJO6/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-19T15:02:59.000Z",
+   "poster": "posters/08199e1a8d0f.jpg",
+   "first_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": "2026-11-20"
+   },
+   "contact": "6238738050",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  {
+   "id": "e831f724f639",
+   "title": "#CastingCall #MumbaiCasting #CastingMumbai #AuditionCall #MumbaiAuditions #ChildArtist #Ch",
+   "text": "#CastingCall #MumbaiCasting #CastingMumbai #AuditionCall #MumbaiAuditions #ChildArtist #ChildActors #KidsCasting #KidsAudition #TeenActors #YoungActors #ActorsOfMumbai #MumbaiActors #FreshFaces #NewTalent #ActingOpportunity #TVCAd #TVCasting #CommercialAd #ChocolateAd #AdFilmCasting #IndianActors #CastingAgency #TalentHunt #searchingtalents\nCASTING CALL\n\nfor Known Chocolate Brand TVC Ad\n\n25 or 267\n\nNovember\n(One day prior to the shoot)\n\nMumbai based 13-16yrs of Age Boys and Girls\nട്‌ | പ്പ്‌ ( fair dusky ,chubby lean , chasmish Kids ,\nSardar Boys every type of but very Good Performers )\n\niN)\n\nERG Gey Only 2 Pictures & on\nKindly share —> Freshintrovideo | +9189280 56179\n\nShortlisted will given script for Audition",
+   "urls": [
+    "https://www.instagram.com/p/Df2Iyd6DWGu/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-17T14:23:42.000Z",
+   "poster": "posters/e831f724f639.jpg",
+   "first_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "+9189280 56179",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  {
+   "id": "ac5dd0e37039",
+   "title": "Casting Call @rakeshkallara @ananduuuu____ @harik_ms @ananthan__27 @chittuabraham @imaishw",
+   "text": "Casting Call \n\n@rakeshkallara @ananduuuu____ @harik_ms @ananthan__27 @chittuabraham @imaishwarya_08r @cut_storie \n.\n.\n#castingcall #casting #actors #acting #jokershowreel",
+   "urls": [
+    "https://www.instagram.com/p/Df2CvL7J4N3/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-17T13:30:05.000Z",
+   "poster": null,
+   "first_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "113e4f4c49be",
+   "title": "New applicants Please share 3-5 pictures Please share your details Name Age Height Hair co",
+   "text": "New applicants \n\nPlease share 3-5 pictures \n\nPlease share your details \nName \nAge\nHeight \nHair color \nEye color\nContact number \nEmail address \nLocation\nMother Tongue\nLanguages you speak fluently:\nInstagram profile link :\n\nOur subscribers: VED Silks\n\nmodel modelling casting jobs sareeshoot Bangalore casting jobs rptalents",
+   "urls": [
+    "https://www.instagram.com/p/Df6sZ_iJFYE/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-19T08:52:20.000Z",
+   "poster": null,
+   "first_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "fa8d2f59c3b4",
+   "title": "🎬 THE CAMERA IS WAITING. IS YOUR FACE READY FOR IT? 🔥 Your Bollywood journey could start w",
+   "text": "🎬 THE CAMERA IS WAITING. IS YOUR FACE READY FOR IT? 🔥\n\nYour Bollywood journey could start with ONE opportunity! ✨\n\n🎭 ARTISTS WANTED – PAN INDIA\n📍 Freshers & Experienced Artists\n🌟 No prior experience required\n🎥 Fresh faces are welcome!\n\nIf you have the passion, confidence, and dream of being on screen, this is your chance to get noticed!\n\n📩 HOW TO APPLY:\nSend us your 2 recent pictures + 1 introduction video.\n\n📲 WhatsApp: 9079555109\n📧 Email: team@actingsansakari.com\n\nTag someone who deserves to be in front of the camera! 👇\n\nYour face could be the next one on screen. 🎥\n\n#CastingCall #ArtistsWanted #PanIndiaCasting #FreshFaces #ActingAuditions \n\nBollywoodCasting CastingIndia ActorsWanted ActingOpportunities NewTalent AuditionCall ActingSansakari IndianCinema ModelingAuditions\nCASTING CALL\n\nERESFIERS\nCANFVAPRPLY,\n\nSHARE YOU 2 PICTURES 4 1 INTRO VIDEO\n\n(©9079555109 TEAM@ACTINGSANSAKARI.COM",
+   "urls": [
+    "https://www.instagram.com/p/Df4aTbkv0ur/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-18T11:38:14.000Z",
+   "poster": "posters/fa8d2f59c3b4.jpg",
+   "first_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": "9079555109, team@actingsansakari.com, TEAM@ACTINGSANSAKARI.COM",
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "ce01ba7c5ab9",
+   "title": "AUDITIONS OPEN: Hayavadana 🐎🎭 Bangalore Little Theatre presents Girish Karnad’s Hayavadana",
+   "text": "AUDITIONS OPEN: Hayavadana 🐎🎭\n\nBangalore Little Theatre presents Girish Karnad’s Hayavadana, directed by Sanjeev Gadre. We are casting actors and singers, and the call is open to all.\n\nRound 1 is an audition video. Details and guidelines are in the Google Form:\n\n📅 Last date: 6th December 2026\n\nApply now. Link in bio.\n\n#Hayavadana #GirishKarnad #BangaloreLittleTheatre #TheatreAuditions #OpenCall #BangaloreTheatre #IndianTheatre\nപ്‌\n\nBe a part of\nGirish Karnad’s\n_ timeless classic,\ni Hayavadana.\n\nDANE\n\nസ്ത\n\nOpen to all | a\nRound 1: Submit an a\n‘ audition video. 4\n} Last Date: 3\n\n6 December 2026",
+   "urls": [
+    "https://www.instagram.com/p/Df30HzXkZFY/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-18T06:01:35.000Z",
+   "poster": "posters/ce01ba7c5ab9.jpg",
+   "first_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": "2026-12-06"
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  {
+   "id": "4defb748257d",
+   "title": "Vamsi Nandipati Entertainments #CastingCall for Incredible Talent🎬 Lecturers, students and",
+   "text": "Vamsi Nandipati Entertainments #CastingCall for Incredible Talent🎬\n\nLecturers, students and kids – this is your chance to be part of the story. You could be the face we’re looking for❤️\n\nWhatsApp your Audition Reels to\n+91 7416943003\nMail us to vne.castingcall@gmail.com \n\n#VNE",
+   "urls": [
+    "https://www.instagram.com/p/Df1UucnSjR8/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-17T06:48:49.000Z",
+   "poster": null,
+   "first_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Possibly relevant but age unclear, location unclear, production type unclear",
+   "info": {
+    "deadline": null,
+    "gender": "any",
+    "location": null,
+    "type": null
+   },
+   "contact": "+91 7416943003, vne.castingcall@gmail.com",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  {
+   "id": "67980e3fb9b9",
+   "title": "Fresh faces. Strong presence. Big opportunities! Passion Casting Agency is scouting new ta",
+   "text": "Fresh faces. Strong presence. Big opportunities!\n\nPassion Casting Agency is scouting new talent for an upcoming Global Adidas Ad Campaign. Freshers welcome!\n\nSend your profiles to: passionxadidas@gmail.com\n\n#CastingCall #PassionCastingAgency #foryou #instagram #fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp\nPASSION CASTING AGENCY\nPRESENTS\nCASTING CALL\nFORA\n\nGLOBAL AD CAMPAIGN\n\noath.\n\nWe are now shortlisting fresh, exciting talent\nfor an upcoming campaign with Adidas.\n\nWE'RE LOOKING FOR ‘AGE CRITERIA\nSood speaking sil, © Males & Females:\nonfidentn onto th camera ക്കൂ 18-28 Years\nmarket & growing talent\n\nKids\nBS So 12 Years\n\nwon ന | weston | ce\n\nsuDGeT\nMumba Tobe confirmed Depends on\norPan india Ge pereampngn) the profile\n\n‘SEND YOUR PROFILE TO.\n\n85 | passionxadidas@gmail.com\nPlease include the following details\n\nName | Age | Height | Location | Contact Number\n* Introduction Video (preferred) or Recent Photos",
+   "urls": [
+    "https://www.instagram.com/p/Dfy4_n1RgLj/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-16T08:08:23.000Z",
+   "poster": "posters/67980e3fb9b9.jpg",
+   "first_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "passionxadidas@gmail.com",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  {
+   "id": "4fa174caf744",
+   "title": "Capturing Little Fingers & Toes, Preserving Love That Forever Grows. ❤️ . . . #babycasting",
+   "text": "Capturing Little Fingers & Toes, Preserving Love That Forever Grows. ❤️\n.\n.\n.\n#babycastingcall#puneclints#instacall#trendingpost#unforgettablememories999\n.\n.\n9739247999@unforgettable.memories 999",
+   "urls": [
+    "https://www.instagram.com/p/Df6WP3lkoUw/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-19T05:38:16.000Z",
+   "poster": "posters/4fa174caf744.jpg",
+   "first_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "class": "REJECTED",
+   "reason": "Location only pune",
+   "info": {
+    "deadline": null
+   },
+   "contact": "9739247999",
+   "notified_class": null,
+   "scans": 1
+  },
   {
    "id": "caddb5911687",
    "title": "Cast selected for Voiceclub app shoot: Shruti! Heart congratulations and Celebrations !!🎉 ",
@@ -616,7 +849,7 @@
    "published": "2026-11-18T12:31:28.000Z",
    "poster": "posters/caddb5911687.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -624,7 +857,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "6c143907895b",
@@ -639,7 +872,7 @@
    "published": "2026-11-18T12:57:12.000Z",
    "poster": "posters/6c143907895b.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -647,7 +880,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "372d14ac9fb0",
@@ -662,7 +895,7 @@
    "published": "2026-11-18T13:15:14.000Z",
    "poster": "posters/372d14ac9fb0.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -670,7 +903,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "5af32e8d2e24",
@@ -685,13 +918,13 @@
    "published": "2026-11-18T06:29:02.000Z",
    "poster": "posters/5af32e8d2e24.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "4017a988f03d",
@@ -706,13 +939,13 @@
    "published": "2026-11-18T07:15:56.000Z",
    "poster": "posters/4017a988f03d.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "92e0720872ab",
@@ -727,13 +960,13 @@
    "published": "2026-11-18T04:45:54.000Z",
    "poster": "posters/92e0720872ab.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "109032f1da85",
@@ -748,13 +981,13 @@
    "published": "2026-11-18T05:29:49.000Z",
    "poster": "posters/109032f1da85.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "6ac1101e5197",
@@ -818,7 +1051,7 @@
    "published": "2026-11-17T14:59:56.000Z",
    "poster": "posters/95be20af9865.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -826,7 +1059,7 @@
    },
    "contact": "8157004693, castingcallsifa26@gmail.com, 9744721641",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "ec77751b451a",
@@ -841,13 +1074,13 @@
    "published": "2026-11-17T06:10:37.000Z",
    "poster": "posters/ec77751b451a.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "ac9b38d63d96",
@@ -862,13 +1095,13 @@
    "published": "2026-11-17T08:08:27.000Z",
    "poster": "posters/ac9b38d63d96.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "850c058df838",
@@ -883,13 +1116,13 @@
    "published": "2026-11-17T05:21:03.000Z",
    "poster": "posters/850c058df838.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "e611e03f3b26",
@@ -904,13 +1137,13 @@
    "published": "2026-11-17T10:34:58.000Z",
    "poster": "posters/e611e03f3b26.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "c65605d66391",
@@ -925,13 +1158,13 @@
    "published": "2026-11-17T09:03:13.000Z",
    "poster": "posters/c65605d66391.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   {
    "id": "328405800ec0",
@@ -969,7 +1202,7 @@
    "published": "2026-11-16T13:58:55.000Z",
    "poster": null,
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but age unclear, location unclear, production type unclear",
    "info": {
@@ -980,7 +1213,7 @@
    },
    "contact": "8848936347",
    "notified_class": "NEEDS REVIEW",
-   "scans": 2
+   "scans": 4
   },
   {
    "id": "6465988a5226",
@@ -1116,15 +1349,15 @@
    "published": "2026-11-17T11:19:22.000Z",
    "poster": null,
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
-    "deadline": "2026-11-25"
+    "deadline": "2026-11-30"
    },
    "contact": "9650046111, auditionsrrcasting@gmail.com, romaarekhicasting@gmail.com",
    "notified_class": "NEEDS REVIEW",
-   "scans": 1
+   "scans": 2
   },
   {
    "id": "e5c2eb030208",
@@ -1208,7 +1441,7 @@
    "published": "2026-11-16T07:04:49.000Z",
    "poster": "posters/84f211704b9c.jpg",
    "first_seen": "2026-11-17T03:54:55.269589+05:30",
-   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -1216,7 +1449,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   {
    "id": "05e6716d412e",
@@ -1234,13 +1467,13 @@
    "published": "2026-11-16T11:25:58.000Z",
    "poster": "posters/05e6716d412e.jpg",
    "first_seen": "2026-11-17T03:54:55.269589+05:30",
-   "last_seen": "2026-11-19T02:16:54.949565+05:30",
+   "last_seen": "2026-11-20T02:23:32.691176+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 8
+   "scans": 9
   },
   {
    "id": "afc955824fb1",
