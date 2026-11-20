@@ -3782,13 +3782,13 @@
    "published": "2026-11-16T11:25:58.000Z",
    "poster": "posters/05e6716d412e.jpg",
    "first_seen": "2026-11-17T03:54:55.269589+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 9
+   "scans": 10
   },
   "ec77751b451a": {
    "id": "ec77751b451a",
@@ -3804,13 +3804,13 @@
    "published": "2026-11-17T06:10:37.000Z",
    "poster": "posters/ec77751b451a.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "ac9b38d63d96": {
    "id": "ac9b38d63d96",
@@ -3826,13 +3826,13 @@
    "published": "2026-11-17T08:08:27.000Z",
    "poster": "posters/ac9b38d63d96.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "850c058df838": {
    "id": "850c058df838",
@@ -3848,13 +3848,13 @@
    "published": "2026-11-17T05:21:03.000Z",
    "poster": "posters/850c058df838.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "e611e03f3b26": {
    "id": "e611e03f3b26",
@@ -3870,13 +3870,13 @@
    "published": "2026-11-17T10:34:58.000Z",
    "poster": "posters/e611e03f3b26.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "c65605d66391": {
    "id": "c65605d66391",
@@ -3892,13 +3892,13 @@
    "published": "2026-11-17T09:03:13.000Z",
    "poster": "posters/c65605d66391.jpg",
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "328405800ec0": {
    "id": "328405800ec0",
@@ -3914,7 +3914,7 @@
    "published": "2026-11-17T07:48:12.000Z",
    "poster": null,
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-18T02:41:43.487971+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -3922,7 +3922,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "3c024ae5385f": {
    "id": "3c024ae5385f",
@@ -4091,7 +4091,7 @@
    "published": "2026-11-17T11:19:22.000Z",
    "poster": null,
    "first_seen": "2026-11-18T02:41:43.487971+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Kid role mentioned but stated ages may not fit",
    "info": {
@@ -4099,7 +4099,7 @@
    },
    "contact": "9650046111, auditionsrrcasting@gmail.com, romaarekhicasting@gmail.com",
    "notified_class": "NEEDS REVIEW",
-   "scans": 2
+   "scans": 3
   },
   "e5c2eb030208": {
    "id": "e5c2eb030208",
@@ -4187,7 +4187,7 @@
    "published": "2026-11-18T12:31:28.000Z",
    "poster": "posters/caddb5911687.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -4195,7 +4195,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "6c143907895b": {
    "id": "6c143907895b",
@@ -4211,7 +4211,7 @@
    "published": "2026-11-18T12:57:12.000Z",
    "poster": "posters/6c143907895b.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -4219,7 +4219,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "372d14ac9fb0": {
    "id": "372d14ac9fb0",
@@ -4235,7 +4235,7 @@
    "published": "2026-11-18T13:15:14.000Z",
    "poster": "posters/372d14ac9fb0.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -4243,7 +4243,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "5af32e8d2e24": {
    "id": "5af32e8d2e24",
@@ -4259,13 +4259,13 @@
    "published": "2026-11-18T06:29:02.000Z",
    "poster": "posters/5af32e8d2e24.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "4017a988f03d": {
    "id": "4017a988f03d",
@@ -4281,13 +4281,13 @@
    "published": "2026-11-18T07:15:56.000Z",
    "poster": "posters/4017a988f03d.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "92e0720872ab": {
    "id": "92e0720872ab",
@@ -4303,13 +4303,13 @@
    "published": "2026-11-18T04:45:54.000Z",
    "poster": "posters/92e0720872ab.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "109032f1da85": {
    "id": "109032f1da85",
@@ -4325,13 +4325,13 @@
    "published": "2026-11-18T05:29:49.000Z",
    "poster": "posters/109032f1da85.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "6ac1101e5197": {
    "id": "6ac1101e5197",
@@ -4398,7 +4398,7 @@
    "published": "2026-11-17T14:59:56.000Z",
    "poster": "posters/95be20af9865.jpg",
    "first_seen": "2026-11-19T02:16:54.949565+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -4406,7 +4406,7 @@
    },
    "contact": "8157004693, castingcallsifa26@gmail.com, 9744721641",
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "3ca9ffb9be06": {
    "id": "3ca9ffb9be06",
@@ -4422,7 +4422,7 @@
    "published": "2026-11-19T08:28:08.000Z",
    "poster": "posters/3ca9ffb9be06.jpg",
    "first_seen": "2026-11-20T02:23:32.691176+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -4430,7 +4430,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "08199e1a8d0f": {
    "id": "08199e1a8d0f",
@@ -4494,7 +4494,7 @@
    "published": "2026-11-17T13:30:05.000Z",
    "poster": null,
    "first_seen": "2026-11-20T02:23:32.691176+05:30",
-   "last_seen": "2026-11-20T02:23:32.691176+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -4502,7 +4502,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "113e4f4c49be": {
    "id": "113e4f4c49be",
@@ -4649,6 +4649,105 @@
    },
    "contact": "9739247999",
    "notified_class": null,
+   "scans": 1
+  },
+  "aab0bc03da4b": {
+   "id": "aab0bc03da4b",
+   "title": "#castingcalls",
+   "text": "#castingcalls\n* Tamil and\nMalaiyalam™\nBakthi Movie\nau\n\n9514501654",
+   "key": "castingcalls  tamil and malaiyalam bakthi movie au 9514501654",
+   "urls": [
+    "https://www.instagram.com/p/Df6pOkIM9nR/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-19T08:24:20.000Z",
+   "poster": "posters/aab0bc03da4b.jpg",
+   "first_seen": "2026-11-21T02:08:37.626908+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": "9514501654",
+   "notified_class": null,
+   "scans": 1
+  },
+  "35f5b3252cd0": {
+   "id": "35f5b3252cd0",
+   "title": "CASTING CALL | UPCOMING TAMIL FILM. Ready to step into the spotlight.? (Lead Role) Heroine",
+   "text": "CASTING CALL | UPCOMING TAMIL FILM.\nReady to step into the spotlight.?\n\n(Lead Role) \nHeroine’25 - 30\n\n(Negative Roles) \nMale’ 25- 50\nFemale’25 - 30\n\n(Character Artist) \nFemale’20 - 25\nMale’20 - 50\nChild Artist(Male)’ 5-7\n\nHow to apply.\n\nInterested candidates can send their profiles along with recent photo and acting videos to the email address \n\nEmail - vavpn01@gmail.com\n\n#CastingCall #ActorsWanted #RealCasting #Acting.\n\nVAVISIONS\n\nUhild Artist (Male|\nAge: 5-7 1\n\nif i\n\n\nNEGATIVE\nROLES\n\nMale\nAge: 25-50 Female\nAge: 25-30\n\nLAST DATE FOR SUBMISSION\n\nles along with recent\nmail address below.\n\nInterested seritt ates can §\nphotographs an\n\nQur casting team will review your profile. If your profile\nmatches any of the cha our team will contact you.\n\nEMAIL : vavpno1@gmail.com\n\nVAVISIONS",
+   "key": "casting call  upcoming tamil film ready to step into the spotlight lead role heroine25  30 negative roles male 25 50 female25  30 character artist female20  25 male20  50 child artistmale 57 how to apply interested candidates can send their profiles along with recent photo and acting videos to the email address email  vavpn01gmailcom castingcall actorswanted realcasting acting vavisions uhild artist male age 57 1 if i negative roles male age 2550 female age 2530 last date for submission les along with recent mail address below interested seritt ates can  photographs an qur casting team will re",
+   "urls": [
+    "https://www.instagram.com/p/Df1SK-QgZDq/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-17T06:26:27.000Z",
+   "poster": "posters/35f5b3252cd0.jpg",
+   "first_seen": "2026-11-21T02:08:37.626908+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "vavpn01@gmail.com, vavpno1@gmail.com",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  "650673813fa4": {
+   "id": "650673813fa4",
+   "title": "Little faces wanted! 👶🏼✨ We’re looking for babies and toddlers to join us for an upcoming ",
+   "text": "Little faces wanted! 👶🏼✨\n\nWe’re looking for babies and toddlers to join us for an upcoming MyBabyStory photoshoot in Dubai!\n\nThink cute little faces, tiny hands and lots of personality. 🤍\n\nThis is a barter collaboration, where our little models will receive one of our personalised baby memory books in exchange for participating in the shoot.\n\nInterested in having your little one join us?\n\n📩 Send us a DM with:\n• A few recent photos of your child\n• Their age\n\nWe can’t wait to meet our little models!\n\nTag a mama or papa who might be interested! 👀\n\n#BabyModelsDubai #DubaiMums #BabyCastingDubai #MyBabyStory\nae a\n\nels\n\nWE’RE LOOKING FOR\nBABIES AND TODDLERS\nFOR AN UPCOMING SHOOT.\n\nPlease DM us photos\nwith their age.",
+   "key": "little faces wanted  were looking for babies and toddlers to join us for an upcoming mybabystory photoshoot in dubai think cute little faces tiny hands and lots of personality  this is a barter collaboration where our little models will receive one of our personalised baby memory books in exchange for participating in the shoot interested in having your little one join us  send us a dm with  a few recent photos of your child  their age we cant wait to meet our little models tag a mama or papa who might be interested  babymodelsdubai dubaimums babycastingdubai mybabystory ae a els were looking ",
+   "urls": [
+    "https://www.instagram.com/p/Df9CAd6tGJB/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-20T06:40:31.000Z",
+   "poster": "posters/650673813fa4.jpg",
+   "first_seen": "2026-11-21T02:08:37.626908+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Possibly relevant but age unclear, location unclear, gender unclear",
+   "info": {
+    "deadline": null,
+    "gender": "unknown",
+    "location": null,
+    "type": "photoshoot"
+   },
+   "contact": null,
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  "b9b4d7f8cf07": {
+   "id": "b9b4d7f8cf07",
+   "title": "✨ CASTING CALL – MYTHOLOGICAL SERIES ✨ Step into the world of legends, devotion and grande",
+   "text": "✨ CASTING CALL – MYTHOLOGICAL SERIES ✨\n\nStep into the world of legends, devotion and grandeur! 🏹👑\n\nWe are looking for talented Male, Female & Child Artists for an upcoming mythological series.\n\n🌟 Freshers & Experienced both welcome!\n🎬 Showcase your talent and become part of an epic journey.\n\n📞 Contact: 9152220260\n\nSend your profile and recent photographs today!\n\n#CastingCall #MythologicalSeries #IndianTelevision #ActorAuditions #FreshFaceCasting\nWe are looking for talented artists\nfor our upcoming mythological series.\n\ni നട\n\n“MALE LE\nAge: | ‘Age: | ‘Age:\n18-45 Years 17-40 Years 5-14 Years\n\nGraceful, expres ‘Cute, confident\nand powerful presence | and mera friendly\n\nBea part of this grand mythological journey!\n\n9152220260\n\nStrong sereen\npresence, expressive\n‘and versatile\n\nwe",
+   "key": " casting call  mythological series  step into the world of legends devotion and grandeur  we are looking for talented male female  child artists for an upcoming mythological series  freshers  experienced both welcome  showcase your talent and become part of an epic journey  contact 9152220260 send your profile and recent photographs today castingcall mythologicalseries indiantelevision actorauditions freshfacecasting we are looking for talented artists for our upcoming mythological series i നട male le age  age  age 1845 years 1740 years 514 years graceful expres cute confident and powerful pre",
+   "urls": [
+    "https://www.instagram.com/p/Df6fyfHMKeC/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-19T07:05:00.000Z",
+   "poster": "posters/b9b4d7f8cf07.jpg",
+   "first_seen": "2026-11-21T02:08:37.626908+05:30",
+   "last_seen": "2026-11-21T02:08:37.626908+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "9152220260",
+   "notified_class": "NEEDS REVIEW",
    "scans": 1
   }
  },
@@ -5493,6 +5592,26 @@
     }
    },
    "new": 10,
+   "emailed": true,
+   "health": "ok"
+  },
+  {
+   "time": "2026-11-21T02:08:37.626908+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 14
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 40
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 4,
    "emailed": true,
    "health": "ok"
   }
