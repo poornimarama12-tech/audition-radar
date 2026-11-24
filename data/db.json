@@ -4764,7 +4764,7 @@
    "published": "2026-11-21T06:56:06.000Z",
    "poster": "posters/1ce2df6655f7.jpg",
    "first_seen": "2026-11-22T01:06:48.292393+05:30",
-   "last_seen": "2026-11-23T01:23:59.807146+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -4772,7 +4772,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "bb0d7c957095": {
    "id": "bb0d7c957095",
@@ -4788,7 +4788,7 @@
    "published": "2026-11-21T15:29:24.000Z",
    "poster": "posters/bb0d7c957095.jpg",
    "first_seen": "2026-11-22T01:06:48.292393+05:30",
-   "last_seen": "2026-11-23T01:23:59.807146+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -4796,7 +4796,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "0f86f82fdac2": {
    "id": "0f86f82fdac2",
@@ -4812,13 +4812,13 @@
    "published": "2026-11-21T09:40:21.000Z",
    "poster": "posters/0f86f82fdac2.jpg",
    "first_seen": "2026-11-22T01:06:48.292393+05:30",
-   "last_seen": "2026-11-23T01:23:59.807146+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "cfbea76942e1": {
    "id": "cfbea76942e1",
@@ -5072,20 +5072,21 @@
     "https://www.instagram.com/p/DgCHj-_Tpsn/"
    ],
    "sources": [
-    "instagram:malayalam_castingcalls"
+    "instagram:malayalam_castingcalls",
+    "hashtag:#tag"
    ],
    "published": "2026-11-22T06:05:45.000Z",
    "poster": "posters/584e8dbd4172.jpg",
    "first_seen": "2026-11-23T01:23:59.807146+05:30",
-   "last_seen": "2026-11-23T01:23:59.807146+05:30",
-   "class": "NEEDS REVIEW",
-   "reason": "Kid role mentioned but stated ages may not fit",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
    "info": {
     "deadline": null
    },
    "contact": "9946154023, vaishnavashokphotody@gmail.com",
    "notified_class": "NEEDS REVIEW",
-   "scans": 1
+   "scans": 3
   },
   "345e554b03f0": {
    "id": "345e554b03f0",
@@ -5101,7 +5102,7 @@
    "published": "2026-11-22T05:55:24.000Z",
    "poster": "posters/345e554b03f0.jpg",
    "first_seen": "2026-11-23T01:23:59.807146+05:30",
-   "last_seen": "2026-11-23T01:23:59.807146+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -5109,7 +5110,7 @@
    },
    "contact": "spes.cinema@gmail.com, 8086953368",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "2a413299cc43": {
    "id": "2a413299cc43",
@@ -5228,6 +5229,318 @@
     "deadline": null
    },
    "contact": "9207108005",
+   "notified_class": null,
+   "scans": 1
+  },
+  "702c8c3fd4f6": {
+   "id": "702c8c3fd4f6",
+   "title": "**CASTING CALL – UPCOMING DIGITAL ADVERTISEMENT** We are looking for a Female Child Artist",
+   "text": "**CASTING CALL – UPCOMING DIGITAL ADVERTISEMENT**\n\nWe are looking for a Female Child Artist for an upcoming digital advertisement shoot in Mumbai.\n\n**Casting Details:**\n- Role: Female Child Artist\n- Age: Around 10 Years\n- Look: Good Looking\n- Shoot Dates: 9th, 10th & 11th December 2026\n- Shoot Location: Mumbai\n\n**Important:** Only candidates who can perform a self-test based on the provided script should apply.\n\n**Interested candidates, please share:**\n- Introduction Video Link\n- Recent Look Pictures\n\n**Contact Person:** Aarav Singh\n\n#ChildArtistCasting #CastingCallMumbai #DigitalAdCasting #KidsAudition #MyRangManch\n\n👉 Apply Now: https://www.myrangmanch.in",
+   "key": "casting call  upcoming digital advertisement we are looking for a female child artist for an upcoming digital advertisement shoot in mumbai casting details  role female child artist  age around 10 years  look good looking  shoot dates 9th 10th  11th december 2026  shoot location mumbai important only candidates who can perform a selftest based on the provided script should apply interested candidates please share  introduction video link  recent look pictures contact person aarav singh childartistcasting castingcallmumbai digitaladcasting kidsaudition myrangmanch  apply now httpswwwmyrangmanch",
+   "urls": [
+    "https://www.instagram.com/p/DgFWSSXklGE/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-23T12:10:15.000Z",
+   "poster": null,
+   "first_seen": "2026-11-24T05:40:12.040634+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
+   "class": "REJECTED",
+   "reason": "Location only mumbai",
+   "info": {
+    "deadline": "2026-12-11"
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "e9d511201eef": {
+   "id": "e9d511201eef",
+   "title": "​Casting Call | Short Film (Nagpur Only) Presented by Aesthetic Blue Production. We are lo",
+   "text": "​Casting Call | Short Film (Nagpur Only)\nPresented by Aesthetic Blue Production. We are looking for expressive local talent for the following roles:\n \n​Mother (40–50 Years)\n \n​Father (50–60 Years)\n \n​Maid (30–40 Years)\n \n​Brother (18–25 Years, Good Physique)\n \n​How to apply: Send your profile, recent photographs, and an introductory video to 8055140727.\n \n​#nagpur #audition #FilmCasting #actorsofnagpur #shortfilmproduction\nETIC BLUE PRODUCTION\n\nAudition\n\nFOR SHORT FILM\n\nStories need people.\n\n‘Only for Nagpur Artists\n\nARTISTS REQUIRED\n\nMOTHER 40-50 Years\nFATHER 50 60 Years\nMAID. 30-40 Years\nBROTHER 18 ~ 25 Years,\n\nSend profile with recent photographs &\n\nan introductory video of\n\n& 8055140727",
+   "key": "casting call  short film nagpur only presented by aesthetic blue production we are looking for expressive local talent for the following roles mother 4050 years father 5060 years maid 3040 years brother 1825 years good physique how to apply send your profile recent photographs and an introductory video to 8055140727 nagpur audition filmcasting actorsofnagpur shortfilmproduction etic blue production audition for short film stories need people only for nagpur artists artists required mother 4050 years father 50 60 years maid 3040 years brother 18  25 years send profile with recent photographs  a",
+   "urls": [
+    "https://www.instagram.com/p/DgFNeD7IJ-n/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-23T10:54:43.000Z",
+   "poster": "posters/e9d511201eef.jpg",
+   "first_seen": "2026-11-24T05:40:12.040634+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "8055140727",
+   "notified_class": null,
+   "scans": 1
+  },
+  "133394168bd4": {
+   "id": "133394168bd4",
+   "title": "🎬 BIG CASTING CALL! 🌟 A new opportunity for young talents! ✨ We are looking for talented B",
+   "text": "🎬 BIG CASTING CALL! 🌟\n\nA new opportunity for young talents! ✨\n\nWe are looking for talented BOY CHILD ARTISTS aged 5–17 years for an upcoming Mythological TV / Web Series.\n\n🏹 Freshers & Experienced both welcome!\n🎭 Exciting opportunity to showcase your talent.\n📸 Interested parents, kindly share your child’s profile with recent photographs, age, height and location.\n\n🌟 Your journey into the entertainment industry starts here!\n\nPresented by Bollywood Talent Hub.\n\n#CastingCall #ChildArtist #KidsAudition #MythologicalSeries #BollywoodTalentHub\nBOLLYWOOD A\n}) TALENT HUB —\n\nAS aie\n\nFor an upcoming Mythological 23\nTV / Web Series ന\n\nBoth Freshers\nand Experienced\n‘are Welcome!\n—\n\nKindly Share Your Profile\n(cent Photos, Age, Height & Lectlon)\n\nof Our Upcoming P\na",
+   "key": " big casting call  a new opportunity for young talents  we are looking for talented boy child artists aged 517 years for an upcoming mythological tv  web series  freshers  experienced both welcome  exciting opportunity to showcase your talent  interested parents kindly share your childs profile with recent photographs age height and location  your journey into the entertainment industry starts here presented by bollywood talent hub castingcall childartist kidsaudition mythologicalseries bollywoodtalenthub bollywood a  talent hub  as aie for an upcoming mythological 23 tv  web series ന both fre",
+   "urls": [
+    "https://www.instagram.com/p/DgFDjoBM0nK/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-23T09:27:29.000Z",
+   "poster": "posters/133394168bd4.jpg",
+   "first_seen": "2026-11-24T05:40:12.040634+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  "29186d383ebd": {
+   "id": "29186d383ebd",
+   "title": "#MalayalamCastingCall, #AuditionKerala, #MusicAlbumCasting, #KozhikodeModels #Malappuram M",
+   "text": "#MalayalamCastingCall, #AuditionKerala, #MusicAlbumCasting, #KozhikodeModels \n#Malappuram Models\nAURA BEATS ENTERTAINMENT VISION bnis04s\n\n| CASTING ¢ G CALL\n\n‘Age: 18-25 Years\noof yeas 125 യ്‌\nസയന മൂസ്ിം കുടുംബത്തിലെ\nസുമിയും ചുറുചുറുകകുമുള്ള\nപെണ്‍കൂടിയുടെ apa!\nഭാവങ്ങള്‍ ഉളളവര്‍\n\n30001 Starts: December 3rd Week\nഡിസംബര്‍ 3rd week ഷൂട്ട്‌ ആരംഭികുന്നു\nStecing Lacaton: ന Edavana (ധന set)\n‘ne day shooting മ 600 AM to B00 PM\n\nലി\nന]\nആഗ്രഹമുളെവര്‍ അയക്കുക.\n\nDiteent anges photos 20-scond performance video OR ടന (08.\n98056 01001, 491 94970 75849",
+   "key": "malayalamcastingcall auditionkerala musicalbumcasting kozhikodemodels malappuram models aura beats entertainment vision bnis04s  casting  g call age 1825 years oof yeas 125 യ് സയന മൂസ്ിം കുടുംബത്തിലെ സുമിയും ചുറുചുറുകകുമുള്ള പെണ്കൂടിയുടെ apa ഭാവങ്ങള് ഉളളവര് 30001 starts december 3rd week ഡിസംബര് 3rd week ഷൂട്ട് ആരംഭികുന്നു stecing lacaton ന edavana ധന set ne day shooting മ 600 am to b00 pm ലി ന ആഗ്രഹമുളെവര് അയക്കുക diteent anges photos 20scond performance video or ടന 08 98056 01001 491 94970 75849",
+   "urls": [
+    "https://www.instagram.com/p/DgFn2b-pEXL/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-23T14:45:50.000Z",
+   "poster": "posters/29186d383ebd.jpg",
+   "first_seen": "2026-11-24T05:40:12.040634+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": "2026-12-03"
+   },
+   "contact": "98056 01001, 91 94970 75849",
+   "notified_class": null,
+   "scans": 1
+  },
+  "98db6e2b4d0a": {
+   "id": "98db6e2b4d0a",
+   "title": "#castingdirector #castingcalls #castingcall #tamilcinema #chennai",
+   "text": "#castingdirector #castingcalls #castingcall #tamilcinema #chennai\nHeroine Friends\nപം ‘Age 18 to 28 ല്‌ ജാട\nധരി prac\n\nനനു കള\n\nrid eyes\nae\n\neta Phos eng Eee Weare",
+   "key": "castingdirector castingcalls castingcall tamilcinema chennai heroine friends പം age 18 to 28 ല് ജാട ധരി prac നനു കള rid eyes ae eta phos eng eee weare",
+   "urls": [
+    "https://www.instagram.com/p/DgFcQOgMawI/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-23T13:02:41.000Z",
+   "poster": "posters/98db6e2b4d0a.jpg",
+   "first_seen": "2026-11-24T05:40:12.040634+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
+   "class": "REJECTED",
+   "reason": "Location only chennai",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 2
+  },
+  "1ae38ee78c2c": {
+   "id": "1ae38ee78c2c",
+   "title": "IDCMEDIAS #IDCMedia #CastingAgency #CastingCall #CastingDirector #TalentManagement ArtistM",
+   "text": "IDCMEDIAS #IDCMedia #CastingAgency #CastingCall #CastingDirector #TalentManagement ArtistManagement CelebrityManagement MediaAgency PublicRelations FilmIndustry EntertainmentIndustry ProductionHouse FilmProduction MovieCasting ActorSearch ModelCasting ArtistAudition TVCCommercial TVCAds BrandPromotion\noe\neee\nae 7)\n\nMEDS Casting call\n\nWe are looking for talented and professional artists for an\nupcoming TVC Commercial Advertisement.\n\n(Audition for TAMIL | MALAYALAM | KANNADA | TELUGU LANGUAGE )\n\n¢ 1. CHILD ARTISTS - FEMALE - 6.CHILD ARTISTS — MALE\n+ Age: 7-15 Years + Age: 7-15 Years”\n\n൦ Requirement: 2 FEMALE CHILD ARTIST « Requirement: 2 MALE CHILD ARTIST\n\n2 + 7. MALE MODELS\n\n2. FEMALE MODELS ൦ Age: 18-25 Years\n\nAge: 18-25 Years _ r F Skin Tone: Fair / Fair Dusky / Milky Skin Tone\nSkin Tone: Fair / Fair Dusky / Milky Skin Tone Good Appearance & Camera Presence\n\nGood Appearance & Camera Presence\n\nം ഒ. FEMALE MODELS\n3. MALE MODELS ൦ Age: 18-25 Years\n\nAge: 18-25 Years a ന\nGood Looks & Personality Good Looks & Personality\n\n| ൦ 4. MALE MODELS\n-« Age: 35 Years.\n൭ Good Appearance & Camera Presence\n\n+ 9. FMALE MODEL\n« Age: 35 Years\n« Good Appearance & Camera Presence\n\n« 5. AGED MALE & FEMALE ARTISTS ¢ 10> AGED MALE & FEMALE ARTISTS\n+ Age: 45-80 Years + Age: 30-45 Years\n« Fair Look Fair Look\n+ Salt & Pepper Hairstyle + Salt & Pepper Hairstyle \\ ;\n+ Both Male & Female Artists Required + Both Male & Female Artists Required\n+ റ Interested Artists:\nLocation - Mumbai 4 Share YOU latest profile,\n=| pnotograpns and introauctory\nDATE -DECEMBER FIRST WEEK ടു:\n9344852283\n\nProject: TVC Commercial Advertisem\nNote: Please share your profiles only through WhatsApp. Our casting team\nwill contact shortlisted artists\n\n9344852283 >< idcmedia0l@gmail.com >< www.idcmedias.com",
+   "key": "idcmedias idcmedia castingagency castingcall castingdirector talentmanagement artistmanagement celebritymanagement mediaagency publicrelations filmindustry entertainmentindustry productionhouse filmproduction moviecasting actorsearch modelcasting artistaudition tvccommercial tvcads brandpromotion oe eee ae 7 meds casting call we are looking for talented and professional artists for an upcoming tvc commercial advertisement audition for tamil  malayalam  kannada  telugu language   1 child artists  female  6child artists  male  age 715 years  age 715 years ൦ requirement 2 female child artist  req",
+   "urls": [
+    "https://www.instagram.com/p/DgFZ2fshZXC/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-23T12:41:26.000Z",
+   "poster": "posters/1ae38ee78c2c.jpg",
+   "first_seen": "2026-11-24T05:40:12.040634+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "9344852283, idcmedia0l@gmail.com",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  "5a856625c3c4": {
+   "id": "5a856625c3c4",
+   "title": "🎬✨ ALREADY A STAR? READY TO SHINE BRIGHTER? 🌟 Whether you’re an established actress or a r",
+   "text": "🎬✨ ALREADY A STAR? READY TO SHINE BRIGHTER? 🌟\n\nWhether you’re an established actress or a rising talent, your next big breakthrough could be just ONE audition away! 🔥\n\nWe’re searching for TALENTED, CONFIDENT & VERSATILE ACTRESSES who have what it takes to own the screen! 🎥\n\n💫 This could be YOUR moment to shine!\n\n📲 WhatsApp Now: 014-367-9437\n⏳ DEADLINE: 25 NOVEMBER 2026\n\nThe spotlight is waiting. Are you ready? 🎭\n\n#CastingCall #ActressWanted #Audition2026 #MalaysianActress #KashVillanz\nത്ത്‌ പ. ALREADY A STAR?\n| , READY TO\n\nSHINE BRIGHTER?\n\nYOUR BIG BREAK COULD BE JUST\nONE AUDITION AWAY!\n\nAre you already an actress, but still waiting for that\nONE ROLE that could take your career to the next level?\n\nOr are you a promising talent waiting for the right\nopportunity to prove yourself?\n\n© THIS COULD BE YOUR MOMENT TO SHINE! 4\n\nWe are searching for TALENTED, CONFIDENT &\n\nVERSATILE ACTRESSES who have the passion,\n\npersonality, and powerful acting skills to make a\nlasting impression on the screen.\n\n6\not\n7\n\nWe're not just looking for a beautiful face.\nWe're looking for a performer who can own the screen!\n\nDo you have what it takes to steal the spotlight?\nWHATSAPP NOW:\n\n© | 014-367-9437",
+   "key": " already a star ready to shine brighter  whether youre an established actress or a rising talent your next big breakthrough could be just one audition away  were searching for talented confident  versatile actresses who have what it takes to own the screen   this could be your moment to shine  whatsapp now 0143679437  deadline 25 november 2026 the spotlight is waiting are you ready  castingcall actresswanted audition2026 malaysianactress kashvillanz ത്ത് പ already a star   ready to shine brighter your big break could be just one audition away are you already an actress but still waiting for th",
+   "urls": [
+    "https://www.instagram.com/p/DgFP72uRpWo/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-23T11:16:19.000Z",
+   "poster": "posters/5a856625c3c4.jpg",
+   "first_seen": "2026-11-24T05:40:12.040634+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": "2026-11-25"
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "d95a38aaa0f9": {
+   "id": "d95a38aaa0f9",
+   "title": "We are looking for talented and passionate actors to be a part of our upcoming Diploma Sho",
+   "text": "We are looking for talented and passionate actors to be a part of our upcoming Diploma Short Film.\n\nIf you believe you have what it takes, we'd love to hear from you.\nCome, be a part of our story. 🎥\n#CastingCall #ActorsWanted #MalayalamCinema #MalayalamShortFilm #DiplomaFilm KochiCasting FemaleLead AuditionCall CastingKerala\noS DIPLOMA SHORT FIL\n\ne Castin\nCall — ye,\n\nARE LOOKING FOR TALENTED ACTORS\nTO BE A PART OF OUR UPCOMING DIPLOMA SHORT FILM\n\nL M\n\nWE\n\n\"CHARACTERS\n\nREQUIRED\n\nFEMALE LEAD MALE ACTOR FEMALE ACTOR\nSOFY\n\nAGE: 40 — 55 AGE: 35 — 45\nAGE: 20 - 25\n\nREQUIREMENTS\nCQ Age: 20 - 25 years\n\n| rai Prior acting |\n(for lead)\n\nMust be based in\nexperience is required\n\nKochi or nearby locations\n\nInterested candidates can DM us with:\nTO APPLY | ൫ Recent photographs\n\ne Acting profile / previous work\ne Showreel or audition clips (if available)\n\nPoon secant ; 1\n© Diploma short Film | © Kochi, Kerala & 9946154023 (5) _vaishnavashokpothody@gmail.com\n\nCome be a part of our story.",
+   "key": "we are looking for talented and passionate actors to be a part of our upcoming diploma short film if you believe you have what it takes wed love to hear from you come be a part of our story  castingcall actorswanted malayalamcinema malayalamshortfilm diplomafilm kochicasting femalelead auditioncall castingkerala os diploma short fil e castin call  ye are looking for talented actors to be a part of our upcoming diploma short film l m we characters required female lead male actor female actor sofy age 40  55 age 35  45 age 20  25 requirements cq age 20  25 years  rai prior acting  for lead must ",
+   "urls": [
+    "https://www.instagram.com/p/DgCHl1wTTQe/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-22T06:04:11.000Z",
+   "poster": "posters/d95a38aaa0f9.jpg",
+   "first_seen": "2026-11-24T05:40:12.040634+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": "9946154023, _vaishnavashokpothody@gmail.com",
+   "notified_class": null,
+   "scans": 2
+  },
+  "11fe3094598a": {
+   "id": "11fe3094598a",
+   "title": "🎬 *FIRST CLAP CASTING* *CASTING CALL - MOBILE PHONE CINEMA* അഭിനേതാക്കളെ ആവശ്യമുണ്ട്! Male",
+   "text": "🎬 *FIRST CLAP CASTING*\n*CASTING CALL - MOBILE PHONE CINEMA*\n\nഅഭിനേതാക്കളെ ആവശ്യമുണ്ട്!\nMale & Female Actors Needed\n\n✅ *NO AGE LIMIT*\n\nWhatsApp:\n📞 *7736366143*\n\n_Every Star Begins With A First Clap_ ✨\n\n#FirstClap\n#CastingCall\n#actorslife\n\nAre you interested\nFIRST CLAP\n\naS ചന്തി\n\nCASTING CALL\n\nഅഭിനേതാക്കളെ ആവശ്യമുണ്ട്‌\n\nMOBILE PHONE CINEMA\n\nr 3 റ്‌ NO AGE 1410) j\n\nMALE & FEMALE ACTORS NEEDED\n\nWhatsApp: 7736366143",
+   "key": " first clap casting casting call  mobile phone cinema അഭിനേതാക്കളെ ആവശ്യമുണ്ട് male  female actors needed  no age limit whatsapp  7736366143 every star begins with a first clap  firstclap castingcall actorslife are you interested first clap as ചന്തി casting call അഭിനേതാക്കളെ ആവശ്യമുണ്ട് mobile phone cinema r 3 റ് no age 1410 j male  female actors needed whatsapp 7736366143",
+   "urls": [
+    "https://www.instagram.com/p/DgCGSPZh1Js/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-22T05:52:46.000Z",
+   "poster": "posters/11fe3094598a.jpg",
+   "first_seen": "2026-11-24T05:40:12.040634+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": "7736366143",
+   "notified_class": null,
+   "scans": 1
+  },
+  "3bf285dbfcf1": {
+   "id": "3bf285dbfcf1",
+   "title": "🚨 URGENT CASTING CALL🚨 SOCIAL CONTENT CAMPAIGN 📍 Johannesburg 🎬 Shoot: Friday, 27 November",
+   "text": "🚨 URGENT CASTING CALL🚨\n\nSOCIAL CONTENT CAMPAIGN\n\n📍 Johannesburg\n🎬 Shoot: Friday, 27 November\n👥 Looking for 14 People!\n\nMAIN CAST (10):\nBlack Woman 30s\nIndian Man 30s\nWhite Woman Late 20s\nWhite Man Early 30s\nMixed Race Woman Early 30s\nIndian Woman 20s\nWhite Man Late 30s - 40s\nBlack Woman Late 30s - 40s\nBlack Man Early 40s\nBlack Woman Early 40s\n\nEXTRAS (4):\nOlder Black Woman 50s-60s\nOlder Black Man 50s-60s\nBlack Man 30s\nYoung Girl 8-10\n\nScript will be sent to Main Cast.\n\n⏰ DEADLINE: TOMORROW 12:00 PM\n\nTO APPLY:\nSend two recent pictures + your location on WhatsApp: 071 081 3350\n\nTag someone who should apply! 🧡\n\n#BuntuCastingAgency #CastingCall #UrgentCasting #Johannesburg #SouthAfrica ActorsWanted ExtrasWanted\ngra Buntu\n\nCASTING AGENCY —\n\nURGENT CASTING CALL\n\nSOCIAL CONTENT CAMPAIGN\nShoot: Friday 27 November ൦ Looking for 14 People ൭\n\nMain Cast:\n\n+ Black Woman 30s « Indian Man 30s * White Woman Late 20s “ White Man Early 30s\n൦ Mixed Race Woman Early 30s « Indian Woman 20s ൦ White Man Late 30s-40s - Black Woman\nLate 305-405 Black Man Early 40s » Black Woman Early 40s\n\nExtras: .\n* Older Black Woman 50s-60s * Older Black Man 50s-60s “ Black Man 30s - Young Girl 8-10\n\nDEADLINE TOMORROW 12:00 PM\n\nLocation: Johannesburg\n\nTo Apply send two recent pictures and location on WhatsApp 071 081 3350",
+   "key": " urgent casting call social content campaign  johannesburg  shoot friday 27 november  looking for 14 people main cast 10 black woman 30s indian man 30s white woman late 20s white man early 30s mixed race woman early 30s indian woman 20s white man late 30s  40s black woman late 30s  40s black man early 40s black woman early 40s extras 4 older black woman 50s60s older black man 50s60s black man 30s young girl 810 script will be sent to main cast  deadline tomorrow 1200 pm to apply send two recent pictures  your location on whatsapp 071 081 3350 tag someone who should apply  buntucastingagency ca",
+   "urls": [
+    "https://www.instagram.com/p/DgFACw2twTm/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-23T09:00:10.000Z",
+   "poster": "posters/3bf285dbfcf1.jpg",
+   "first_seen": "2026-11-24T05:40:12.040634+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": "2026-11-27"
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "3a1691d2a20d": {
+   "id": "3a1691d2a20d",
+   "title": "#adcasting #tvcshoot #modelscall #artist #malayalamcastingcall",
+   "text": "#adcasting #tvcshoot #modelscall #artist #malayalamcastingcall",
+   "key": "adcasting tvcshoot modelscall artist malayalamcastingcall",
+   "urls": [
+    "https://www.instagram.com/p/DgEnzM0hxDY/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-23T05:24:06.000Z",
+   "poster": null,
+   "first_seen": "2026-11-24T05:40:12.040634+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "36056c830246": {
+   "id": "36056c830246",
+   "title": "Latest movie audition / casting call for actors",
+   "text": "Latest movie audition / casting call for actors\nPOTTER'S &\nVILLE\n\nCHURCH ChuChin\n\nOPEN\n\nAUDITION\n>\n\nFEMALE ACTORS: AGE 16-40 »\nMALE ACTORS: AGE 23-50 എള\n\nSAT. 23RD 423\n\n© 9:00 AM WAT\nGate closes 10:00 AM\n\nറു 2b Residence Road,\n\nNCI Bus-Stop, Gbagada,\nLagos.\n\n@thepottersvillechurch\nThe Potter's Ville Church\n\nPotters Ville Whe.\n\n@chuchinultimate\n\n൫൭൭൫൭",
+   "key": "latest movie audition  casting call for actors potters  ville church chuchin open audition  female actors age 1640  male actors age 2350 എള sat 23rd 423  900 am wat gate closes 1000 am റു 2b residence road nci busstop gbagada lagos thepottersvillechurch the potters ville church potters ville whe chuchinultimate ൫൭൭൫൭",
+   "urls": [
+    "https://www.instagram.com/p/DgDjxxnqTta/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-22T19:29:50.000Z",
+   "poster": "posters/36056c830246.jpg",
+   "first_seen": "2026-11-24T05:40:12.040634+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "9f32f9b88e4d": {
+   "id": "9f32f9b88e4d",
+   "title": "🎬 CASTING CALL! ACTORS NEEDED FOR A YOUTUBE SHOOT 🎥 Are you confident, expressive, and int",
+   "text": "🎬 CASTING CALL! ACTORS NEEDED FOR A YOUTUBE SHOOT 🎥\n\nAre you confident, expressive, and interested in acting? Here's an opportunity to showcase your talent and earn!\n\nWe are looking for actors for a short YouTube video shoot.\n\n👥 WHO WE NEED\n\n- Men: 25–40 years\n- Ladies: 23–40 years\n\n📍 LOCATION\n\nRoasters, Thika Road, Nairobi.\n\n✅ REQUIREMENTS\n\n- Must be based in Nairobi.\n- Must be available for at least one weekday.\n- Must be ready to participate in a short YouTube shoot.\n\n💰 PAYMENT\n\nKSh 1,000 CASH, paid immediately after the shoot.\n\n📲 HOW TO APPLY\n\nInterested individuals should send their recent photo via WhatsApp to:\n\n0799 962 273\n\n🎭 Don't miss this chance to be part of a YouTube production!\n\n📢 Tag or share with someone who would be interested.\n\n#CastingCall #ActorsWanted #ActingJobs #YouTubeShoot #NairobiJobs KenyaCasting ExtraRoles JoseOchyBerry\n\"= CASTING CALL! ACTORS NEEDED FOR A YOUTUBE SHOOT\n\n‘Are you confident, expressive, and interested in acting? Here's\n‘an opportunity to showcase your talent and eam!\n\nWe are looking for actors for a short YouTube video shoot.\n9° WHO WE NEED\n\n+ Men: 25~40 years\n+ Ladies: 23-40 years\n\n} tocarion\nRoasters, Thika Road, Nairobi.\n\n@ ReQuReMENTS\n\n+ Must be based in Nairobi.\n\n+ Must be available for at least one weekday.\n\n+ Must be ready to participate in a short YouTube shoot.\n6 Pavent\n\nKSh 1,000 CASH, paid immediately after the shoot.\n\n2 HowTo appty\n\nInterested individuals should send their recent photo via\nWhatsApp to:\n\n0799 962 273\n\nsy Dorit miss this chance to be part of a YouTube production!\nനി\nനത്തെ\nയ,\n\nലം",
+   "key": " casting call actors needed for a youtube shoot  are you confident expressive and interested in acting heres an opportunity to showcase your talent and earn we are looking for actors for a short youtube video shoot  who we need  men 2540 years  ladies 2340 years  location roasters thika road nairobi  requirements  must be based in nairobi  must be available for at least one weekday  must be ready to participate in a short youtube shoot  payment ksh 1000 cash paid immediately after the shoot  how to apply interested individuals should send their recent photo via whatsapp to 0799 962 273  dont m",
+   "urls": [
+    "https://www.instagram.com/p/DgCkAJrxv4Y/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-22T10:12:38.000Z",
+   "poster": "posters/9f32f9b88e4d.jpg",
+   "first_seen": "2026-11-24T05:40:12.040634+05:30",
+   "last_seen": "2026-11-24T05:40:12.040634+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
    "notified_class": null,
    "scans": 1
   }
@@ -6133,6 +6446,26 @@
     }
    },
    "new": 7,
+   "emailed": true,
+   "health": "ok"
+  },
+  {
+   "time": "2026-11-24T05:40:12.040634+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 5
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 40
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 13,
    "emailed": true,
    "health": "ok"
   }
