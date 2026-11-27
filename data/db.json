@@ -5560,7 +5560,7 @@
    "published": "2026-11-24T12:52:04.000Z",
    "poster": "posters/8997069a6393.jpg",
    "first_seen": "2026-11-25T04:10:04.908408+05:30",
-   "last_seen": "2026-11-27T03:17:47.399168+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -5568,7 +5568,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 3
+   "scans": 4
   },
   "7428797e168e": {
    "id": "7428797e168e",
@@ -5731,7 +5731,7 @@
    "published": "2026-11-24T15:43:22.000Z",
    "poster": "posters/09a8068b4092.jpg",
    "first_seen": "2026-11-25T04:10:04.908408+05:30",
-   "last_seen": "2026-11-26T03:23:14.697682+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
    "class": "REJECTED",
    "reason": "Age requirement does not fit",
    "info": {
@@ -5739,7 +5739,7 @@
    },
    "contact": "+91 97406 51999, aadirudrra@gmail.com",
    "notified_class": null,
-   "scans": 3
+   "scans": 5
   },
   "3095bdf81e06": {
    "id": "3095bdf81e06",
@@ -5851,7 +5851,7 @@
    "published": "2026-11-25T08:27:12.000Z",
    "poster": "posters/a2a30b51d52c.jpg",
    "first_seen": "2026-11-26T03:23:14.697682+05:30",
-   "last_seen": "2026-11-27T03:17:47.399168+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
    "class": "NEEDS REVIEW",
    "reason": "Possibly relevant but age unclear, gender unclear",
    "info": {
@@ -5862,7 +5862,7 @@
    },
    "contact": null,
    "notified_class": "NEEDS REVIEW",
-   "scans": 2
+   "scans": 3
   },
   "d647ea55ea9c": {
    "id": "d647ea55ea9c",
@@ -5878,7 +5878,7 @@
    "published": "2026-11-25T11:44:56.000Z",
    "poster": "posters/d647ea55ea9c.jpg",
    "first_seen": "2026-11-26T03:23:14.697682+05:30",
-   "last_seen": "2026-11-27T03:17:47.399168+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -5886,7 +5886,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "df83b8b67be7": {
    "id": "df83b8b67be7",
@@ -5902,7 +5902,7 @@
    "published": "2026-11-25T13:07:34.000Z",
    "poster": "posters/df83b8b67be7.jpg",
    "first_seen": "2026-11-26T03:23:14.697682+05:30",
-   "last_seen": "2026-11-27T03:17:47.399168+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -5910,7 +5910,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 2
+   "scans": 3
   },
   "d41a357cba29": {
    "id": "d41a357cba29",
@@ -6076,7 +6076,7 @@
    "published": "2026-11-25T11:07:27.000Z",
    "poster": "posters/a100872f2683.jpg",
    "first_seen": "2026-11-26T03:23:14.697682+05:30",
-   "last_seen": "2026-11-27T03:17:47.399168+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -6084,7 +6084,7 @@
    },
    "contact": "9947537344",
    "notified_class": null,
-   "scans": 2
+   "scans": 4
   },
   "b04311f673f9": {
    "id": "b04311f673f9",
@@ -6172,13 +6172,13 @@
    "published": "2026-11-26T03:45:54.000Z",
    "poster": "posters/7954d35e94f7.jpg",
    "first_seen": "2026-11-27T03:17:47.399168+05:30",
-   "last_seen": "2026-11-27T03:17:47.399168+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "07d96c98531e": {
    "id": "07d96c98531e",
@@ -6194,13 +6194,13 @@
    "published": "2026-11-26T04:56:49.000Z",
    "poster": "posters/07d96c98531e.jpg",
    "first_seen": "2026-11-27T03:17:47.399168+05:30",
-   "last_seen": "2026-11-27T03:17:47.399168+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
    "class": "REJECTED",
    "reason": "No casting/audition signal in text",
    "info": {},
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "eb8084a79630": {
    "id": "eb8084a79630",
@@ -6216,7 +6216,7 @@
    "published": "2026-11-26T11:42:16.000Z",
    "poster": "posters/eb8084a79630.jpg",
    "first_seen": "2026-11-27T03:17:47.399168+05:30",
-   "last_seen": "2026-11-27T03:17:47.399168+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -6224,7 +6224,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "fe4cbeb60a7e": {
    "id": "fe4cbeb60a7e",
@@ -6240,7 +6240,7 @@
    "published": "2026-11-26T13:59:47.000Z",
    "poster": "posters/fe4cbeb60a7e.jpg",
    "first_seen": "2026-11-27T03:17:47.399168+05:30",
-   "last_seen": "2026-11-27T03:17:47.399168+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -6248,7 +6248,7 @@
    },
    "contact": null,
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "69a7fd29a5fc": {
    "id": "69a7fd29a5fc",
@@ -6264,7 +6264,7 @@
    "published": "2026-11-26T11:49:32.000Z",
    "poster": "posters/69a7fd29a5fc.jpg",
    "first_seen": "2026-11-27T03:17:47.399168+05:30",
-   "last_seen": "2026-11-27T03:17:47.399168+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
    "class": "REJECTED",
    "reason": "No child requirement found",
    "info": {
@@ -6272,7 +6272,7 @@
    },
    "contact": "9995009697",
    "notified_class": null,
-   "scans": 1
+   "scans": 2
   },
   "d653d25c54e3": {
    "id": "d653d25c54e3",
@@ -6521,6 +6521,342 @@
    },
    "contact": null,
    "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  "1560a6ad1740": {
+   "id": "1560a6ad1740",
+   "title": "CASTING CALL Looking for Male & Female Actors Age: 16 to 60 years Interested candidates ca",
+   "text": "CASTING CALL\n\nLooking for Male & Female Actors\n\nAge: 16 to 60 years\n\nInterested candidates can share their portfolios at:\n\nEmail: src17casting@gmail.com\n\nWhatsApp: +91 9110564651\n\nIMPORTANT:\n\nStrictly text messages only. No calls, please.\n\nDo not send Instagram Reels.\n\nAUDITION TIMINGS:\n\n10 AM – 1 PM\n\n2 PM – 5 PM\n\nMovie: RC 17\n\nStarring: Ram Charan\nDirector: Sukumar\n\n#thelugu\n#telugubgm #ramcharanforever\nLooking for\nMale & Female Actors\n\ned candidates\nir portfolios at\n\n* ദ Only Text Mossagoo, No Cala ലോ\n\n10 AM - 1PM & 2PM - 5PM",
+   "key": "casting call looking for male  female actors age 16 to 60 years interested candidates can share their portfolios at email src17castinggmailcom whatsapp 91 9110564651 important strictly text messages only no calls please do not send instagram reels audition timings 10 am  1 pm 2 pm  5 pm movie rc 17 starring ram charan director sukumar thelugu telugubgm ramcharanforever looking for male  female actors ed candidates ir portfolios at  ദ only text mossagoo no cala ലോ 10 am  1pm  2pm  5pm",
+   "urls": [
+    "https://www.instagram.com/p/DgPzwRuTBvn/"
+   ],
+   "sources": [
+    "instagram:malayalam_castingcalls"
+   ],
+   "published": "2026-11-27T13:41:00.000Z",
+   "poster": "posters/1560a6ad1740.jpg",
+   "first_seen": "2026-11-28T03:00:36.541644+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "src17casting@gmail.com, +91 9110564651",
+   "notified_class": null,
+   "scans": 1
+  },
+  "9ee0e4d506d5": {
+   "id": "9ee0e4d506d5",
+   "title": "🎬 MALAYALAM CASTING CALLS (MCC) Discovering Talent, Connecting Dreams 🎬 കാസ്റ്റിംഗ് കോൾ | ",
+   "text": "🎬 MALAYALAM CASTING CALLS (MCC)\nDiscovering Talent, Connecting Dreams\n\n🎬 കാസ്റ്റിംഗ് കോൾ | മലയാളം ഷോർട്ട് ഫിലിം 🎬\n\nMagic Frames അവതരിപ്പിക്കുന്ന SiFA – South Indian Film Academy യുടെ സഹകരണത്തിലുള്ള Diploma Short Film-ലേക്ക് അഭിനേതാക്കളെ തേടുന്നു!\n\nആവശ്യമുള്ള കഥാപാത്രങ്ങൾ:\n\n🎭 അച്ഛൻ – പ്രായം 70 വയസ്സ്\n🎭 അമ്മ – പ്രായം 60–65 വയസ്സ്\n🎭 മകൻ – പ്രായം 30 വയസ്സ്\n🎭 ഭാര്യ – പ്രായം 26–28 വയസ്സ്\n🎭 കുട്ടി – പ്രായം 7–10 വയസ്സ്\n\n📍 ഷൂട്ടിംഗ് ലൊക്കേഷൻ: കൊച്ചി\n📅 ഷൂട്ടിംഗ് തീയതികൾ: ഡിസംബർ 28, 29, 30\n\n📩 താൽപ്പര്യമുള്ളവർ നിങ്ങളുടെ പുതിയ ഫോട്ടോകളും ബയോഡാറ്റയും താഴെ നൽകിയിരിക്കുന്ന ഇമെയിൽ വിലാസത്തിലേക്ക് അയക്കുക.\n\nEmail: abhiaabhai@gmail.com\nContact: +91 9947464849\n\nഅനുയോജ്യരായ സുഹൃത്തുക്കളിലേക്കും ഈ പോസ്റ്റ് ഷെയർ ചെയ്യൂ. ❤️\n.\n.\n.\n.\n.\n🎬 MALAYALAM CASTING CALLS (MCC)\nDiscovering Talent, Connecting Dreams\n\n🎬 CASTING CALL | MALAYALAM SHORT FILM 🎬\n\nMagic Frames presents in association with SiFA – South Indian Film Academy.\n\nWe are looking for talented actors for an upcoming Diploma Short Film!\n\nCHARACTERS REQUIRED:\n🎭 Father – Age 70\n🎭 Mother – Age 60–65\n🎭 Son – Age 30\n🎭 Wife – Age 26–28\n🎭 Child – Age 7–10\n\n📍 Shoot Location: Kochi, Kerala\n📅 Shoot Dates: December 28, 29 & 30\n\n📩 Interested candidates can send their recent photographs and resumes to:\nabhiaabhai@gmail.com\n\n📞 Contact: +91 9947464849\n\nIf you fit any of these\n@\n\nWE ARE LOOKING FOR:\n\nFATHER | MOTHER | SON | WIFE | CHILD\n\nAGE: 70 AGE: 60-65 | AGE:30 | AGE:26-28 | AGE:7-10\n\n‘SEND RESUMES & PHOTOS TO\n\nഭൂ SHOOT LOCATION:\nabhaiabhai@gmail.com\n\nSHOOT DATES:\nക്കേ 4൫ (൭൧൪ കൊച്ചി\n\n285028, 29, 30",
+   "key": " malayalam casting calls mcc discovering talent connecting dreams  കാസ്റ്റിംഗ് കോൾ  മലയാളം ഷോർട്ട് ഫിലിം  magic frames അവതരിപ്പിക്കുന്ന sifa  south indian film academy യുടെ സഹകരണത്തിലുള്ള diploma short filmലേക്ക് അഭിനേതാക്കളെ തേടുന്നു ആവശ്യമുള്ള കഥാപാത്രങ്ങൾ  അച്ഛൻ  പ്രായം 70 വയസ്സ്  അമ്മ  പ്രായം 6065 വയസ്സ്  മകൻ  പ്രായം 30 വയസ്സ്  ഭാര്യ  പ്രായം 2628 വയസ്സ്  കുട്ടി  പ്രായം 710 വയസ്സ്  ഷൂട്ടിംഗ് ലൊക്കേഷൻ കൊച്ചി  ഷൂട്ടിംഗ് തീയതികൾ ഡിസംബർ 28 29 30  താൽപ്പര്യമുള്ളവർ നിങ്ങളുടെ പുതിയ ഫോട്ടോകളും ബയോഡാറ്റയും താഴെ നൽകിയിരിക്കുന്ന ഇമെയിൽ വിലാസത്തിലേക്ക് അയക്കുക email abhiaabhaigmailcom contact 91 994746",
+   "urls": [
+    "https://www.instagram.com/p/DgP0OI0TBy4/"
+   ],
+   "sources": [
+    "instagram:malayalam_castingcalls"
+   ],
+   "published": "2026-11-27T13:45:08.000Z",
+   "poster": "posters/9ee0e4d506d5.jpg",
+   "first_seen": "2026-11-28T03:00:36.541644+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": "2026-12-28"
+   },
+   "contact": "abhiaabhai@gmail.com, +91 9947464849, abhaiabhai@gmail.com",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  "ab52ec8ab15d": {
+   "id": "ab52ec8ab15d",
+   "title": "Casting call ✅ . #sea #keralam #malayalamactors #malayalamactorsclub",
+   "text": "Casting call ✅\n\n.\n\n#sea #keralam \n#malayalamactors #malayalamactorsclub\nDream it... Act it... Be a part of our Web Series...\n\nLet’s Create\nSomething\nSpecial...\n\nROLES REQUIRED:\n1 Heroine, 2 Best Friends റ\n\nne | ZERO BUDGET WEB SERIES |\n\nAGE LIMIT:\n\n18 - 26 Years\n\nSHOOT LOCATION:\nBhanikkavu, Sasthamcotta, Kollam, Kerala\n\nPREPE R RED:\nKollam, Sasthamcotta & Nearby Areas\n\nHOW TO APPLY?\n\n@lechu_lechusss | & 7902613871 | DM your interest\n\nProject By: A Passionate Team ()",
+   "key": "casting call   sea keralam malayalamactors malayalamactorsclub dream it act it be a part of our web series lets create something special roles required 1 heroine 2 best friends റ ne  zero budget web series  age limit 18  26 years shoot location bhanikkavu sasthamcotta kollam kerala prepe r red kollam sasthamcotta  nearby areas how to apply lechulechusss   7902613871  dm your interest project by a passionate team ",
+   "urls": [
+    "https://www.instagram.com/p/DgP3VasyizT/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-27T14:13:30.000Z",
+   "poster": "posters/ab52ec8ab15d.jpg",
+   "first_seen": "2026-11-28T03:00:36.541644+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "7902613871",
+   "notified_class": null,
+   "scans": 1
+  },
+  "9347d6d3930c": {
+   "id": "9347d6d3930c",
+   "title": "🎬 പുതിയ മലയാള സിനിമയിലേക്ക് അഭിനേതാക്കളെ തേടുന്നു! 🎬 SPECTRA MOTION PICTURES-ന്റെ പുതിയ മല",
+   "text": "🎬 പുതിയ മലയാള സിനിമയിലേക്ക് അഭിനേതാക്കളെ തേടുന്നു! 🎬\n\nSPECTRA MOTION PICTURES-ന്റെ പുതിയ മലയാള സിനിമയുടെ ചിത്രീകരണം ഉടൻ ആരംഭിക്കുന്നു!\n\nഈ സിനിമയിൽ അഭിനയിക്കാൻ 18 മുതൽ 22 വയസ്സ് വരെ പ്രായമുള്ള ആൺകുട്ടികളെ (Good-Looking) ആവശ്യമുണ്ട്.\n\nസിനിമയിൽ അഭിനയിക്കാൻ താൽപര്യമുള്ളവർ താഴെ കൊടുത്തിരിക്കുന്ന നമ്പറുകളിൽ ബന്ധപ്പെടുക.\n\n📞 73062 00348\n📞 90723 71170\n\n🎬 SPECTRA MOTION PICTURES\n\nWhere Stories Come Alive… ✨\n\n#castingcall #malayalamcinema #actorswanted #auditioncall #keralacasting #malayalammovie #spectramotionpictures #filmaudition #cinemaopportunity #keralafilm\n൭൭൮൬൧\n\nre in\n്ടന്‍ചിതരീകരണം ആദജിക്കുന്ന\n\nചി ക\nസിനിമയിലേക്ക്‌\nകി",
+   "key": " പുതിയ മലയാള സിനിമയിലേക്ക് അഭിനേതാക്കളെ തേടുന്നു  spectra motion picturesന്റെ പുതിയ മലയാള സിനിമയുടെ ചിത്രീകരണം ഉടൻ ആരംഭിക്കുന്നു ഈ സിനിമയിൽ അഭിനയിക്കാൻ 18 മുതൽ 22 വയസ്സ് വരെ പ്രായമുള്ള ആൺകുട്ടികളെ goodlooking ആവശ്യമുണ്ട് സിനിമയിൽ അഭിനയിക്കാൻ താൽപര്യമുള്ളവർ താഴെ കൊടുത്തിരിക്കുന്ന നമ്പറുകളിൽ ബന്ധപ്പെടുക  73062 00348  90723 71170  spectra motion pictures where stories come alive  castingcall malayalamcinema actorswanted auditioncall keralacasting malayalammovie spectramotionpictures filmaudition cinemaopportunity keralafilm ൭൭൮൬൧ re in ്ടന്ചിതരീകരണം ആദജിക്കുന്ന ചി ക സിനിമയിലേക്ക് കി",
+   "urls": [
+    "https://www.instagram.com/p/DgO4yAIMTRE/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-27T05:05:03.000Z",
+   "poster": "posters/9347d6d3930c.jpg",
+   "first_seen": "2026-11-28T03:00:36.541644+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "73062 00348, 90723 71170",
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  "1bdc5f13172d": {
+   "id": "1bdc5f13172d",
+   "title": "🎬 **WE’RE CASTING. Every story begins with an idea, but it comes alive through the people ",
+   "text": "🎬 **WE’RE CASTING.\n\nEvery story begins with an idea, but it comes alive through the people who become part of it.\n\n We’re on the lookout for talented performers! Experienced actors and newcomers alike are welcome to be part of our upcoming cinematic journey.\n\n**Your story might just begin behind our camera.**\n\n📩 DM us to audition",
+   "key": " were casting every story begins with an idea but it comes alive through the people who become part of it were on the lookout for talented performers experienced actors and newcomers alike are welcome to be part of our upcoming cinematic journey your story might just begin behind our camera  dm us to audition",
+   "urls": [
+    "https://www.instagram.com/p/DgKVyclyqwl/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-25T10:43:52.000Z",
+   "poster": null,
+   "first_seen": "2026-11-28T03:00:36.541644+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "e3bf5cc33d42": {
+   "id": "e3bf5cc33d42",
+   "title": "Female 1 - age 18-28 Female 2 - age 30-35 Male - age 25-35 �Child (b/g) - age 10-16 Share ",
+   "text": "Female 1 - age 18-28\nFemale 2 - age 30-35\nMale - age 25-35\n�Child (b/g) - age 10-16\n\nShare your profile containing name, age, location, experience, contact details & recent pictures - @indiafilmcasting @himanshucinema \n\n.\n\n.\n\n.\n\n#CASTING #CASTINGCALL #opencasting #audition #bollywoodauditions\nMale - age 25- Soe\n\nChild (b/g) - age 10- a",
+   "key": "female 1  age 1828 female 2  age 3035 male  age 2535 child bg  age 1016 share your profile containing name age location experience contact details  recent pictures  indiafilmcasting himanshucinema    casting castingcall opencasting audition bollywoodauditions male  age 25 soe child bg  age 10 a",
+   "urls": [
+    "https://www.instagram.com/p/DgJzeipoo17/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-25T05:42:22.000Z",
+   "poster": "posters/e3bf5cc33d42.jpg",
+   "first_seen": "2026-11-28T03:00:36.541644+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
+   "class": "NEEDS REVIEW",
+   "reason": "Kid role mentioned but stated ages may not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": "NEEDS REVIEW",
+   "scans": 1
+  },
+  "686879ad6ef7": {
+   "id": "686879ad6ef7",
+   "title": "A new world. A new story. And maybe, a role that’s waiting for YOU ❤️‍🔥 The casting doors ",
+   "text": "A new world. A new story. And maybe, a role that’s waiting for YOU ❤️‍🔥\n\nThe casting doors are now open for #RC17 🎯\n\nWe’re looking for actors across age groups to be a part of this exciting cinematic journey. \n\nSend in your auditions to src17casting@gmail.com\n📲 WhatsApp: 9110564651\n\n#YouCanImagine #RC2Sukku #SRC\nCASTING\nCALL\n\nLooking for\nMale & Female Actors\n\nAged 16 to 60 years\n\nInterested candidates\ncan share their portfolios at\n\nsrc1/casting@gmail.com\n: ൭ 9110564651\n\n* Strictly Only Text Messages, No Calls Please,\n& Do Not Send Insta Reels\n\nAudition Timings:\n10 AM - 1PM &2PM~-5PM\n\nmesa POWERSTAR maSTER STORVTELLER\nRAM CHARAN SUKUMAR",
+   "key": "a new world a new story and maybe a role thats waiting for you  the casting doors are now open for rc17  were looking for actors across age groups to be a part of this exciting cinematic journey send in your auditions to src17castinggmailcom  whatsapp 9110564651 youcanimagine rc2sukku src casting call looking for male  female actors aged 16 to 60 years interested candidates can share their portfolios at src1castinggmailcom  ൭ 9110564651  strictly only text messages no calls please  do not send insta reels audition timings 10 am  1pm 2pm5pm mesa powerstar master storvteller ram charan sukumar",
+   "urls": [
+    "https://www.instagram.com/p/DgPZU0LS4rT/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-27T09:50:43.000Z",
+   "poster": "posters/686879ad6ef7.jpg",
+   "first_seen": "2026-11-28T03:00:36.541644+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "src17casting@gmail.com, 9110564651, casting@gmail.com",
+   "notified_class": null,
+   "scans": 1
+  },
+  "0ada4e8c2e58": {
+   "id": "0ada4e8c2e58",
+   "title": "🎬 CASTING CALL – PROD 1 | A FEATURE FILM 🎬 Dreaming of being on the big screen? Here's you",
+   "text": "🎬 CASTING CALL – PROD 1 | A FEATURE FILM 🎬\n\nDreaming of being on the big screen? Here's your chance! 🌟\n\nDRUSTI STUDIOS is looking for talented and passionate actors for our upcoming feature film PROD 1.\n\n🎭 ROLES OPEN:\n🔹 Male (25–35 Years)\n🔹 Female (22–28 Years)\n\n✨ Looking for expressive, versatile performers with strong acting skills and screen presence.\n\n📅 Date: 29th November 2026 (Sunday)\n⏰ Time: 10 AM – 6 PM\n📍 Venue: Drusti Studios, Bengaluru\n\n📞 Contact / WhatsApp: 9108908902\n📩 Email: connectwithdrustistudios@gmail.com\n\n🔥 This could be your opportunity to shine on the big screen!\n\nCome, audition and be a part of PROD 1! 🎥\n\n#CastingCall #AuditionCall #PROD1 #FeatureFilm #KannadaCinema KannadaFilm ActorsWanted MaleActors FemaleActors FreshTalent ActingOpportunity BangaloreAuditions Bengaluru DrustiStudios FilmAudition UpcomingMovie",
+   "key": " casting call  prod 1  a feature film  dreaming of being on the big screen heres your chance  drusti studios is looking for talented and passionate actors for our upcoming feature film prod 1  roles open  male 2535 years  female 2228 years  looking for expressive versatile performers with strong acting skills and screen presence  date 29th november 2026 sunday  time 10 am  6 pm  venue drusti studios bengaluru  contact  whatsapp 9108908902  email connectwithdrustistudiosgmailcom  this could be your opportunity to shine on the big screen come audition and be a part of prod 1  castingcall auditio",
+   "urls": [
+    "https://www.instagram.com/p/DgNnR3vN-UJ/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-26T17:12:42.000Z",
+   "poster": null,
+   "first_seen": "2026-11-28T03:00:36.541644+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": "2026-11-29"
+   },
+   "contact": "9108908902, connectwithdrustistudios@gmail.com",
+   "notified_class": null,
+   "scans": 2
+  },
+  "682ada60eadc": {
+   "id": "682ada60eadc",
+   "title": "Casting Call for daily soap . . . #CastingCall #CastingMustazib #Mustazib #CastingDirector",
+   "text": "Casting Call for daily soap \n.\n.\n.\n\n#CastingCall #CastingMustazib #Mustazib #CastingDirector #Mustazibullah Director Filmmaker\nCASTING\nMUSTAZIB\n\nCASTING CALL\n\nWE ARE LOOKING FOR SUITABLE MALE AND FEMALE\nACTORS TO PORTRAY THE LEAD CHARACTERS IN AN\nUPCOMING TELEVISION FICTION SHOW FOR STAR PLUS.\n\nTHE CASTING REQUIREMENT IS FOR PERFORMERS IN\nTHE AGE GROUP OF 21-30 YEARS. WE ARE SEEKING\nINDIVIDUALS WITH STRONG ACTING POTENTIAL, A\nCOMPELLING SCREEN PRESENCE AND THE ABILITY TO\nBRING DEPTH AND AUTHENTICITY TO THEIR\nPERFORMANCES.\n\nACTORS, BOTH FRESHERS AND EXPERIENCED\nPROFESSIONALS, WHO FIT THE ABOVE REQUIREMENTS\nARE INVITED TO SHARE THEIR UPDATED PROFILES,\nRECENT PHOTOGRAPHS AND INTRODUCTION VIDEOS FOR\nCONSIDERATION BY THE CASTING TEAM.\n\n~\n\nStarPlus\n\nTHINK IT’S YOU? SEND PROFILE\nON WHATSAPP +91 99874 31323\n\n& SHARE THIS POST WITH YOUR ACTOR FRIENDS!",
+   "key": "casting call for daily soap    castingcall castingmustazib mustazib castingdirector mustazibullah director filmmaker casting mustazib casting call we are looking for suitable male and female actors to portray the lead characters in an upcoming television fiction show for star plus the casting requirement is for performers in the age group of 2130 years we are seeking individuals with strong acting potential a compelling screen presence and the ability to bring depth and authenticity to their performances actors both freshers and experienced professionals who fit the above requirements are invi",
+   "urls": [
+    "https://www.instagram.com/p/DgMsFUrMgJn/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-26T08:35:26.000Z",
+   "poster": "posters/682ada60eadc.jpg",
+   "first_seen": "2026-11-28T03:00:36.541644+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": null
+   },
+   "contact": "+91 99874 31323",
+   "notified_class": null,
+   "scans": 1
+  },
+  "65bbe7712b4d": {
+   "id": "65bbe7712b4d",
+   "title": "**CASTING CALL | PHOTO EDITING APP CAMPAIGN** We're looking for a lovely mother-daughter d",
+   "text": "**CASTING CALL | PHOTO EDITING APP CAMPAIGN**\n\nWe're looking for a lovely mother-daughter duo for an upcoming digital film for the U.S. market.\n\n✨ **MOTHER (27–35 years)**\nNatural, warm, relatable, expressive and effortlessly charming. American-looking appearance preferred.\n\n✨ **DAUGHTER (4–6 years)**\nBright, playful, curious and naturally expressive.\n\n**CASTING PREFERENCE:** White / Caucasian American-looking talent.\n\n📍 **Location:** Bangalore \n📅 **Shoot Window:** 6th–8th December 2026 \n🎬 **Duration:** 1 Day\n\n✈️ Ready to fly actors down from other cities within India.\n\n**HOW TO APPLY:**\n\nSubmissions are ONLY accepted via Google Form.\n\n🔗 Check out the link in bio or comment **LINK** for a personal DM with the registration link.\n\nPlease ensure your profiles are submitted through the Google Form to be considered.\n\n#CastingCall #CastingIndia #BangaloreCasting #CastingAudition #MumbaiCasting\nCASTING\nCALL as\n\n.\nആയ PHOTO EDITING APP CAMPAIGN\n\nDIGITAL FILM « U.S. MARKET\n\nAmerican leoking mom with playful little girl who feels\nan expressive face . . 1\na genuine, playful spirit. at home in an American family.\n\nCASTING PREFERENCE:\nWHITE/CAUCASIAN AMERICAN LOOKING\n\nLat enon, | DURATION | LOCATION\nDECEMBER 1 DAY BANGALORE\n\nSY READY TO FLY ACTORS DOWN FROM OTHER CITIES WITHIN INDIA\n\nMOTHER (CASEY) DAUGHTER\n27-35 YEARS AN 4-6 YEARS\nA natural, warm and relatable A bright, expressive and\n\n| SUBMISSIONS ONLY ACCEPTED VIA\n\nGOOGLE FORM\n\nCHECK OUT THE LINK IN BIO OR COMMENT 1111 FOR A PERSONAL DM",
+   "key": "casting call  photo editing app campaign were looking for a lovely motherdaughter duo for an upcoming digital film for the us market  mother 2735 years natural warm relatable expressive and effortlessly charming americanlooking appearance preferred  daughter 46 years bright playful curious and naturally expressive casting preference white  caucasian americanlooking talent  location bangalore  shoot window 6th8th december 2026  duration 1 day  ready to fly actors down from other cities within india how to apply submissions are only accepted via google form  check out the link in bio or comment ",
+   "urls": [
+    "https://www.instagram.com/p/DgMPxuFgmpg/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-26T04:30:02.000Z",
+   "poster": "posters/65bbe7712b4d.jpg",
+   "first_seen": "2026-11-28T03:00:36.541644+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
+   "class": "REJECTED",
+   "reason": "Age requirement does not fit",
+   "info": {
+    "deadline": "2026-12-08"
+   },
+   "contact": null,
+   "notified_class": null,
+   "scans": 1
+  },
+  "074b3d5f7003": {
+   "id": "074b3d5f7003",
+   "title": "Theeyarangu Bangalore is proud to announce auditions for our first short film, Production ",
+   "text": "Theeyarangu Bangalore is proud to announce auditions for our first short film, Production 01.\n\nIf you are an actor in Bengaluru looking to be part of a fresh storytelling initiative from the ground up, come audition for us.\n\nDecember 13, 2026 | 9:00 AM\n38, Village, 2nd Main Rd, Bahubali Nagar, Bengaluru\n\nSlots are limited. Register through the link below to confirm your spot before the audition date, and feel free to share this with fellow artists.\n\nRegistration Form Link - https://forms.gle/hgToDhPuH3Ny6qRf8\n\n#Theeyarangu #TheeyaranguBangalore #ShortFilmAuditions #BangaloreTheatre #MalayalamShortFilm #CastingCallIndia #BengaluruArtists #ActingAuditions\nTHEEVARANGU BANGALORE\nPRESENTS\n\nPRODUCTIO\n\nA SHORT FILM\n\nWRITTEN BY: Suresh Palkulangara\nDIRECTED BY: Renjith\n\nCO-DIRECTED BY: Abhishek R\n\nAUDITION CALL ===>\n\nSCENE | TAKE | RO ക്ക്‌\n\nDate of audition - 13th Dec 2026 as\n(© | Time of audition is: 9:00 AM 07ന്‌\n൭ Venue : 38, Village, 2nd Main Rd, Sa. ഹ്‌,\nBahubali-Nagar, Bengaluru 560013 _ Se ത്ത\nര 110580 have secured a\n& All are welcome t slot nar at the\n- location ‘on time.\ndividuals attending the\naudition must not consume\niG) Instagram: instagram.com/theeyarangubangalore alcohol or any other\nintoxicating substances.\n(3) WhatsApp: +91 7892591681\n. ; © No 1005-00 4H kind are\n= e-Mail: theeyarangu@gmail.com charged fort e audition.",
+   "key": "theeyarangu bangalore is proud to announce auditions for our first short film production 01 if you are an actor in bengaluru looking to be part of a fresh storytelling initiative from the ground up come audition for us december 13 2026  900 am 38 village 2nd main rd bahubali nagar bengaluru slots are limited register through the link below to confirm your spot before the audition date and feel free to share this with fellow artists registration form link  httpsformsglehgtodhpuh3ny6qrf8 theeyarangu theeyarangubangalore shortfilmauditions bangaloretheatre malayalamshortfilm castingcallindia beng",
+   "urls": [
+    "https://www.instagram.com/p/DgH0rWwCmu4/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-24T11:14:25.000Z",
+   "poster": "posters/074b3d5f7003.jpg",
+   "first_seen": "2026-11-28T03:00:36.541644+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": "2026-12-13"
+   },
+   "contact": "+91 7892591681, theeyarangu@gmail.com",
+   "notified_class": null,
+   "scans": 1
+  },
+  "bf52d96caf68": {
+   "id": "bf52d96caf68",
+   "title": "വെറൈറ്റി വില്ലന്മാർ സ്റ്റോക്ക് ഉണ്ട് വ്യത്യസ്തമായ രൂപവും ഭാവവും അഭിനയശേഷിയുമുള്ള ഒരുപാട് മ",
+   "text": "വെറൈറ്റി വില്ലന്മാർ സ്റ്റോക്ക് ഉണ്ട് \n\nവ്യത്യസ്തമായ രൂപവും ഭാവവും അഭിനയശേഷിയുമുള്ള ഒരുപാട് മുഖങ്ങൾ ഞങ്ങളുടെ കളക്ഷനിലുണ്ട്.\n\nCasting by ArunSol cinema company\n📍 Trivandrum, Kerala\n📞 9995078006\n\n#arunsolcastingcompany\n#malayalamcinema\n#castingcall\n#castingcallkerala\nഞി\nലിലമമാ൪\nസ്റ്ോക്കുങ്്‌\n\n11",
+   "key": "വെറൈറ്റി വില്ലന്മാർ സ്റ്റോക്ക് ഉണ്ട് വ്യത്യസ്തമായ രൂപവും ഭാവവും അഭിനയശേഷിയുമുള്ള ഒരുപാട് മുഖങ്ങൾ ഞങ്ങളുടെ കളക്ഷനിലുണ്ട് casting by arunsol cinema company  trivandrum kerala  9995078006 arunsolcastingcompany malayalamcinema castingcall castingcallkerala ഞി ലിലമമാ൪ സ്റ്ോക്കുങ്് 11",
+   "urls": [
+    "https://www.instagram.com/p/DgP5Gh3tQMS/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-27T14:29:45.000Z",
+   "poster": "posters/bf52d96caf68.jpg",
+   "first_seen": "2026-11-28T03:00:36.541644+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": "9995078006",
+   "notified_class": null,
+   "scans": 1
+  },
+  "db180ae41c5f": {
+   "id": "db180ae41c5f",
+   "title": "Casting call.... 7559897166 കൊണയടിക്കുന്ന ആ ഒരു friend നെ ഒന്ന് മെൻഷൻ ചെയ്‌തോ #castingcall",
+   "text": "Casting call.... 7559897166\n\nകൊണയടിക്കുന്ന ആ ഒരു friend നെ ഒന്ന് മെൻഷൻ ചെയ്‌തോ \n\n#castingcall #shorts #virel\n61010} 10938\nഅഭിനയ രിക്കാന്‍ കഴിരുനന\namma\n\n~ Male Artist\n\nmm 100)03678..\n\nമറ്റുള്ളവരെ തമ്മില്‍ കാണ\nറി വല കഴിവുള്ള\n\n2 90 അല്ലെങ്കില്‍ തനെ\n\nചലിച്ച്‌ തോല്‍ഭിക്കാന്‍\n\nവിലെ വായ 4\n\ngp വശ്യമുണ്ട.\n\n| _ താല്പര്യം ഉള്ളവര്‍\nഉടന്‍ ബന്ധദ്പെടുക",
+   "key": "casting call 7559897166 കൊണയടിക്കുന്ന ആ ഒരു friend നെ ഒന്ന് മെൻഷൻ ചെയ്തോ castingcall shorts virel 61010 10938 അഭിനയ രിക്കാന് കഴിരുനന amma  male artist mm 10003678 മറ്റുള്ളവരെ തമ്മില് കാണ റി വല കഴിവുള്ള 2 90 അല്ലെങ്കില് തനെ ചലിച്ച് തോല്ഭിക്കാന് വിലെ വായ 4 gp വശ്യമുണ്ട   താല്പര്യം ഉള്ളവര് ഉടന് ബന്ധദ്പെടുക",
+   "urls": [
+    "https://www.instagram.com/p/DgPkgsMhOky/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-27T11:27:01.000Z",
+   "poster": "posters/db180ae41c5f.jpg",
+   "first_seen": "2026-11-28T03:00:36.541644+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": "7559897166",
+   "notified_class": null,
+   "scans": 1
+  },
+  "1080f714650a": {
+   "id": "1080f714650a",
+   "title": "Casting call for cochin folks! 🙏🏻❤️ Here our production no:03 on cards. For more details l",
+   "text": "Casting call for cochin folks! 🙏🏻❤️\n\nHere our production no:03 on cards. \n\nFor more details let us know down:) \n\n#kochi #ernakulam #malayalamcastingcall #castingcall keralatalents",
+   "key": "casting call for cochin folks  here our production no03 on cards for more details let us know down kochi ernakulam malayalamcastingcall castingcall keralatalents",
+   "urls": [
+    "https://www.instagram.com/p/DgKtReECybu/"
+   ],
+   "sources": [
+    "hashtag:#tag"
+   ],
+   "published": "2026-11-25T14:09:45.000Z",
+   "poster": null,
+   "first_seen": "2026-11-28T03:00:36.541644+05:30",
+   "last_seen": "2026-11-28T03:00:36.541644+05:30",
+   "class": "REJECTED",
+   "reason": "No child requirement found",
+   "info": {
+    "deadline": null
+   },
+   "contact": null,
+   "notified_class": null,
    "scans": 1
   }
  },
@@ -7505,6 +7841,26 @@
     }
    },
    "new": 15,
+   "emailed": true,
+   "health": "ok"
+  },
+  {
+   "time": "2026-11-28T03:00:36.541644+05:30",
+   "sources": {
+    "instagram": {
+     "ok": true,
+     "count": 12
+    },
+    "hashtags": {
+     "ok": true,
+     "count": 40
+    },
+    "search": {
+     "ok": true,
+     "count": 0
+    }
+   },
+   "new": 14,
    "emailed": true,
    "health": "ok"
   }
